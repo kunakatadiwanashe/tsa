@@ -1,61 +1,54 @@
-import * as Device from 'expo-device';
-import { Platform, StyleSheet } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
-
-import { AnimatedIcon } from '@/components/animated-icon';
-import { HintRow } from '@/components/hint-row';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
-import { WebBadge } from '@/components/web-badge';
-import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
-
-function getDevMenuHint() {
-  if (Platform.OS === 'web') {
-    return <ThemedText type="small">use browser devtools</ThemedText>;
-  }
-  if (Device.isDevice) {
-    return (
-      <ThemedText type="small">
-        shake device or press <ThemedText type="code">m</ThemedText> in terminal
-      </ThemedText>
-    );
-  }
-  const shortcut = Platform.OS === 'android' ? 'cmd+m (or ctrl+m)' : 'cmd+d';
-  return (
-    <ThemedText type="small">
-      press <ThemedText type="code">{shortcut}</ThemedText>
-    </ThemedText>
-  );
-}
+import { BottomTabInset, Spacing } from '@/constants/theme';
+import { useState } from 'react';
+import { Image, StyleSheet, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { HYMNS } from "../../data/hymns";
+import { Hymn } from '../../data/types';
+import HymnList from "../components/HymnList";
+import { useLanguage } from '../context/LanguageContext';
 
 export default function HomeScreen() {
+  const { lang, setLang } = useLanguage();
+  const [search, setSearch] = useState("");
+  const [category, setCategory] = useState("All");
+
+  const filtered: Hymn[] = HYMNS.filter((h) => {
+    const data = (h[lang as 'en' | 'sn' | 'nd'] as any);
+    return (
+      (data as any).title.toLowerCase().includes(search.toLowerCase()) &&
+      (category === "All" || h.category === category)
+    );
+  });
+
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea}>
-        <ThemedView style={styles.heroSection}>
-          <AnimatedIcon />
-          <ThemedText type="title" style={styles.title}>
-            Welcome to&nbsp;Expo
+        {/* Logo + Title */}
+        <View style={styles.header}>
+          <Image
+            source={require("../../assets/images/logo.png")}
+            style={styles.logo}
+            resizeMode="contain"
+          />
+          <ThemedText type="subtitle" style={styles.title}>
+            The Salvation Army Hymn Book
           </ThemedText>
-        </ThemedView>
+        </View>
 
-        <ThemedText type="code" style={styles.code}>
-          get started
-        </ThemedText>
-
-        <ThemedView type="backgroundElement" style={styles.stepContainer}>
-          <HintRow
-            title="Try editing"
-            hint={<ThemedText type="code">src/app/index.tsx</ThemedText>}
+        {/* Hymn List */}
+        <View style={styles.listContainer}>
+          <HymnList
+            hymns={filtered}
+            lang={lang}
+            search={search}
+            setSearch={setSearch}
+            category={category}
+            setCategory={setCategory}
+            setLang={setLang}
           />
-          <HintRow title="Dev tools" hint={getDevMenuHint()} />
-          <HintRow
-            title="Fresh start"
-            hint={<ThemedText type="code">npm run reset-project</ThemedText>}
-          />
-        </ThemedView>
-
-        {Platform.OS === 'web' && <WebBadge />}
+        </View>
       </SafeAreaView>
     </ThemedView>
   );
@@ -64,35 +57,33 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    flexDirection: 'row',
+    backgroundColor: '#f5f5f5',
   },
   safeArea: {
     flex: 1,
     paddingHorizontal: Spacing.four,
     alignItems: 'center',
-    gap: Spacing.three,
     paddingBottom: BottomTabInset + Spacing.three,
-    maxWidth: MaxContentWidth,
   },
-  heroSection: {
+  header: {
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    flex: 1,
-    paddingHorizontal: Spacing.four,
-    gap: Spacing.four,
+    marginVertical: Spacing.four,
+    gap: Spacing.two,
+  },
+  logo: {
+    width: 60,
+    height: 60,
   },
   title: {
+    fontSize: 22,
+    fontWeight: '600',
     textAlign: 'center',
+    color: '#333', // subtle dark text
   },
-  code: {
-    textTransform: 'uppercase',
-  },
-  stepContainer: {
-    gap: Spacing.three,
-    alignSelf: 'stretch',
-    paddingHorizontal: Spacing.three,
-    paddingVertical: Spacing.four,
-    borderRadius: Spacing.four,
+  listContainer: {
+    flex: 1,
+    width: '100%',
   },
 });

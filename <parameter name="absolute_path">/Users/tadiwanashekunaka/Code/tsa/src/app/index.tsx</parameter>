@@ -1,0 +1,57 @@
+<parameter name="content">import { ThemedText } from '@/components/themed-text';
+import { ThemedView } from '@/components/themed-view';
+import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
+import { useState } from 'react';
+import { StyleSheet, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { HYMNS } from "../../data/hymns";
+import HymnList from "../components/HymnList";
+import { useLanguage } from '../../context/LanguageContext';
+
+export default function HomeScreen() {
+  const { lang, setLang } = useLanguage();
+  const [search, setSearch ] = useState("");
+  const [category, setCategory] = useState("All");
+
+  const filtered: Hymn[] = HYMNS.filter((h) => {
+    const data = h[lang];
+    return (
+      data.title.toLowerCase().includes(search.toLowerCase()) &&
+      (category === "All" || h.category === category)
+    );
+  });
+  return (
+    <ThemedView style={styles.container}>
+      <SafeAreaView style={styles.safeArea}>
+        <ThemedText type="title">TSA Hymns</ThemedText>
+        <View style={{ flex: 1 }}>
+          <HymnList
+            hymns={filtered}
+            lang={lang}
+            search={search}
+            setSearch={setSearch}
+            category={category}
+            setCategory={setCategory}
+            setLang={setLang}
+          />
+        </View>
+      </SafeAreaView>
+    </ThemedView>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    flexDirection: 'row',
+  },
+  safeArea: {
+    flex: 1,
+    paddingHorizontal: Spacing.four,
+    alignItems: 'center',
+    gap: Spacing.three,
+    paddingBottom: BottomTabInset + Spacing.three,
+    maxWidth: MaxContentWidth,
+  },
+});</parameter>
