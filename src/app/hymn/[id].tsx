@@ -1,8 +1,9 @@
+import BackButton from '@/components/BackButton';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Spacing } from '@/constants/theme';
-import { Link, useLocalSearchParams } from "expo-router";
-import { ScrollView, Pressable } from "react-native";
+import { useLocalSearchParams } from "expo-router";
+import { ScrollView } from "react-native";
 import { HYMNS } from "../../../data/hymns";
 import type { Language } from "../../../data/types";
 import { useLanguage } from '../../context/LanguageContext';
@@ -12,15 +13,13 @@ export default function HymnDetail() {
   const { lang } = useLanguage();
   const effectiveLang = (params.lang as Language) || lang;
 
-  const hymnId = Number(params.id as string);
-  const hymn = HYMNS.find((h) => h.id === hymnId);
+  const hymnId = Number(params.id);
+  const hymn = HYMNS.find((h: any) => h.id === hymnId);
 
   if (!hymn) return (
     <ThemedView style={styles.center}>
       <ThemedText>Hymn not found</ThemedText>
-      <Link href="/">
-        <ThemedText type="link">Back to Home</ThemedText>
-      </Link>
+      <BackButton />
     </ThemedView>
   );
 
@@ -29,17 +28,15 @@ export default function HymnDetail() {
   return (
     <ScrollView style={styles.container}>
       <ThemedView style={styles.header}>
-        <Link href="/" style={styles.back}>
-          <ThemedText>← Back</ThemedText>
-        </Link>
+        <BackButton />
         <ThemedText type="title">{data.title}</ThemedText>
         <ThemedText type="small">{hymn.number} | {hymn.category}</ThemedText>
       </ThemedView>
 
-      {data.verses.map((v) => (
+      {(data.verses as any[]).map((v) => (
         <ThemedView key={v.num} style={styles.verse}>
           <ThemedText type="subtitle">Verse {v.num}</ThemedText>
-          {v.lines.map((line, i) => (
+          {(v.lines as string[]).map((line, i) => (
             <ThemedText key={i} style={styles.line}>{line}</ThemedText>
           ))}
         </ThemedView>
@@ -48,7 +45,7 @@ export default function HymnDetail() {
       {data.chorus && (
         <ThemedView style={styles.chorus}>
           <ThemedText type="subtitle">Chorus</ThemedText>
-          {data.chorus.lines.map((line, i) => (
+          {(data.chorus!.lines as string[]).map((line, i) => (
             <ThemedText key={i} style={styles.line}>{line}</ThemedText>
           ))}
         </ThemedView>
@@ -65,9 +62,6 @@ const styles = {
     gap: Spacing.two,
     marginBottom: Spacing.four,
   },
-  back: {
-    // Inline
-  },
   center: {
     flex: 1,
     justifyContent: 'center',
@@ -83,10 +77,9 @@ const styles = {
     marginTop: Spacing.three,
     padding: Spacing.two,
   },
-line: {
+  line: {
     marginVertical: Spacing.one,
     fontSize: 18,
     lineHeight: 1.8,
   },
 } as const;
-

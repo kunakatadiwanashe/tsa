@@ -1,9 +1,8 @@
 import { Spacing } from "@/constants/theme";
-import React from "react";
-import { StyleSheet, Text, View } from "react-native";
-import { Hymn, Language } from "../../data/types";
-import { Pressable } from "react-native";
 import { router } from "expo-router";
+import React from "react";
+import { Pressable, StyleSheet, Text, View } from "react-native";
+import { Hymn, Language } from "../../data/types";
 
 interface Props {
   hymn: Hymn;
@@ -16,17 +15,15 @@ export function HymnCard({ hymn, lang }: Props) {
   return (
     <Pressable
       style={styles.card}
-      onPress={() => router.push(`/hymn/${hymn.id}?lang=${lang}`)}
+      onPress={() => {
+  router.navigate(`/hymn/${hymn.id}?lang=${lang}`);
+}}
     >
       <View style={styles.header}>
         <Text style={styles.number}>{hymn.id}</Text>
-        <View>
-          <Text style={styles.title} numberOfLines={2}>
-            {data.title}
-          </Text>
-          <Text style={styles.category}>{hymn.category}</Text>
-        </View>
+        <Text style={styles.title} numberOfLines={2}>{data.title}</Text>
       </View>
+      <Text style={styles.category}>{hymn.category}</Text>
     </Pressable>
   );
 }

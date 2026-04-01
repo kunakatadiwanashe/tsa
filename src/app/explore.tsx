@@ -4,6 +4,7 @@ import React from 'react';
 import { Platform, Pressable, ScrollView, StyleSheet } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import BackButton from '@/components/BackButton';
 import { ExternalLink } from '@/components/external-link';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
@@ -40,6 +41,7 @@ export default function TabTwoScreen() {
       contentContainerStyle={[styles.contentContainer, contentPlatformStyle]}>
       <ThemedView style={styles.container}>
         <ThemedView style={styles.titleContainer}>
+          <BackButton />
           <ThemedText type="subtitle">Explore</ThemedText>
           <ThemedText style={styles.centerText} themeColor="textSecondary">
             This starter app includes example{'\n'}code to help you get started.
@@ -104,7 +106,7 @@ export default function TabTwoScreen() {
             <ThemedText type="small">
               This template has light and dark mode support. The{' '}
               <ThemedText type="code">useColorScheme()</ThemedText> hook lets you inspect what the
-              user&apos;s current color scheme is, and so you can adjust UI colors accordingly.
+              user's current color scheme is, and so you can adjust UI colors accordingly.
             </ThemedText>
             <ExternalLink href="https://docs.expo.dev/develop/user-interface/color-themes/">
               <ThemedText type="linkPrimary">Learn more</ThemedText>

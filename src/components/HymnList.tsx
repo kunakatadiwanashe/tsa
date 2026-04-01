@@ -24,7 +24,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
 
   return (
     <ThemedView style={styles.container}>
-      
+
       {/* Controls: search + language + category */}
       <View style={styles.controls}>
         <TextInput
@@ -45,14 +45,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
         data={hymns}
         keyExtractor={(item) => item.id.toString()}
         renderItem={({ item }) => (
-          <TouchableOpacity
-            activeOpacity={0.7}
-            onPress={() =>
-              router.push(`/hymn/${item.id}?lang=${lang}`)
-            }
-          >
-            <HymnCard hymn={item} lang={lang} />
-          </TouchableOpacity>
+          <HymnCard hymn={item} lang={lang} />
         )}
         style={styles.list}
         contentContainerStyle={{ paddingBottom: Spacing.four }}
@@ -68,7 +61,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 10,
     width: '100%',
-    
+
   },
   controls: {
     gap: Spacing.three,
