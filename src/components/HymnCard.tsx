@@ -15,15 +15,7 @@ export function HymnCard({ hymn, lang }: Props) {
   return (
     <Pressable
       style={styles.card}
-      onPress={() => {
-        router.push({
-          pathname: `/hymn/[id]`,
-          params: {
-            id: hymn.id.toString(),
-            lang
-          }
-        });
-      }}
+ 
     >
       <View style={styles.header}>
         <Text style={styles.number}>{hymn.id}</Text>

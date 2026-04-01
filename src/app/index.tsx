@@ -1,8 +1,6 @@
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
 import { BottomTabInset, Spacing } from '@/constants/theme';
 import { useState } from 'react';
-import { Image, StyleSheet, View } from 'react-native';
+import { Image, StyleSheet, View,Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { HYMNS } from "../../data/hymns";
 import { Hymn } from '../../data/types';
@@ -23,20 +21,18 @@ export default function HomeScreen() {
   });
 
   return (
-    <ThemedView style={styles.container}>
+    <View style={styles.container}>
       <SafeAreaView style={styles.safeArea}>
-     
         <View style={styles.header}>
           <Image
             source={require("../../assets/images/logo.png")}
             style={styles.logo}
             resizeMode="contain"
           />
-          <ThemedText type="subtitle" style={styles.title}>
+          <Text style={styles.title}>
             The Salvation Army Hymn Book
-          </ThemedText>
+          </Text>
         </View>
-      
         <View>
           <HymnList
             hymns={filtered}
@@ -49,7 +45,7 @@ export default function HomeScreen() {
           />
         </View>
       </SafeAreaView>
-    </ThemedView>
+    </View>
   );
 }
 

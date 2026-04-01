@@ -7,7 +7,7 @@ import { Hymn, Language } from '../../data/types';
 import { CategoryFilter } from './CategoryFilter';
 import { HymnCard } from './HymnCard';
 import LanguageSelector from './LanguageSelector';
-import { ThemedView } from './themed-view';
+
 
 interface Props {
   hymns: Hymn[];
@@ -23,7 +23,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
   const categories = Array.from(new Set(hymns.map(h => h.category)));
 
   return (
-    <ThemedView style={styles.container}>
+    <View style={styles.container}>
 
       {/* Controls: search + language + category */}
       <View style={styles.controls}>
@@ -39,8 +39,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
           <CategoryFilter categories={categories} category={category} setCategory={setCategory} />
         </View>
       </View>
-
-      {/* Hymn List */}
+     
       <FlatList
         data={hymns}
         keyExtractor={(item) => item.id.toString()}
@@ -52,7 +51,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
         showsVerticalScrollIndicator={false}
       />
 
-    </ThemedView>
+    </View>
   );
 }
 

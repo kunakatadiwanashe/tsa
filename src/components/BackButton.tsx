@@ -1,8 +1,7 @@
 import { router, useRouter } from 'expo-router';
 import React from 'react';
-import { ThemedText } from './themed-text';
-import { ThemedView } from './themed-view';
 import { Spacing } from '@/constants/theme';
+import { Text, View } from 'react-native';
 
 export default function BackButton() {
   const routerInstance = useRouter();
@@ -16,8 +15,8 @@ export default function BackButton() {
   };
 
   return (
-    <ThemedView style={{ flexDirection: 'row', alignItems: 'center', gap: Spacing.one }}>
-      <ThemedText onPress={handleBack} type="link">← Back</ThemedText>
-    </ThemedView>
+    <View style={{ flexDirection: 'row', alignItems: 'center', gap: Spacing.one }}>
+      <Text onPress={handleBack} >← Back</Text>
+    </View>
   );
 }

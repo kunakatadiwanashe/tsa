@@ -1,20 +1,18 @@
 import BackButton from '@/components/BackButton';
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
 import { Spacing } from '@/constants/theme';
 import React from 'react';
-import { View, StyleSheet, Image, Linking, TouchableOpacity } from 'react-native';
+import { Text,View, StyleSheet, Image, Linking, TouchableOpacity } from 'react-native';
 
 const About = () => {
   return (
-    <ThemedView style={styles.container}>
+    <View style={styles.container}>
 
       {/* Header */}
       <View style={styles.header}>
         <BackButton />
-        <ThemedText type="title" style={styles.title}>
+        <Text style={styles.title}>
           About
-        </ThemedText>
+        </Text>
       </View>
 
       {/* App Logo */}
@@ -23,33 +21,33 @@ const About = () => {
           source={require('@/assets/images/logo.png')} 
           style={styles.logo}
         />
-        <ThemedText type="subtitle" style={styles.appName}>
+        <Text style={styles.appName}>
           Salvation Army Hymn Book
-        </ThemedText>
+        </Text>
       </View>
 
       {/* Description */}
-      <ThemedText style={styles.description}>
+      <Text style={styles.description}>
         Access Salvation Army hymns in English, Shona, and Ndebele with ease. Developed by Kun Technologies.
-      </ThemedText>
+      </Text>
       
             <View style={styles.card}>
-        <ThemedText style={styles.cardTitle}>Copyright</ThemedText>
-        <ThemedText style={styles.cardText}>
+        <Text style={styles.cardTitle}>Copyright</Text>
+        <Text style={styles.cardText}>
           All hymns are the property of The Salvation Army Zimbabwe.
-        </ThemedText>
+        </Text>
       </View>
 
       {/* Section Cards */}
       <View style={styles.card}>
-        <ThemedText style={styles.cardTitle}>Developer</ThemedText>
+        <Text style={styles.cardTitle}>Developer</Text>
         <TouchableOpacity onPress={() => Linking.openURL('https://kuntech.co.zw')}>
-          <ThemedText style={[styles.cardText, styles.link]}>Kun Technologies</ThemedText>
+          <Text style={[styles.cardText, styles.link]}>Kun Technologies</Text>
         </TouchableOpacity>
                 <TouchableOpacity onPress={() => Linking.openURL('mailto:kunakatadiwanashe@gmail.com')}>
-          <ThemedText style={[styles.cardText, styles.link]}>
+          <Text style={[styles.cardText, styles.link]}>
             kunakatadiwanashe@gmail.com
-          </ThemedText>
+          </Text>
         </TouchableOpacity>
       </View>
 
@@ -57,8 +55,8 @@ const About = () => {
 
 
       {/* Footer */}
-      <ThemedText style={styles.footer}>Version 1.0.0</ThemedText>
-    </ThemedView>
+      <Text style={styles.footer}>Version 1.0.0</Text>
+    </View>
   );
 };
 

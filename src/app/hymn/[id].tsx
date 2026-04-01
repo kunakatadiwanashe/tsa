@@ -1,12 +1,12 @@
 import BackButton from '@/components/BackButton';
-import { ThemedText } from '@/components/themed-text';
-import { ThemedView } from '@/components/themed-view';
+
 import { Spacing } from '@/constants/theme';
 import { useLocalSearchParams } from "expo-router";
 import { ScrollView } from "react-native";
 import { HYMNS } from "../../../data/hymns";
 import type { Language } from "../../../data/types";
 import { useLanguage } from '../../context/LanguageContext';
+import { StyleSheet, Text, View } from 'react-native';
 
 export default function HymnDetail() {
   const params = useLocalSearchParams<{ id: string; lang?: Language }>();
@@ -17,38 +17,38 @@ export default function HymnDetail() {
   const hymn = HYMNS.find((h: any) => h.id === hymnId);
 
   if (!hymn) return (
-    <ThemedView style={styles.center}>
-      <ThemedText>Hymn not found</ThemedText>
+    <View style={styles.center}>
+      <Text>Hymn not found</Text>
       <BackButton />
-    </ThemedView>
+    </View>
   );
 
   const data = hymn[effectiveLang];
 
   return (
     <ScrollView style={styles.container}>
-      <ThemedView style={styles.header}>
+      <View style={styles.header}>
         <BackButton />
-        <ThemedText type="title">{data.title}</ThemedText>
-        <ThemedText type="small">{hymn.number} | {hymn.category}</ThemedText>
-      </ThemedView>
+        <Text>{data.title}</Text>
+        <Text>{hymn.number} | {hymn.category}</Text>
+      </View>
 
       {(data.verses as any[]).map((v) => (
-        <ThemedView key={v.num} style={styles.verse}>
-          <ThemedText type="subtitle">Verse {v.num}</ThemedText>
+        <View key={v.num} style={styles.verse}>
+          <Text>Verse {v.num}</Text>
           {(v.lines as string[]).map((line, i) => (
-            <ThemedText key={i} style={styles.line}>{line}</ThemedText>
+            <Text key={i} style={styles.line}>{line}</Text>
           ))}
-        </ThemedView>
+        </View>
       ))}
 
       {data.chorus && (
-        <ThemedView style={styles.chorus}>
-          <ThemedText type="subtitle">Chorus</ThemedText>
+        <View style={styles.chorus}>
+          <Text>Chorus</Text>
           {(data.chorus!.lines as string[]).map((line, i) => (
-            <ThemedText key={i} style={styles.line}>{line}</ThemedText>
+            <Text key={i} style={styles.line}>{line}</Text>
           ))}
-        </ThemedView>
+        </View>
       )}
     </ScrollView>
   );
