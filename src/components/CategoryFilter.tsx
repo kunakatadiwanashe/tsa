@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
     flexWrap: 'wrap', 
-    gap: Spacing.one,
+    paddingRight: Spacing.two,
   },
   button: {
     paddingHorizontal: Spacing.three,

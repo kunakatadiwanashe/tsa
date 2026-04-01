@@ -25,7 +25,7 @@ export default function HomeScreen() {
   return (
     <ThemedView style={styles.container}>
       <SafeAreaView style={styles.safeArea}>
-        {/* Logo + Title */}
+     
         <View style={styles.header}>
           <Image
             source={require("../../assets/images/logo.png")}
@@ -70,18 +70,20 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    marginVertical: Spacing.four,
-    gap: Spacing.two,
+    paddingLeft:40,
+    paddingRight:40,
+    paddingBottom:20,
   },
   logo: {
     width: 60,
     height: 60,
   },
   title: {
-    fontSize: 22,
+    fontSize: 24,
     fontWeight: '600',
     textAlign: 'center',
-    color: '#333', // subtle dark text
+    color: '#333', 
+    lineHeight: 28,
   },
   listContainer: {
     flex: 1,
