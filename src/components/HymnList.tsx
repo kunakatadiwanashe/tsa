@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     flex: 1,
     padding: 10,
     width: '100%',
-    backgroundColor: "#ae6363",
+    
   },
   controls: {
     gap: Spacing.three,

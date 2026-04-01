@@ -2,16 +2,17 @@ import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Spacing } from '@/constants/theme';
 import { Link, useLocalSearchParams } from "expo-router";
-import { ScrollView } from "react-native";
+import { ScrollView, Pressable } from "react-native";
 import { HYMNS } from "../../../data/hymns";
 import type { Language } from "../../../data/types";
 import { useLanguage } from '../../context/LanguageContext';
 
 export default function HymnDetail() {
+  const params = useLocalSearchParams<{ id: string; lang?: Language }>();
   const { lang } = useLanguage();
-  const { id } = useLocalSearchParams<{ id: string; lang?: Language }>();
+  const effectiveLang = (params.lang as Language) || lang;
 
-  const hymnId = Number(id);
+  const hymnId = Number(params.id as string);
   const hymn = HYMNS.find((h) => h.id === hymnId);
 
   if (!hymn) return (
@@ -23,7 +24,7 @@ export default function HymnDetail() {
     </ThemedView>
   );
 
-  const data = hymn[lang];
+  const data = hymn[effectiveLang];
 
   return (
     <ScrollView style={styles.container}>
@@ -82,8 +83,10 @@ const styles = {
     marginTop: Spacing.three,
     padding: Spacing.two,
   },
-  line: {
+line: {
     marginVertical: Spacing.one,
+    fontSize: 18,
+    lineHeight: 1.8,
   },
 } as const;
 

@@ -36,9 +36,8 @@ export default function HomeScreen() {
             The Salvation Army Hymn Book
           </ThemedText>
         </View>
-
-        {/* Hymn List */}
-        <View style={styles.listContainer}>
+      
+        <View>
           <HymnList
             hymns={filtered}
             lang={lang}
@@ -56,8 +55,10 @@ export default function HomeScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#f5f5f5',
+    padding:0,
+    margin:0,
+   width:'100%',
+   height:'100%',
   },
   safeArea: {
     flex: 1,
