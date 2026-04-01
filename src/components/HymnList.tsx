@@ -6,7 +6,7 @@ import { FlatList, StyleSheet, TextInput, TouchableOpacity, View } from 'react-n
 import { Hymn, Language } from '../../data/types';
 import { CategoryFilter } from './CategoryFilter';
 import { HymnCard } from './HymnCard';
-import { LanguageSelector } from './LanguageSelector';
+import LanguageSelector from './LanguageSelector';
 import { ThemedView } from './themed-view';
 
 interface Props {
@@ -24,7 +24,7 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
 
   return (
     <ThemedView style={styles.container}>
-
+      
       {/* Controls: search + language + category */}
       <View style={styles.controls}>
         <TextInput

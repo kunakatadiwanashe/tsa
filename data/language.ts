@@ -1,11 +1,7 @@
-import { Language } from "./types";
+import { LanguageItem } from "./types";
 
-export const LANGUAGES: { code: Language; label: string; flag: string }[] = [
-  { code: "en", label: "English", flag: "🇬🇧" },
-  { code: "sn", label: "Shona", flag: "🇿🇼" },
-  { code: "nd", label: "Ndebele", flag: "🇿🇼" },
+export const LANGUAGES: LanguageItem[] = [
+  { code: "en", label: "English", flagUrl: require("@/assets/images/zi.png") },
+  { code: "sn", label: "Shona", flagUrl: require("@/assets/images/zi.png") },
+  { code: "nd", label: "Ndebele", flagUrl: require("@/assets/images/zi.png") },
 ];
-
-export const getLanguageLabel = (code: Language): string => {
-  return LANGUAGES.find((l) => l.code === code)?.label || "English";
-};

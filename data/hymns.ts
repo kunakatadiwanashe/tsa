@@ -855,7 +855,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 8,
     number: "008",
-    category: "Benediction",
+    category: "Worship",
     en: {
       title: "Blest Be the Tie That Binds",
       verses: [

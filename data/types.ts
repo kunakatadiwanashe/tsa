@@ -1,5 +1,11 @@
 export type Language = "en" | "sn" | "nd";
 
+export interface LanguageItem {
+  code: Language;
+  label: string;
+  flagUrl: string;
+}
+
 export interface Verse {
   num: number;
   lines: string[];

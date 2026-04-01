@@ -1,74 +1,130 @@
-import { Spacing } from '@/constants/theme';
-import React from 'react';
-import { Pressable, StyleSheet, View } from 'react-native';
-import { LANGUAGES } from '../../data/language';
-import { Language } from '../../data/types';
-import { ThemedText } from './themed-text';
+import React, { useRef } from "react";
+import {
+    Animated,
+    Image,
+    StyleSheet,
+    Text,
+    GestureResponderEvent,
+    TouchableOpacity,
+    View,
+} from "react-native";
 
-interface Props {
-  lang: Language;
-  setLang: (lang: Language) => void;
+const LANGUAGES = [
+  { code: "en", label: "English" },
+  { code: "sn", label: "Shona" },
+  { code: "nd", label: "Ndebele" },
+];
+
+const getFlag = (code: string) => {
+  switch (code) {
+    case "en":
+      return require("../../assets/images/zi.png");
+    case "sn":
+      return require("../../assets/images/zi.png");
+    case "nd":
+      return require("../../assets/images/zi.png");
+    default:
+      return require("../../assets/images/zi.png");
+  }
+};
+
+interface LanguageSelectorProps {
+  lang: string;
+  setLang: (lang: any) => void;
 }
 
-export function LanguageSelector({ lang, setLang }: Props) {
+export default function LanguageSelector({ lang, setLang }: LanguageSelectorProps) {
   return (
     <View style={styles.container}>
-      {LANGUAGES.map(({ code, label, flag }) => {
-        const isActive = lang === code;
-        return (
-          <Pressable
-            key={code}
-            onPress={() => setLang(code)}
-            style={({ pressed }) => [
-              styles.button,
-              isActive && styles.buttonActive,
-              pressed && styles.pressed,
-            ]}
-          >
-            <ThemedText style={styles.flag}>{flag}</ThemedText>
-            <ThemedText style={[styles.label, isActive && styles.labelActive]}>
-              {label}
-            </ThemedText>
-          </Pressable>
-        );
-      })}
+      {LANGUAGES.map((item) => (
+        <LanguageItem
+          key={item.code}
+          item={item}
+          selected={lang === item.code}
+          onPress={() => setLang(item.code)}
+        />
+      ))}
     </View>
   );
 }
 
+interface LanguageItemProps {
+  item: { code: string; label: string };
+  selected: boolean;
+  onPress: (event: GestureResponderEvent) => void;
+}
+
+function LanguageItem({ item, selected, onPress }: LanguageItemProps) {
+  const scale = useRef(new Animated.Value(1)).current;
+
+  const handlePressIn = () => {
+    Animated.spring(scale, {
+      toValue: 0.96,
+      useNativeDriver: true,
+    }).start();
+  };
+
+  const handlePressOut = () => {
+    Animated.spring(scale, {
+      toValue: 1,
+      useNativeDriver: true,
+    }).start();
+  };
+
+  return (
+    <Animated.View style={{ transform: [{ scale }] }}>
+      <TouchableOpacity
+        style={[styles.item, selected && styles.selectedItem]}
+        onPress={onPress}
+        onPressIn={handlePressIn}
+        onPressOut={handlePressOut}
+        activeOpacity={0.8}
+      >
+        <Image source={getFlag(item.code)} style={styles.flag} />
+
+        <Text style={[styles.label, selected && styles.selectedLabel]}>
+          {item.label}
+        </Text>
+      </TouchableOpacity>
+    </Animated.View>
+  );
+}
 const styles = StyleSheet.create({
   container: {
-    flexDirection: 'row',
-    gap: Spacing.one,
-    marginVertical: 10,
+    gap: 12,
+    padding: 16,
+    backgroundColor: "#fff",
+    flexDirection: "row",
   },
-  button: {
-    flex: 1,
-    paddingVertical: 12,
-    paddingHorizontal: 16,
-    borderRadius: 10,
-    backgroundColor: 'rgba(255,255,255,0.1)',
-    alignItems: 'center',
-    justifyContent: 'center',
-    minHeight: 50,
+
+  item: {
+    flexDirection: "row",
+    alignItems: "center",
+    gap: 4,
+    paddingVertical: 6,
+    paddingHorizontal: 6,
+    borderRadius: 14,
+    backgroundColor: "#f5f5f5",
   },
-  buttonActive: {
-    backgroundColor: '#007AFF',
+
+  selectedItem: {
+    backgroundColor: "#cb2929",
   },
-  pressed: {
-    opacity: 0.8,
-  },
+
   flag: {
-    fontSize: 20,
-    marginBottom: 2,
+    width: 26,
+    height: 26,
+    borderRadius: 13,
   },
+
   label: {
-    fontSize: 14,
-    fontWeight: '500',
+    fontSize: 16,
+    color: "#333",
+    fontWeight: "500",
   },
-  labelActive: {
-    fontWeight: '700',
-    color: '#fff',
+
+  selectedLabel: {
+    color: "#fff",
+    fontWeight: "600",
   },
 });
-
