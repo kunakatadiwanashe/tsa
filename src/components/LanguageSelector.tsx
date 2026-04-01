@@ -91,9 +91,8 @@ function LanguageItem({ item, selected, onPress }: LanguageItemProps) {
 }
 const styles = StyleSheet.create({
   container: {
-    gap: 12,
-    padding: 16,
-    backgroundColor: "#fff",
+    gap: 18,
+    padding: 4,
     flexDirection: "row",
   },
 

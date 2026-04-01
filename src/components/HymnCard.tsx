@@ -36,12 +36,12 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
     borderRadius: 12,
     padding: Spacing.three,
-    marginBottom: Spacing.three,
-    shadowColor: "#000",
+    marginBottom: 18,
+    shadowColor: "#000000",
     shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 4,
-    elevation: 2,
+    shadowOpacity: 0.20,
+    shadowRadius: 5,
+    elevation: 4,
   },
   header: {
     flexDirection: "row",
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   number: {
     fontSize: 14,
     fontWeight: "600",
-    color: "#888",
+    color: "#a33d3d",
     width: 28,
     textAlign: "center",
   },
@@ -65,6 +65,6 @@ const styles = StyleSheet.create({
   category: {
     marginTop: Spacing.one,
     fontSize: 12,
-    color: "#aaa",
+    color: "#a33d3d",
   },
 });
