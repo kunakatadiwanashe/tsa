@@ -1,7 +1,8 @@
 import BackButton from '@/components/BackButton';
 import { Spacing } from '@/constants/theme';
+import { useFavorites } from '@/context/FavoritesContext';
 import { useLocalSearchParams } from "expo-router";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
 import { HYMNS } from "../../../data/hymns";
 import type { Hymn, HymnSection, Language, Verse } from "../../../data/types";
 import { useLanguage } from '../../context/LanguageContext';
@@ -10,6 +11,7 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 export default function HymnDetail() {
   const params = useLocalSearchParams<{ id: string; lang?: Language }>();
   const { lang } = useLanguage();
+  const { isFavorite, toggleFavorite } = useFavorites();
   const effectiveLang = (params.lang as Language) || lang;
 
   const hymnId = Number(params.id);
@@ -23,6 +25,7 @@ export default function HymnDetail() {
   );
 
   const data = hymn[effectiveLang] as HymnSection;
+  const favorite = isFavorite(hymn.id);
 
   return (
 
@@ -31,9 +34,25 @@ export default function HymnDetail() {
 
         <ScrollView style={styles.container}>
           <View style={styles.header}>
-            <BackButton />
+            <View style={styles.headerTopRow}>
+              <BackButton />
+              <Pressable
+                accessibilityRole="button"
+                accessibilityLabel={favorite ? 'Remove from favorites' : 'Add to favorites'}
+                onPress={() => toggleFavorite(hymn.id)}
+                style={({ pressed }) => [
+                  styles.favoriteButton,
+                  pressed && styles.favoriteButtonPressed,
+                ]}>
+                <Text style={[styles.favoriteIcon, favorite && styles.favoriteIconActive]}>
+                  {favorite ? '♥' : '♡'}
+                </Text>
+              </Pressable>
+            </View>
             <Text style={styles.title}>{data.title}</Text>
-            <Text style={styles.subtitle}>{hymn.number} | {hymn.category}</Text>
+            <Text style={styles.subtitle}>
+              {hymn.number} | {hymn.category} {favorite ? '| Favorite' : ''}
+            </Text>
           </View>
 
           {data.verses.map((v: Verse) => (
@@ -73,6 +92,11 @@ const styles = StyleSheet.create({
     gap: Spacing.two,
     marginBottom: Spacing.four,
   },
+  headerTopRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
   title: {
     fontSize: 24,
     fontWeight: '700',
@@ -81,6 +105,25 @@ const styles = StyleSheet.create({
   subtitle: {
     fontSize: 14,
     color: '#666',
+  },
+  favoriteButton: {
+    minWidth: 44,
+    minHeight: 44,
+    borderRadius: 22,
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#f6eaea',
+    padding: Spacing.one,
+  },
+  favoriteButtonPressed: {
+    opacity: 0.75,
+  },
+  favoriteIcon: {
+    fontSize: 24,
+    color: '#a33d3d',
+  },
+  favoriteIconActive: {
+    color: '#c62828',
   },
   center: {
     flex: 1,
