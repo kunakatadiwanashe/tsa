@@ -34,12 +34,23 @@ export default function AppTabs() {
 }
 
 export function TabButton({ children, isFocused, ...props }: TabTriggerSlotProps) {
+  const scheme = useColorScheme();
+  const colors = Colors[scheme === 'unspecified' ? 'light' : scheme];
+
   return (
     <Pressable {...props} style={({ pressed }) => pressed && styles.pressed}>
       <View
-        type={isFocused ? 'backgroundSelected' : 'backgroundElement'}
-        style={styles.tabButtonView}>
-        <Text type="small" themeColor={isFocused ? 'text' : 'textSecondary'}>
+        style={[
+          styles.tabButtonView,
+          {
+            backgroundColor: isFocused ? colors.backgroundElement : 'transparent',
+          },
+        ]}>
+        <Text
+          style={[
+            styles.tabButtonText,
+            { color: isFocused ? colors.text : colors.textSecondary },
+          ]}>
           {children}
         </Text>
       </View>
@@ -104,6 +115,9 @@ const styles = StyleSheet.create({
     paddingVertical: Spacing.one,
     paddingHorizontal: Spacing.three,
     borderRadius: Spacing.three,
+  },
+  tabButtonText: {
+    fontSize: 12,
   },
   externalPressable: {
     flexDirection: 'row',

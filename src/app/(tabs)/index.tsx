@@ -1,11 +1,11 @@
+import HymnList from '@/components/HymnList';
+import { useLanguage } from '@/context/LanguageContext';
 import { BottomTabInset, Spacing } from '@/constants/theme';
 import { useState } from 'react';
-import { Image, StyleSheet, View,Text } from 'react-native';
+import { Image, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { HYMNS } from "../../data/hymns";
-import { Hymn } from '../../data/types';
-import HymnList from "../components/HymnList";
-import { useLanguage } from '../context/LanguageContext';
+import { HYMNS } from '../../../data/hymns';
+import { Hymn } from '../../../data/types';
 
 export default function HomeScreen() {
   const { lang, setLang } = useLanguage();
@@ -25,7 +25,7 @@ export default function HomeScreen() {
       <SafeAreaView style={styles.safeArea}>
         <View style={styles.header}>
           <Image
-            source={require("../../assets/images/logo.png")}
+            source={require("@/assets/images/logo.png")}
             style={styles.logo}
             resizeMode="contain"
           />

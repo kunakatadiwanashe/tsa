@@ -62,11 +62,12 @@ export default function TabTwoScreen() {
         <View style={styles.sectionsWrapper}>
           <Collapsible title="File-based routing">
             <Text >
-              This app has two screens: <Text type="code">src/app/index.tsx</Text> and{' '}
-              <Text >src/app/explore.tsx</Text>
+              This app has two tab screens: <Text style={styles.codeText}>src/app/(tabs)/index.tsx</Text> and{' '}
+              <Text >src/app/(tabs)/explore.tsx</Text>
             </Text>
             <Text >
-              The layout file in <Text type="code">src/app/_layout.tsx</Text> sets up
+              The root layout in <Text style={styles.codeText}>src/app/_layout.tsx</Text> sets up
+              the stack, while <Text style={styles.codeText}>src/app/(tabs)/_layout.tsx</Text> sets up
               the tab navigator.
             </Text>
             <ExternalLink href="https://docs.expo.dev/router/introduction">
@@ -90,7 +91,7 @@ export default function TabTwoScreen() {
 
           <Collapsible title="Images">
             <Text >
-              For static images, you can use the <Text type="code">@2x</Text> and{' '}
+              For static images, you can use the <Text style={styles.codeText}>@2x</Text> and{' '}
               <Text >@3x</Text> suffixes to provide files for different
               screen densities.
             </Text>
@@ -146,6 +147,9 @@ const styles = StyleSheet.create({
   },
   centerText: {
     textAlign: 'center',
+  },
+  codeText: {
+    fontFamily: 'monospace',
   },
   pressed: {
     opacity: 0.7,
