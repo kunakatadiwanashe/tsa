@@ -1,13 +1,10 @@
-
 import { Spacing } from '@/constants/theme';
-import { router } from 'expo-router';
 import React from 'react';
-import { FlatList, StyleSheet, TextInput, TouchableOpacity, View } from 'react-native';
+import { FlatList, StyleSheet, TextInput, View } from 'react-native';
 import { Hymn, Language } from '../../data/types';
 import { CategoryFilter } from './CategoryFilter';
 import { HymnCard } from './HymnCard';
 import LanguageSelector from './LanguageSelector';
-
 
 interface Props {
   hymns: Hymn[];
@@ -36,7 +33,9 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
         />
         <View style={styles.filterRow}>
           <LanguageSelector lang={lang} setLang={setLang} />
-          <CategoryFilter categories={categories} category={category} setCategory={setCategory} />
+          <View style={styles.categoryFilterWrap}>
+            <CategoryFilter categories={categories} category={category} setCategory={setCategory} />
+          </View>
         </View>
       </View>
      
@@ -78,14 +77,15 @@ const styles = StyleSheet.create({
     elevation: 2,
   },
   filterRow: {
-    flexDirection: 'column',
-    justifyContent: 'space-between',
+    flexDirection: 'row',
     alignItems: 'center',
     gap: Spacing.two,
-
-
+    width: '100%',
   },
   list: {
+    flex: 1,
+  },
+  categoryFilterWrap: {
     flex: 1,
   },
 });

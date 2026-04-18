@@ -1,6 +1,6 @@
 import { Spacing } from '@/constants/theme';
 import React from 'react';
-import { TouchableOpacity, View, Text, StyleSheet } from 'react-native';
+import { ScrollView, TouchableOpacity, View, Text, StyleSheet } from 'react-native';
 
 interface Props {
   categories: string[];
@@ -10,7 +10,10 @@ interface Props {
 
 export function CategoryFilter({ categories, category, setCategory }: Props) {
   return (
-    <View style={styles.container}>
+    <ScrollView
+      horizontal
+      showsHorizontalScrollIndicator={false}
+      contentContainerStyle={styles.container}>
       {categories.map((cat) => {
         const isActive = category === cat;
 
@@ -35,14 +38,14 @@ export function CategoryFilter({ categories, category, setCategory }: Props) {
           </TouchableOpacity>
         );
       })}
-    </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
-    flexWrap: 'wrap', 
+    gap: Spacing.two,
     paddingRight: Spacing.two,
   },
   button: {
@@ -50,6 +53,7 @@ const styles = StyleSheet.create({
     paddingVertical: Spacing.one,
     borderRadius: 20, // pill shape
     backgroundColor: '#f0f0f0',
+    marginRight: Spacing.two,
   },
   activeButton: {
     backgroundColor: '#222', // dark minimal
