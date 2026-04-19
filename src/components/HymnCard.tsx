@@ -24,9 +24,13 @@ export function HymnCard({ hymn, lang }: Props) {
     >
       <View style={styles.header}>
         <Text style={styles.number}>{hymn.id}</Text>
+
+        <View style={{ flex: 1 }}>
         <Text style={styles.title} numberOfLines={2}>{data.title}</Text>
+         <Text style={styles.writer}>{hymn.writer}</Text>
+        </View>
+
       </View>
-      <Text style={styles.category}>{hymn.category}</Text>
     </Pressable>
   );
 }
@@ -62,9 +66,9 @@ const styles = StyleSheet.create({
     flexShrink: 1,
     flex: 1,
   },
-  category: {
-    marginTop: Spacing.one,
+  writer: {
     fontSize: 12,
-    color: "#a33d3d",
+    fontWeight: "400",
+    color: "#666",
   },
 });

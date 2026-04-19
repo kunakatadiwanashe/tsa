@@ -2,7 +2,6 @@ import { Spacing } from '@/constants/theme';
 import React from 'react';
 import { FlatList, StyleSheet, TextInput, View } from 'react-native';
 import { Hymn, Language } from '../../data/types';
-import { CategoryFilter } from './CategoryFilter';
 import { HymnCard } from './HymnCard';
 import LanguageSelector from './LanguageSelector';
 
@@ -11,13 +10,10 @@ interface Props {
   lang: Language;
   search: string;
   setSearch: (search: string) => void;
-  category: string;
-  setCategory: (category: string) => void;
   setLang: (lang: Language) => void;
 }
 
-export default function HymnList({ hymns, lang, search, setSearch, category, setCategory, setLang }: Props) {
-  const categories = Array.from(new Set(hymns.map(h => h.category)));
+export default function HymnList({ hymns, lang, search, setSearch, setLang }: Props) {
 
   return (
     <View style={styles.container}>
@@ -33,9 +29,6 @@ export default function HymnList({ hymns, lang, search, setSearch, category, set
         />
         <View style={styles.filterRow}>
           <LanguageSelector lang={lang} setLang={setLang} />
-          <View style={styles.categoryFilterWrap}>
-            <CategoryFilter categories={categories} category={category} setCategory={setCategory} />
-          </View>
         </View>
       </View>
      
@@ -83,9 +76,6 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   list: {
-    flex: 1,
-  },
-  categoryFilterWrap: {
     flex: 1,
   },
 });

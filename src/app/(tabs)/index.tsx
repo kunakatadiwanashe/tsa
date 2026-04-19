@@ -10,14 +10,9 @@ import { Hymn } from '../../../data/types';
 export default function HomeScreen() {
   const { lang, setLang } = useLanguage();
   const [search, setSearch] = useState("");
-  const [category, setCategory] = useState("All");
-
   const filtered: Hymn[] = HYMNS.filter((h) => {
     const data = (h[lang as 'en' | 'sn' | 'nd'] as any);
-    return (
-      (data as any).title.toLowerCase().includes(search.toLowerCase()) &&
-      (category === "All" || h.category === category)
-    );
+    return (data as any).title.toLowerCase().includes(search.toLowerCase());
   });
 
   return (
@@ -39,8 +34,6 @@ export default function HomeScreen() {
             lang={lang}
             search={search}
             setSearch={setSearch}
-            category={category}
-            setCategory={setCategory}
             setLang={setLang}
           />
         </View>
@@ -48,7 +41,6 @@ export default function HomeScreen() {
     </View>
   );
 }
-
 const styles = StyleSheet.create({
   container: {
     padding:0,

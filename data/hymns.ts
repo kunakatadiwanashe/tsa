@@ -4,7 +4,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 1,
     number: "036",
-    category: "Works",
+    writer: "Catherine Baird (1896-1984)",
     en: {
       title: "O Bright Eternal One",
       verses: [
@@ -171,44 +171,52 @@ export const HYMNS: Hymn[] = [
   {
     id: 2,
     number: "014",
-    category: "Person and Praise",
+    writer: "Charles Wesley (1707-88)",
     en: {
-      title: "O Lord, I Will Delight in Thee",
+      title: "Thou Hidden Source of Calm Repose",
       verses: [
         {
           num: 1,
           lines: [
-            "O Lord, I will delight in thee",
-            "And on thy care depend,",
-            "To thee in every trouble flee,",
-            "My best, my only friend.",
+            "Thou hidden source of calm repose,",
+            "Thou all-sufficient love divine,",
+            "My help and refuge from my foes,",
+            "I feel I am for ever thine:",
+            "In want my plentiful supply,",
+            "In weakness my almighty power.",
           ],
         },
         {
           num: 2,
           lines: [
-            "When all created streams are dried,",
-            "Thy fulness is the same;",
-            "My I with this be satisfied",
-            "And glory in thy name.",
+            "Thy mighty name salvation is,",
+            "And keeps my happy soul above;",
+            "Comfort it brings, and power and peace,",
+            "And joy and everlasting love:",
+            "To me with thy dear name are given",
+            "Pardon and holiness and heaven.",
           ],
         },
         {
           num: 3,
           lines: [
-            "No good in creatures can be found",
-            "But may be found in thee;",
-            "I must have all things and abound",
-            "While God is God to me.",
+            "Jesus, my all in all thou art,",
+            "My rest in toil, my ease in pain;",
+            "The medicine of my broken heart,",
+            "In war my peace, in loss my gain;",
+            "My smile beneath the tyrant's frown,",
+            "In shame my glory and my crown.",
           ],
         },
         {
           num: 4,
           lines: [
-            "O Lord, I cast my care on thee,",
-            "I triumph and adore;",
-            "Henceforth my great concern shall be",
-            "To love and please thee more.",
+            "In want, my plentiful supply,",
+            "In weakness, my almighty power;",
+            "In bonds, my perfect liberty,",
+            "My light in Satan's darkest hour;",
+            "In grief my joy unspeakable,",
+            "My life in death, my all in all.",
           ],
         },
       ],
@@ -318,7 +326,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 3,
     number: "008",
-    category: "Person and Praise",
+    writer: "Walter Chalmers Smith (1824-1908)",
     en: {
       title: "Immortal, Invisible, God Only Wise",
       verses: [
@@ -449,6 +457,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 4,
     number: "022",
+    writer: "Fanny Crosby (1820-1915)",
     category: "Person and Praise",
     en: {
       title: "To God Be the Glory",
@@ -580,6 +589,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 5,
     number: "009",
+    writer: "Attr Samuel Barnard (d 1807)",
     category: "Person and Praise",
     en: {
       title: "Jehovah is Our Strength",
@@ -735,35 +745,41 @@ export const HYMNS: Hymn[] = [
   {
     id: 6,
     number: "143",
-    category: "Resurrection",
+    writer: "William James Pearson (1832-92)",
     en: {
-      title: "Christ the Lord Is Risen Today",
+      title: "O Thou God Of Every Nation",
       verses: [
         {
           num: 1,
           lines: [
-            "Christ the Lord is risen today, Alleluia!",
-            "Sons of men and angels say, Alleluia!",
-            "Raise your joys and triumphs high, Alleluia!",
-            "Sing, ye heavens, and earth, reply, Alleluia!",
+            "O Thou God of every nation,",
+            "We Thy blessing now implore;",
+            "For a new-born visitation",
+            "At Thy feet we bow once more.",
+            "Bless, O bless our Army,",
+            "Fill us with Thy power.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Lives again our glorious King, Alleluia!",
-            "Where, O death, is now thy sting? Alleluia!",
-            "Once He died our souls to save, Alleluia!",
-            "Where thy victory, O grave? Alleluia!",
+            "Fill us with Thy Holy Spirit,",
+            "Cleanse the Army from all sin;",
+            "Vanquish Satan by Thy merit,",
+            "Save the world and take it in.",
+            "Bless, O bless our Army,",
+            "Send us where Thou wilt.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Love's redeeming work is done, Alleluia!",
-            "Fought the fight, the battle won, Alleluia!",
-            "Death in vain forbids Him rise, Alleluia!",
-            "Christ has opened Paradise, Alleluia!",
+            "Let Thy holiness and beauty,",
+            "Let Thy power on us be given;",
+            "Consecrate us to our duty,",
+            "Till we win the prize in Heaven.",
+            "Bless, O bless our Army,",
+            "Be Thou our defense.",
           ],
         },
       ],
@@ -873,35 +889,44 @@ export const HYMNS: Hymn[] = [
   {
     id: 7,
     number: "085",
-    category: "Birth",
+    writer: "Christopher Wordsworth (1807-85)",
     en: {
-      title: "O Come All Ye Faithful",
+      title: "O Lord Of Heaven And Earth",
       verses: [
         {
           num: 1,
           lines: [
-            "O come, all ye faithful, joyful and triumphant,",
-            "O come ye, O come ye to Bethlehem;",
-            "Come and behold Him, born the King of Angels;",
-            "O come, let us adore Him, Christ the Lord!",
+            "O Lord of Heaven and earth and sea,",
+            "To thee all praise and glory be;",
+            "How shall we show our love to thee,",
+            "Who givest all?",
           ],
         },
         {
           num: 2,
           lines: [
-            "Sing, choirs of angels, sing in exultation,",
-            "Sing, all ye citizens of Heav'n above!",
-            "Glory to God, glory in the highest;",
-            "O come, let us adore Him, Christ the Lord!",
+            "For peaceful homes and healthful days,",
+            "For all the blessings earth displays,",
+            "We owe thee thankfulness and praise,",
+            "Who givest all.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Yea, Lord, we greet Thee, born this happy morning;",
-            "Jesus, to Thee be all glory giv'n!",
-            "Word of the Father, now in flesh appearing;",
-            "O come, let us adore Him, Christ the Lord!",
+            "Thou didst not spare thine only Son,",
+            "But gav'st him for a world undone,",
+            "And freely with that blessed one",
+            "Thou givest all.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "For souls redeemed, for sins forgiven,",
+            "For means of grace and hopes of heaven,",
+            "Father, all praise to thee be given,",
+            "Who givest all.",
           ],
         },
       ],
@@ -1013,6 +1038,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 8,
     number: "001",
+    writer: "Martin Luther (1483-1546), trs Frederick Henry Hedge (1805-90)",
     category: "Person and Praise",
     en: {
       title: "A Mighty Fortress is Our God",
@@ -1203,6 +1229,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 9,
     number: "017",
+    writer: "Henry Francis Lyte (1793-1847)",
     category: "Person and Praise",
     en: {
       title: "Praise, My Soul, the King of Heaven",
@@ -1358,6 +1385,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 10,
     number: "016",
+    writer: "Robert Grant (1779-1838)",
     category: "Person and Praise",
     en: {
       title: "O Worship the King",
@@ -1534,6 +1562,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 11,
     number: "018",
+    writer: "John Henry Newman (1801-90)",
     category: "Person and Praise",
     en: {
       title: "Praise to the Holiest in the Height",
@@ -1665,6 +1694,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 12,
     number: "012",
+    writer: "Martin Rinkart (1588-1649), trs Catherine Winkworth (1827-78)",
     category: "Person and Praise",
     en: {
       title: "Now Thank We All Our God",
@@ -1804,6 +1834,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 13,
     number: "013",
+    writer: "Isaac Watts (1674-1748)",
     category: "Adoration",
     en: {
       title: "Give to our God Immortal Praise",
@@ -1935,9 +1966,10 @@ export const HYMNS: Hymn[] = [
   {
     id: 14,
     number: "562",
+    writer: "F. L. Hosmer (1840-1929)",
     category: "The Kingdom",
     en: {
-      title: "Thy Kingdom Come!",
+      title: "Thy Kingdom Come on Bended Knee",
       verses: [
         {
           num: 1,
@@ -1951,6 +1983,15 @@ export const HYMNS: Hymn[] = [
         {
           num: 2,
           lines: [
+            "But the slow watches of the night",
+            "Not less to God belong;",
+            "And for the everlasting right",
+            "The silent stars are strong.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
             "And lo! already on the hills",
             "The flags of dawn appear;",
             "Gird up your loins, ye prophet souls,",
@@ -1958,7 +1999,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
         {
-          num: 3,
+          num: 4,
           lines: [
             "The day in whose clear-shining light",
             "All wrong shall stand revealed,",
@@ -1967,7 +2008,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
         {
-          num: 4,
+          num: 5,
           lines: [
             "When knowledge, hand in hand with peace,",
             "Shall walk the earth abroad;",
@@ -1976,14 +2017,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
       ],
-      chorus: {
-        lines: [
-          "But the slow watches of the night",
-          "Not less to God belong;",
-          "And for the everlasting right",
-          "The silent stars are strong.",
-        ],
-      },
+      chorus: null,
     },
     sn: {
       title: "UMAMBO HWENYU NGAHUUYE",
@@ -1998,7 +2032,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
         {
-          num: 2,
+          num: 3,
           lines: [
             "Zuva rinopenya kwazvo,",
             "Kunze kwotoyedza;",
@@ -2007,7 +2041,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
         {
-          num: 3,
+          num: 4,
           lines: [
             "Zuva rinopenya kwazvo,",
             "Rodzima zvitadzo;",
@@ -2016,7 +2050,7 @@ export const HYMNS: Hymn[] = [
           ],
         },
         {
-          num: 4,
+          num: 5,
           lines: [
             "Ruzivo, norunyararo,",
             "Zvichafamba kwose;",
@@ -2024,15 +2058,17 @@ export const HYMNS: Hymn[] = [
             "Zuva rake Mwari.",
           ],
         },
+        {
+          num: 2,
+          lines: [
+            "Kunanayira kwenguva,",
+            "NdokwaMwari, Baba;",
+            "Nyenyedzi dzinopupura",
+            "Simba nenduramo.",
+          ],
+        },
       ],
-      chorus: {
-        lines: [
-          "Kunanayira kwenguva,",
-          "NdokwaMwari, Baba;",
-          "Nyenyedzi dzinopupura",
-          "Simba nenduramo.",
-        ],
-      },
+      chorus: null,
     },
     nd: {
       title: "UMBUSO WAKHO MAWUZE",
@@ -2084,6 +2120,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 15,
     number: "026",
+    writer: "Thomas Obediah Chisholm (1866-1960)",
     category: "The Godhead",
     en: {
       title: "Great Is Thy Faithfulness",
@@ -2210,6 +2247,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 16,
     number: "019",
+    writer: "William Kethe (1594)",
     category: "Adoration",
     en: {
       title: "All People That on Earth Do Dwell",
@@ -2341,6 +2379,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 17,
     number: "005",
+    writer: "Francis of Assisi (1182-1226); trs. William Henry Draper (1855-1933)",
     category: "Adoration",
     en: {
       title: "All Creatures of Our God and King",
@@ -2524,6 +2563,7 @@ export const HYMNS: Hymn[] = [
   {
     id: 18,
     number: "546",
+    writer: "Henry Williams Baker (1821-77)",
     category: "The Scriptures",
     en: {
       title: "Lord, Thy Word Abideth",
@@ -2709,44 +2749,54 @@ export const HYMNS: Hymn[] = [
   {
     id: 19,
     number: "021",
+    writer: "Charles Wesley (1707-88)",
     category: "Adoration",
     en: {
-      title: "Praise the Lord, Ye Heavens Adore Him",
+      title: "Praise the Almighty",
       verses: [
         {
           num: 1,
           lines: [
-            "Praise the Lord! ye heavens, adore him;",
-            "Praise him, angels in the height;",
-            "Sun and moon, rejoice before him,",
-            "Praise him, all ye stars and light.",
+            "Sing to the great Jehovah's praise!",
+            "All praise to him belongs:",
+            "Who kindly lengthens out our days,",
+            "Demands our choicest songs.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Praise the Lord! for he hath spoken;",
-            "Worlds his mighty voice obeyed;",
-            "Laws which never shall be broken",
-            "For their guidance hath he made.",
+            "His providence hath kept us through",
+            "Another various year;",
+            "We all, with vows and anthems new,",
+            "Before our God appear.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Praise the Lord! for he is glorious;",
-            "Never shall his promise fail;",
-            "God hath made his saints victorious,",
-            "Sin and death shall not prevail.",
+            "Father, thy mercies past we own,",
+            "Thy still continued care;",
+            "To thee our utmost powers make known,",
+            "Our hearts in willing prayer.",
           ],
         },
         {
           num: 4,
           lines: [
-            "Praise the God of our salvation;",
-            "Hosts on high, his power proclaim;",
-            "Heaven and earth and all creation",
-            "Laud and magnify his name.",
+            "Till Jesus in the clouds appear",
+            "To saints on earth forgiven,",
+            "And bring the grand sabbatic year,",
+            "The jubilee of heaven.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Our residue of days or hours",
+            "Thine, wholly thine, shall be;",
+            "And all our consecrated powers",
+            "A sacrifice to thee.",
           ],
         },
       ],
@@ -2858,14 +2908,15 @@ export const HYMNS: Hymn[] = [
   {
     id: 20,
     number: "046",
+    writer: "Solomon M. Mutswairo (1924-)",
     category: "Providence",
     en: {
-      title: "The Ways of the Lord",
+      title: "The Creator's Hidden Works",
       verses: [
         {
           num: 1,
           lines: [
-            "The ways of God are past finding out,",
+            "The ways of the Creator are past finding out,",
             "Though dark they oft may seem;",
             "He gives and then he takes away",
             "Our loved ones from our side.",
@@ -34510,5 +34561,1292 @@ export const HYMNS: Hymn[] = [
       verses: [],
       chorus: null,
     },
+  },
+  {
+    id: 406,
+    number: "005",
+    category: "God the Father",
+    writer: "Catherine Baird (1895-1984)",
+    en: {
+      title: "Eternal God, our song we raise",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Eternal God, our song we raise",
+            "In thankful, overflowing praise,",
+            "For men of faith whose power was thine,",
+            "Whose love no barrier could confine;",
+            "They humbly offered Christ their bread,",
+            "And lo, the multitudes were fed!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "We thank thee for the fruitful years,",
+            "The sacred gains of toil and tears,",
+            "For mighty works through weakness wrought,",
+            "For souls who led in deed and thought;",
+            "They followed Jesus in the light",
+            "And their loud anthems thrilled the night.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O may no longing of our own",
+            "Obscure the path by Jesus shown!",
+            "We would not thirst for earth's reward",
+            "And lose the blessing of our Lord:",
+            "His cup of pain and grief and strife",
+            "That yieldeth up the gift of life.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Our Father, we beseech thee now:",
+            "Receive again our first pure vow",
+            "To stand though fire and tempest rage,",
+            "Nor fear the terrors of our age,",
+            "To love thee with a constant mind",
+            "And lose ourselves to save mankind.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Our great Redeemer liveth still,",
+            "His love sustains us in thy will",
+            "Because he conquered, we shall win,",
+            "His cross before, his joy within;",
+            "Our cheerful banners are unfurled,",
+            "For Christ has overcome the world.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 407,
+    number: "006",
+    category: "God the Father",
+    writer: "Albert Ernest Dalziel (1892-1974)",
+    en: {
+      title: "Eternal God, unchanging",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Eternal God, unchanging",
+            "Through all the changing years,",
+            "Whose hands all things created,",
+            "Who holds the countless stars;",
+            "Enthroned in heavenly glory,",
+            "Yet not a God afar;",
+            "Thou deignest to have dwelling",
+            "Here where thy people are.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Forbid that man's achievements",
+            "Should cause our faith to wane,",
+            "Or seek in human wisdom",
+            "Our spirit to sustain;",
+            "Lord, surely thou art shaping",
+            "All things to thy design,",
+            "And born of this conviction",
+            "Is faith to match our time.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "And in a world divided",
+            "By selfishness and guile,",
+            "When truth is on the scaffold",
+            "And faith is standing trial,",
+            "Grant us, by inward knowledge",
+            "No learning can bestow,",
+            "A faith that answers firmly:",
+            "These things, these things I know.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Though men have wrought confusion",
+            "Thy hand still holds the plan,",
+            "And thou, at length, decideth",
+            "The destiny of man;",
+            "Dominions rise and perish,",
+            "The mighty have their day,",
+            "But still thy word abideth,",
+            "It shall not pass away.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 408,
+    number: "007",
+    category: "God the Father",
+    writer: "Horatius Bonar (1808-89), alt",
+    en: {
+      title: "Fill thou my life, O Lord my God",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Fill thou my life, O Lord my God,",
+            "In every part with praise,",
+            "That my whole being may proclaim",
+            "Thy being and thy ways.",
+            "Not for the lip of praise alone,",
+            "Nor e'en the praising heart",
+            "I ask, but for a life made up",
+            "Of praise in every part!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Praise in the common words I speak,",
+            "Life's common looks and tones,",
+            "In fellowship at hearth and board",
+            "With my beloved ones;",
+            "Not in the temple crowd alone",
+            "Where holy voices chime,",
+            "But in the silent paths of earth,",
+            "The quiet rooms of time.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Fill every part of me with praise;",
+            "Let all my being speak",
+            "Of thee and of thy love, O Lord,",
+            "Poor though I be, and weak.",
+            "So shalt thou, Lord, from me, e'en me,",
+            "Receive the glory due;",
+            "And so shall I begin on earth",
+            "The song forever new.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "So shall each fear, each fret, each care",
+            "Be turned into a song,",
+            "And every winding of the way",
+            "The echo shall prolong;",
+            "So shall no part of day or night",
+            "From sacredness be free;",
+            "But all my life, in every step,",
+            "Be fellowship with thee.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 409,
+    number: "011",
+    category: "God the Father",
+    writer: "George Herbert (1593-1633)",
+    en: {
+      title: "Let all the world in every corner sing",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Let all the world in every corner sing:",
+            "My God and King!",
+            "The heavens are not too high,",
+            "His praise may thither fly;",
+            "The earth is not too low,",
+            "His praises there may grow.",
+            "Let all the world in every corner sing:",
+            "My God and King!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Let all the world in every corner sing:",
+            "My God and King!",
+            "The church with psalms must shout,",
+            "No door can keep them out;",
+            "But, more than all, the heart",
+            "Must bear the largest part.",
+            "Let all the world in every corner sing:",
+            "My God and King!",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 410,
+    number: "013",
+    category: "God the Father",
+    writer: "Isaac Watts (1674-1748)",
+    en: {
+      title: "O God, our Help in ages past",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O God, our Help in ages past,",
+            "Our hope for years to come,",
+            "Our shelter from the stormy blast,",
+            "And our eternal home.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Under the shadow of thy throne",
+            "Thy saints have dwelt secure;",
+            "Sufficient is thine arm alone",
+            "And our defense is sure.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Before the hills in order stood,",
+            "Or earth received her frame,",
+            "From everlasting thou art God,",
+            "To endless years the same.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "A thousand ages in thy sight",
+            "Are like an evening gone,",
+            "Short as the watch that ends the night",
+            "Before the rising sun.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Time, like an ever-rolling stream,",
+            "Bears all its sons away;",
+            "They fly forgotten, as a dream",
+            "Dies at the opening day.",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "O God, our help in ages past,",
+            "Our hope for years to come,",
+            "Be thou our guard while life shall last,",
+            "And our eternal home.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 411,
+    number: "015",
+    category: "God the Father",
+    writer: "Christopher Wordsworth (1807-85)",
+    en: {
+      title: "O Lord of Heaven and earth and sea",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O Lord of Heaven and earth and sea,",
+            "To thee all praise and glory be;",
+            "How shall we show our love to thee,",
+            "Who givest all?",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "For peaceful homes and healthful days,",
+            "For all the blessings earth displays,",
+            "We owe thee thankfulness and praise,",
+            "Who givest all.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Thou didst not spare thine only Son,",
+            "But gav'st him for a world undone,",
+            "And freely with that blessed one",
+            "Thou givest all.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Thou giv'st the Spirit's blessed dower,",
+            "Spirit of life and love and power,",
+            "And dost his sevenfold graces shower",
+            "Upon us all.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "For souls redeemed, for sins forgiven,",
+            "For means of grace and hopes of heaven,",
+            "Father, all praise to thee be given,",
+            "Who givest all.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 412,
+    number: "019",
+    category: "God the Father",
+    writer: "Joachim Neander (1650-80), trs Catherine Winkworth (1827-78) and others",
+    en: {
+      title: "Praise to the Lord, the Almighty",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Praise to the Lord, the Almighty, the King of creation;",
+            "O my soul, praise him, for he is thy health and salvation;",
+            "All ye who hear,",
+            "Brothers and sisters draw near,",
+            "Praise him in glad adoration.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Praise to the Lord, who doth prosper thy work and defend thee;",
+            "Surely his goodness and mercy here daily attend thee;",
+            "Ponder anew",
+            "What the Almighty can do,",
+            "He who with love doth befriend thee.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Praise to the Lord, who, when tempests their warfare are waging,",
+            "Who, when the elements madly around thee are raging,",
+            "Biddeth them cease,",
+            "Turneth their fury to peace,",
+            "Whirlwinds and waters assuaging.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Praise to the Lord, who, when darkness of sin is abounding,",
+            "Who, when the godless do triumph, all virtue confounding,",
+            "Sheddeth his light,",
+            "Chaseth the horrors of night,",
+            "Saints with his mercy surrounding.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Praise to the Lord! O let all that is in me adore him!",
+            "All that hath life and breath, come now with praises before him!",
+            "Let the amen",
+            "Sound from his people again;",
+            "Gladly for aye we adore him.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 413,
+    number: "020",
+    category: "God the Father",
+    writer: "James Montgomery (1771-1854)",
+    en: {
+      title: "Stand up and bless the Lord",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Stand up and bless the Lord,",
+            "Ye people of his choice;",
+            "Stand up and bless the Lord your God",
+            "With heart and soul and voice.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Though high above all praise,",
+            "Above all blessing high,",
+            "Who would not fear his holy name,",
+            "And laud and magnify?",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O for the living flame",
+            "From his own altar brought,",
+            "To touch our lips, our minds inspire,",
+            "And wing to Heaven our thought!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "God is our strength and song,",
+            "And his salvation ours;",
+            "Then be his love in Christ proclaimed",
+            "With all our ransomed powers.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Stand up and bless the Lord,",
+            "The Lord your God adore;",
+            "Stand up and bless his glorious name",
+            "Henceforth for evermore.",
+          ],
+        },
+      ],
+      chorus: { lines: ["Praise ye the Lord, hallelujah!"] },
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 414,
+    number: "021",
+    category: "God the Father",
+    writer: "Nahum Tate (1652-1715) Nicholas Brady (1659-1726)",
+    en: {
+      title: "Through all the changing scenes of life",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Through all the changing scenes of life,",
+            "In trouble and in joy,",
+            "The praises of my God shall still",
+            "My heart and tongue employ.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Of his deliverance I will boast,",
+            "Till all that are distressed",
+            "From mine example comfort take,",
+            "And charm their griefs to rest.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The hosts of God encamp around",
+            "The dwellings of the just;",
+            "Deliverance he affords to all",
+            "Who on his succor trust.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "O make but trial of his love;",
+            "Experience will decide",
+            "How blest they are and only they,",
+            "Who in his truth confide.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Fear him, ye saints, and you will then",
+            "Have nothing else to fear;",
+            "Make you his service your delight,",
+            "Your wants shall be his care.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 415,
+    number: "023",
+    category: "God the Father",
+    writer: "Charles Wesley (1707-88)",
+    en: {
+      title: "What shall I render to my God",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "What shall I render to my God",
+            "For all his mercy's store?",
+            "I'll take the gifts he hath bestowed",
+            "And humbly ask for more.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The sacred cup of saving grace",
+            "I will with thanks receive,",
+            "And all his promises embrace",
+            "And to his glory live.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "My vows I will to his great name",
+            "Before his people pay,",
+            "And all I have, and all I am,",
+            "Upon his altar lay.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Thy hands created me, thy hands",
+            "From sin have set me free;",
+            "The mercy that hath loosed my bands",
+            "Hath bound me fast to thee.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "The God of all-redeeming grace,",
+            "My God, I will proclaim,",
+            "Offer the sacrifice of praise,",
+            "And call upon his name.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 416,
+    number: "024",
+    category: "God the Father",
+    writer: "Charles Wesley (1707-88)",
+    en: {
+      title: "Ye servants of God, your Master proclaim",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Ye servants of God, your Master proclaim,",
+            "And publish abroad his wonderful name;",
+            "The name all-victorious of Jesus extol;",
+            "His Kingdom is glorious and rules over all.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "God ruleth on high, almighty to save;",
+            "And still he is nigh, his presence we have;",
+            "The great congregation his triumphs shall sing,",
+            "Ascribing salvation to Jesus our King.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Then let us adore and give him his right,",
+            "All glory and power, all wisdom and might;",
+            "All honor and blessing, with angels above,",
+            "And thanks never-ceasing and infinite love!",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 417,
+    number: "008",
+    category: "God the Father",
+    writer: "James Montgomery (1771-1854)",
+    en: {
+      title: "God is our strength and song",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "God is our strength and song,",
+            "And His salvation ours;",
+            "Then be His love in Christ proclaimed",
+            "With all our ransomed powers.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Stand up and bless the Lord,",
+            "Ye people of His choice;",
+            "Stand up and bless the Lord your God",
+            "With heart and soul and voice.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Though high above all praise,",
+            "Above all blessing high,",
+            "Who would not fear His holy name,",
+            "And laud and magnify?",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "O for the living flame",
+            "From His own altar brought,",
+            "To touch our lips, our minds inspire,",
+            "And wing to Heaven our thought!",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "God is our strength and song,",
+            "And His salvation ours;",
+            "Then be His love in Christ proclaimed",
+            "With all our ransomed powers.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 418,
+    number: "025",
+    category: "God the Father",
+    writer: "Sidney E. Cox (1887-1954)",
+    en: {
+      title: "God's love to me is wonderful",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "God's love to me is wonderful,",
+            "That He should deign to hear",
+            "The faintest whisper of my heart,",
+            "Wipe from mine eyes the tear;",
+            "And though I cannot comprehend",
+            "Such love, so great, so deep,",
+            "In His strong hands my soul I trust,",
+            "He will not fail to keep.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "God's love is wonderful,",
+          "God's love is wonderful,",
+          "Wonderful that He should give His Son to die for me;",
+          "God's love to me is wonderful!",
+          "My very steps are planned;",
+          "When mists of doubt encompass me,",
+          "I hold my Father's hand.",
+        ],
+      },
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 419,
+    number: "026",
+    category: "God the Father",
+    writer: "Henry Smith (b 1952)",
+    en: {
+      title: "Give thanks with a grateful heart",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Give thanks with a grateful heart,",
+            "Give thanks to the Holy One,",
+            "Give thanks because He's given",
+            "Jesus Christ, His Son.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "And now let the weak say, 'I am strong',",
+            "Let the poor say, 'I am rich',",
+            "Because of what the Lord has done for us.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 420,
+    number: "029",
+    category: "God the Father",
+    writer: "Frederick William Faber (1814-63)",
+    en: {
+      title: "My God, how wonderful Thou art",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "My God, how wonderful Thou art,",
+            "Thy majesty how bright!",
+            "How beautiful Thy mercy seat,",
+            "In depths of burning light!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "How dread are Thine eternal years,",
+            "O everlasting Lord,",
+            "By prostrate spirits day and night",
+            "Incessantly adored!",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O how I fear Thee, living God,",
+            "With deep and tender fear,",
+            "And worship Thee with trembling hope",
+            "And penitential tears!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Yet I may love Thee too, O Lord,",
+            "Almighty as Thou art,",
+            "For Thou hast stooped to ask of me",
+            "The love of my poor heart.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "No earthly father loves like Thee,",
+            "No mother e'er so mild",
+            "Bears and forbears as Thou hast done",
+            "With me Thy sinful child.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 421,
+    number: "032",
+    category: "God the Father",
+    writer: "Josiah Conder (1789-1855)",
+    en: {
+      title: "The Lord is King! lift up thy voice",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "The Lord is King! lift up thy voice,",
+            "O earth, and all ye heavens, rejoice!",
+            "From world to world the song shall ring:",
+            "'The Lord omnipotent is King!'",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The Lord is King! who then shall dare",
+            "Resist His will, distrust His care,",
+            "Or quarrel with His wise decrees,",
+            "Or doubt His royal promises?",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The Lord is King! Child of the dust,",
+            "The Judge of all the earth is just;",
+            "Holy and true are all His ways—",
+            "Let every creature speak His praise!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "He reigns! ye saints, his praises sing;",
+            "Your Father reigns, your God is King;",
+            "And Christ is seated at His side,",
+            "The Man of love, the Crucified.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "One Lord, one Kingdom, all secures;",
+            "He reigns, and life and death are yours:",
+            "Through earth and heaven one song shall ring,",
+            "'The Lord omnipotent is King!'",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 422,
+    number: "033",
+    category: "God the Son",
+    writer: "Paul Gerhardt (1607-76), trs Catherine Winkworth (1827-78)",
+    en: {
+      title: "All my heart this night rejoices",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All my heart this night rejoices",
+            "As I hear far and near",
+            "Sweetest angel voices;",
+            "'Christ is born,' their choirs are singing,",
+            "Till the air everywhere",
+            "Now with joy is ringing.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Hark! a voice from yonder manger,",
+            "Soft and sweet, doth entreat,",
+            "'Flee from woe and danger!",
+            "Brethren, come, from all that grieves you,",
+            "You are freed; all you need",
+            "I will surely give you.'",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Come, then, let us hasten yonder!",
+            "Here let all, great and small,",
+            "Kneel in awe and wonder!",
+            "Love Him who with love is yearning!",
+            "Hail the star that from far",
+            "Bright with hope is burning!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Thee, dear Lord, with heed I'll cherish,",
+            "Live to Thee, and with Thee",
+            "Dying, shall not perish;",
+            "But shall dwell with Thee for ever,",
+            "Far on high, in the joy",
+            "That can alter never.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 423,
+    number: "042",
+    category: "God the Son",
+    writer: "James Montgomery (1771-1854)",
+    en: {
+      title: "Hail to the Lord's Anointed",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Hail to the Lord's Anointed,",
+            "Great David's greater Son!",
+            "Hail, in the time appointed,",
+            "His reign on earth begun!",
+            "He comes to break oppression,",
+            "To set the captive free,",
+            "To take away transgression,",
+            "And rule in equity.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "He comes with succour speedy",
+            "To those who suffer wrong;",
+            "To help the poor and needy,",
+            "And bid the weak be strong;",
+            "To give them songs for sighing,",
+            "Their darkness turn to light,",
+            "Whose souls, condemned and dying,",
+            "Were precious in His sight.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "He shall come down like showers",
+            "Upon the fruitful earth;",
+            "And love, joy, hope, like flowers,",
+            "Spring in His path to birth;",
+            "Before Him, on the mountains,",
+            "Shall peace, the herald, go;",
+            "And righteousness, in fountains,",
+            "From hill to valley flow.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Kings shall fall down before Him,",
+            "And gold and incense bring;",
+            "All nations shall adore Him,",
+            "His praise all people sing;",
+            "To Him shall prayer unceasing",
+            "And daily vows ascend;",
+            "His kingdom still increasing,",
+            "A kingdom without end.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 424,
+    number: "103",
+    category: "God the Son",
+    writer: "St Theodulph of Orleans (c 820), trs John Mason Neale (1818-66)",
+    en: {
+      title: "All glory, laud and honour",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All glory, laud and honour",
+            "To Thee, Redeemer, King,",
+            "To whom the lips of children",
+            "Made sweet hosannas ring!",
+            "Thou art the King of Israel,",
+            "Thou David's royal Son,",
+            "Who in the Lord's name comest,",
+            "The King and blessed One.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The company of angels",
+            "Is praising Thee on high,",
+            "And mortal men and all things",
+            "Created make reply.",
+            "The people of the Hebrews",
+            "With palms before Thee went;",
+            "Our praise and prayer and anthems",
+            "Before Thee we present.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "To Thee before Thy passion",
+            "They sang their hymns of praise;",
+            "To Thee, now high exalted,",
+            "Our melody we raise.",
+            "Thou didst accept their praises;",
+            "Accept the prayers we bring,",
+            "Who in all good delightest,",
+            "Thou good and gracious King.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 425,
+    number: "125",
+    category: "God the Son",
+    writer: "James Montgomery (1771-1854)",
+    en: {
+      title: "Go to dark Gethsemane",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Go to dark Gethsemane,",
+            "Ye that feel the tempter's power;",
+            "Your Redeemer's conflict see,",
+            "Watch with Him one bitter hour;",
+            "Turn not from His griefs away,",
+            "Learn of Jesus Christ to pray.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Follow to the judgement-hall,",
+            "View the Lord of life arraigned;",
+            "O the wormwood and the gall!",
+            "O the pangs His soul sustained!",
+            "Shun not suffering, shame or loss,",
+            "Learn of Him to bear the cross.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Calvary's mournful mountain climb;",
+            "There, adoring at His feet,",
+            "Mark that miracle of time,",
+            "God's own sacrifice complete;",
+            "'It is finished!' hear Him cry,",
+            "Learn of Jesus Christ to die.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Early hasten to the tomb",
+            "Where they laid His breathless clay;",
+            "All is solitude and gloom;",
+            "Who hath taken Him away?",
+            "Christ is risen! He meets our eyes;",
+            "Saviour, teach us so to rise.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 426,
+    number: "159",
+    category: "God the Son",
+    writer: "Christopher Wordsworth (1807-85)",
+    en: {
+      title: "Alleluia! Alleluia! Hearts to heaven and voices raise",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Alleluia! Alleluia!",
+            "Hearts to heav'n and voices raise;",
+            "Sing to God a hymn of gladness,",
+            "Sing to God a hymn of praise.",
+            "He who on the cross as Saviour",
+            "For the world's salvation bled,",
+            "Jesus Christ, the King of Glory,",
+            "Now is risen from the dead.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Christ is risen, Christ the first-fruits",
+            "Of the holy harvest-field,",
+            "Which will all its full abundance",
+            "At His second advent yield;",
+            "Then the golden ears of harvest",
+            "Will their heads before Him wave,",
+            "Ripened by His glorious sunshine",
+            "From the furrows of the grave.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Alleluia! Alleluia!",
+            "Glory be to God on high;",
+            "Alleluia! to the Saviour,",
+            "Who has gained the victory;",
+            "Alleluia! to the Spirit,",
+            "Fount of love and sanctity;",
+            "Alleluia! Alleluia!",
+            "To the Triune Majesty.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 427,
+    number: "181",
+    category: "God the Son",
+    writer: "Edmond Louis Budry (1854-1932), trs Richard Birch Hoyle (1875-1939)",
+    en: {
+      title: "Thine be the glory, risen, conquering Son",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Thine be the glory, risen, conquering Son;",
+            "Endless is the victory Thou o'er death hast won.",
+            "Angels in bright raiment rolled the stone away,",
+            "Kept the folded grave-clothes where Thy body lay.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Lo! Jesus meets us, risen from the tomb;",
+            "Lovingly He greets us, scatters fear and gloom.",
+            "Let the church with gladness hymns of triumph sing,",
+            "For her Lord now liveth, death hath lost its sting.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "No more we doubt Thee, glorious Prince of life!",
+            "Life is naught without Thee; aid us in our strife.",
+            "Make us more than conquerors, through Thy deathless love;",
+            "Bring us safe through Jordan to Thy home above.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "Thine be the glory, risen, conquering Son;",
+          "Endless is the victory Thou o'er death hast won.",
+        ],
+      },
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
+  },
+  {
+    id: 428,
+    number: "188",
+    category: "God the Son",
+    writer: "Charles Wesley (1707-88)",
+    en: {
+      title: "Lo, He comes with clouds descending",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Lo! He comes with clouds descending,",
+            "Once for favoured sinners slain;",
+            "Thousand thousand saints attending",
+            "Swell the triumph of His train:",
+            "Hallelujah! Hallelujah!",
+            "God appears on earth to reign.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Every eye shall now behold Him",
+            "Robed in dreadful majesty;",
+            "Those who set at naught and sold Him,",
+            "Pierced and nailed Him to the tree,",
+            "Deeply wailing, deeply wailing,",
+            "Shall the true Messiah see.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Those dear tokens of His passion",
+            "Still His dazzling body bears,",
+            "Cause of endless exultation",
+            "To His ransomed worshippers;",
+            "With what rapture, with what rapture,",
+            "Gaze we on those glorious scars!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Yea, Amen! let all adore Thee,",
+            "High on Thine eternal throne;",
+            "Saviour, take the power and glory,",
+            "Claim the kingdom for Thine own:",
+            "Hallelujah! Hallelujah!",
+            "Everlasting God, come down.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
+    sn: { title: "", verses: [], chorus: null },
+    nd: { title: "", verses: [], chorus: null },
   },
 ];

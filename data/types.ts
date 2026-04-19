@@ -20,8 +20,9 @@ export interface HymnSection {
 export interface Hymn {
   id: number;
   number: string;
-  category: string;
   en: HymnSection;
   sn: HymnSection;
   nd: HymnSection;
+  writer?: string;
+  category?: string;
 }

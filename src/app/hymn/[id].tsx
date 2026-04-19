@@ -3,10 +3,10 @@ import { Spacing } from '@/constants/theme';
 import { useFavorites } from '@/context/FavoritesContext';
 import { useLocalSearchParams } from "expo-router";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { HYMNS } from "../../../data/hymns";
 import type { Hymn, HymnSection, Language, Verse } from "../../../data/types";
 import { useLanguage } from '../../context/LanguageContext';
-import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HymnDetail() {
   const params = useLocalSearchParams<{ id: string; lang?: Language }>();
@@ -51,7 +51,7 @@ export default function HymnDetail() {
             </View>
             <Text style={styles.title}>{data.title}</Text>
             <Text style={styles.subtitle}>
-              {hymn.number} | {hymn.category} {favorite ? '| Favorite' : ''}
+              {hymn.number} {favorite ? '| Favorite' : ''}
             </Text>
           </View>
 
