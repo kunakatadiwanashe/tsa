@@ -3,45 +3,63 @@ import { Hymn } from "./types";
 export const HYMNS: Hymn[] = [
   {
     id: 1,
-    number: "001",
-    category: "Praise",
+    number: "036",
+    category: "Works",
     en: {
-      title: "Holy, Holy, Holy",
+      title: "O Bright Eternal One",
       verses: [
         {
           num: 1,
           lines: [
-            "Holy, holy, holy! Lord God Almighty!",
-            "Early in the morning our song shall rise to Thee;",
-            "Holy, holy, holy! Merciful and mighty!",
-            "God in three Persons, blessèd Trinity!",
+            "O bright eternal One,",
+            "Thy voice commanded light",
+            "And from the shapeless void",
+            "Called order and delight!",
           ],
         },
         {
           num: 2,
           lines: [
-            "Holy, holy, holy! All the saints adore Thee,",
-            "Casting down their golden crowns around the glassy sea;",
-            "Cherubim and seraphim falling down before Thee,",
-            "Which wert and art and evermore shalt be.",
+            "Through thunder, fire and calm",
+            "Thy secret thought have stirred",
+            "The hearts of humble men",
+            "Who waited on thy word.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Holy, holy, holy! Though the darkness hide Thee,",
-            "Though the eye of sinful man Thy glory may not see;",
-            "Only Thou art holy; there is none beside Thee,",
-            "Perfect in power, in love and purity.",
+            "O Word invisible,",
+            "We see thee now appear",
+            "Along the path we tread,",
+            "For Jesus Christ is here!",
           ],
         },
         {
           num: 4,
           lines: [
-            "Holy, holy, holy! Lord God Almighty!",
-            "All Thy works shall praise Thy Name, in earth and sky and sea;",
-            "Holy, holy, holy! Merciful and mighty!",
-            "God in three Persons, blessèd Trinity!",
+            "O loving, living Lord,",
+            "Thou hast in Jesus given",
+            "A purpose and a way",
+            "For travelers to Heaven!",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Then let us dwell in him",
+            "Whose dwelling is above,",
+            "And seek until we know,",
+            "And love until we love.",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "O ever-living Lord,",
+            "Our hearts and lips shall prove",
+            "The beauty of thy house,",
+            "The glory of thy love!",
           ],
         },
       ],
@@ -152,47 +170,49 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 2,
-    number: "002",
-    category: "Worship",
+    number: "014",
+    category: "Person and Praise",
     en: {
-      title: "Great Is Thy Faithfulness",
+      title: "O Lord, I Will Delight in Thee",
       verses: [
         {
           num: 1,
           lines: [
-            "Great is Thy faithfulness, O God my Father,",
-            "There is no shadow of turning with Thee;",
-            "Thou changest not, Thy compassions, they fail not;",
-            "As Thou hast been Thou forever wilt be.",
+            "O Lord, I will delight in thee",
+            "And on thy care depend,",
+            "To thee in every trouble flee,",
+            "My best, my only friend.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Summer and winter, and springtime and harvest,",
-            "Sun, moon and stars in their courses above,",
-            "Join with all nature in manifold witness",
-            "To Thy great faithfulness, mercy and love.",
+            "When all created streams are dried,",
+            "Thy fulness is the same;",
+            "My I with this be satisfied",
+            "And glory in thy name.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Pardon for sin and a peace that endureth,",
-            "Thy own dear presence to cheer and to guide;",
-            "Strength for today and bright hope for tomorrow,",
-            "Blessings all mine, with ten thousand beside!",
+            "No good in creatures can be found",
+            "But may be found in thee;",
+            "I must have all things and abound",
+            "While God is God to me.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "O Lord, I cast my care on thee,",
+            "I triumph and adore;",
+            "Henceforth my great concern shall be",
+            "To love and please thee more.",
           ],
         },
       ],
-      chorus: {
-        lines: [
-          "Great is Thy faithfulness! Great is Thy faithfulness!",
-          "Morning by morning new mercies I see;",
-          "All I have needed Thy hand hath provided,",
-          "Great is Thy faithfulness, Lord, unto me!",
-        ],
-      },
+      chorus: null,
     },
     sn: {
       title: "IMI MURI RUDEKARO",
@@ -297,45 +317,45 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 3,
-    number: "003",
-    category: "Salvation",
+    number: "008",
+    category: "Person and Praise",
     en: {
-      title: "Amazing Grace",
+      title: "Immortal, Invisible, God Only Wise",
       verses: [
         {
           num: 1,
           lines: [
-            "Amazing grace! How sweet the sound",
-            "That saved a wretch like me!",
-            "I once was lost, but now am found;",
-            "Was blind, but now I see.",
+            "Immortal, invisible, God only wise,",
+            "In light inaccessible hid from our eyes,",
+            "Most blessed, most glorious, the Ancient of Days,",
+            "Almighty, victorious, thy great name we praise.",
           ],
         },
         {
           num: 2,
           lines: [
-            "'Twas grace that taught my heart to fear,",
-            "And grace my fears relieved;",
-            "How precious did that grace appear",
-            "The hour I first believed!",
+            "Unresting, unhasting, and silent as light,",
+            "Nor wanting, nor wasting, thou rulest in might;",
+            "Thy justice like mountains high soaring above",
+            "Thy clouds which are fountains of goodness and love.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Through many dangers, toils and snares,",
-            "I have already come;",
-            "'Tis grace hath brought me safe thus far,",
-            "And grace will lead me home.",
+            "To all life thou givest, to both great and small,",
+            "In all life thou livest, the true life of all;",
+            "We blossom and flourish as leaves on the tree,",
+            "And wither and perish; but naught changeth thee.",
           ],
         },
         {
           num: 4,
           lines: [
-            "When we've been there ten thousand years,",
-            "Bright shining as the sun,",
-            "We've no less days to sing God's praise",
-            "Than when we'd first begun.",
+            "Great Father of glory, pure Father of light.",
+            "Thine angels adore thee, all veiling their sight;",
+            "All praise we would render; O help us to see",
+            "'Tis only the splendor of light hideth thee.",
           ],
         },
       ],
@@ -428,40 +448,49 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 4,
-    number: "004",
-    category: "Prayer",
+    number: "022",
+    category: "Person and Praise",
     en: {
-      title: "What a Friend We Have in Jesus",
+      title: "To God Be the Glory",
       verses: [
         {
           num: 1,
           lines: [
-            "What a friend we have in Jesus,",
-            "All our sins and griefs to bear!",
-            "What a privilege to carry",
-            "Everything to God in prayer!",
+            "To God be the glory, great things he hath done!",
+            "So loved he the world that he gave us his Son;",
+            "Who yielded his life an atonement for sin,",
+            "And opened the life gate that all may go in.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Have we trials and temptations?",
-            "Is there trouble anywhere?",
-            "We should never be discouraged—",
-            "Take it to the Lord in prayer.",
+            "O perfect redemption, the purchase of blood!",
+            "To every believer the promise of God;",
+            "The vilest offender who truly believes,",
+            "That moment from Jesus a pardon receives.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Are we weak and heavy-laden,",
-            "Cumbered with a load of care?",
-            "Precious Savior, still our refuge—",
-            "Take it to the Lord in prayer.",
+            "Great things he hath taught us, great things he hath done,",
+            "And great our rejoicing through Jesus the Son;",
+            "But purer and higher and greater will be",
+            "Our wonder, our rapture, when Jesus we see.",
           ],
         },
       ],
-      chorus: null,
+      chorus: {
+        lines: [
+          "Praise the Lord! Praise the Lord!",
+          "Let the earth hear his voice!",
+          "Praise the Lord! Praise the Lord!",
+          "Let the people rejoice!",
+          "O come to the Father through Jesus the Son,",
+          "And give him the glory; great things he hath done!",
+        ],
+      },
     },
     sn: {
       title: "MWARI NGAAKUDZWE",
@@ -550,56 +579,57 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 5,
-    number: "005",
-    category: "Faith",
+    number: "009",
+    category: "Person and Praise",
     en: {
-      title: "How Great Thou Art",
+      title: "Jehovah is Our Strength",
       verses: [
         {
           num: 1,
           lines: [
-            "O Lord my God, when I in awesome wonder",
-            "Consider all the worlds Thy hands have made,",
-            "I see the stars, I hear the rolling thunder,",
-            "Thy power throughout the universe displayed;",
+            "Jehovah is our strength,",
+            "And he shall be our song;",
+            "We shall o'ercome at length",
+            "Although our foes be strong.",
+            "In vain does Satan then oppose,",
+            "For God is stronger than his foes.",
           ],
         },
         {
           num: 2,
           lines: [
-            "When through the woods and forest glades I wander,",
-            "And hear the birds sing sweetly in the trees,",
-            "When I look down from lofty mountain grandeur,",
-            "And hear the brook and feel the gentle breeze;",
+            "The Lord our refuge is",
+            "And ever will remain;",
+            "Since he has made us his",
+            "He will our cause maintain.",
+            "In vain our enemies oppose,",
+            "For God is stronger than his foes.",
           ],
         },
         {
           num: 3,
           lines: [
-            "And when I think that God, His Son not sparing,",
-            "Sent Him to die, I scarce can take it in,",
-            "That on the cross, my burden gladly bearing,",
-            "He bled and died to take away my sin;",
+            "The Lord our shepherd is;",
+            "He knows our every need,",
+            "And since we now are his,",
+            "His care our souls will feed.",
+            "In vain do sin and death oppose,",
+            "For God is stronger than his foes.",
           ],
         },
         {
           num: 4,
           lines: [
-            "When Christ shall come with shout of acclamation",
-            "And take me home, what joy shall fill my heart!",
-            "Then I shall bow in humble adoration",
-            "And there proclaim, 'My God, how great Thou art!'",
+            "Our God our Father is;",
+            "Our names are on his heart;",
+            "We ever will be his,",
+            "He ne'er from us will part.",
+            "In vain the mightiest powers oppose,",
+            "For God is stronger than his foes.",
           ],
         },
       ],
-      chorus: {
-        lines: [
-          "Then sings my soul, my Savior God, to Thee:",
-          "How great Thou art! How great Thou art!",
-          "Then sings my soul, my Savior God, to Thee:",
-          "How great Thou art! How great Thou art!",
-        ],
-      },
+      chorus: null,
     },
     sn: {
       title: "MWARI SAMASIMBA",
@@ -704,8 +734,8 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 6,
-    number: "006",
-    category: "Easter",
+    number: "143",
+    category: "Resurrection",
     en: {
       title: "Christ the Lord Is Risen Today",
       verses: [
@@ -842,8 +872,8 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 7,
-    number: "007",
-    category: "Christmas",
+    number: "085",
+    category: "Birth",
     en: {
       title: "O Come All Ye Faithful",
       verses: [
@@ -982,45 +1012,65 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 8,
-    number: "008",
-    category: "Worship",
+    number: "001",
+    category: "Person and Praise",
     en: {
-      title: "Blest Be the Tie That Binds",
+      title: "A Mighty Fortress is Our God",
       verses: [
         {
           num: 1,
           lines: [
-            "Blest be the tie that binds",
-            "Our hearts in Christian love;",
-            "The fellowship of kindred minds",
-            "Is like to that above.",
+            "A mighty fortress is our God,",
+            "A bulwark never failing;",
+            "Our helper he, amid the flood,",
+            "Of mortal ills prevailing.",
+            "For still our ancient foe",
+            "Doth seek to work us woe;",
+            "His craft and power are great,",
+            "And, armed with cruel hate,",
+            "On earth is not his equal.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Before our Father's throne",
-            "We pour our ardent prayers;",
-            "Our fears, our hopes, our aims are one,",
-            "Our comforts and our cares.",
+            "Did we in our own strength confide,",
+            "Our striving would be losing;",
+            "Were not the right man on our side,",
+            "The man of God's own choosing.",
+            "Dost ask who that may be?",
+            "Christ Jesus, it is he;",
+            "Lord Sabaoth his name,",
+            "From age to age the same,",
+            "And he must win the battle.",
           ],
         },
         {
           num: 3,
           lines: [
-            "We share our mutual woes,",
-            "Our mutual burdens bear;",
-            "And often for each other flows",
-            "The sympathizing tear.",
+            "And though this world, with demons filled,",
+            "Should threaten to undo us;",
+            "We will not fear, for God hath willed",
+            "His truth to triumph through us.",
+            "The prince of darkness grim,",
+            "We tremble not for him,",
+            "His rage we can endure,",
+            "For lo! His doom is sure,",
+            "One little word shall fell him.",
           ],
         },
         {
           num: 4,
           lines: [
-            "When we asunder part,",
-            "It gives us inward pain;",
-            "But we shall still be joined in heart,",
-            "And hope to meet again.",
+            "That word above all earthly powers,",
+            "No thanks to them abideth;",
+            "The Spirit and the gifts are ours",
+            "Through him who with us sideth.",
+            "Let goods and kindred go,",
+            "This mortal life also;",
+            "The body they may kill;",
+            "God's truth abideth still,",
+            "His Kingdom is for ever.",
           ],
         },
       ],
@@ -1152,11 +1202,56 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 9,
-    number: "009",
-    category: "Praise",
+    number: "017",
+    category: "Person and Praise",
     en: {
       title: "Praise, My Soul, the King of Heaven",
-      verses: [],
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Praise, my soul, the King of Heaven,",
+            "To his feet thy tribute bring;",
+            "Ransomed, healed, restored, forgiven,",
+            "Who like thee his praise should sing?",
+            "Praise him!",
+            "Praise the everlasting King.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Praise him for his grace and favor",
+            "To our fathers in distress;",
+            "Praise him still the same as ever,",
+            "Slow to chide and swift to bless;",
+            "Praise him!",
+            "Glorious in his faithfulness.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Father-like he tends and spares us;",
+            "Well our feeble frame he knows,",
+            "In his hands he gently bears us,",
+            "Rescues us from all our foes.",
+            "Praise him!",
+            "Widely as his mercy flows.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Angels in the heights adore him,",
+            "Ye behold him face to face;",
+            "Sun and moon bow down before him:",
+            "Dwellers all in time and space,",
+            "Praise him!",
+            "Praise with us the God of grace.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -1262,11 +1357,66 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 10,
-    number: "010",
-    category: "Worship",
+    number: "016",
+    category: "Person and Praise",
     en: {
       title: "O Worship the King",
-      verses: [],
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O worship the King, all glorious above;",
+            "O gratefully sing his power and his love;",
+            "Our shield and defender, the Ancient of Days,",
+            "Pavilioned in splendor and girded with praise.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "O tell of his might, O sing of his grace,",
+            "Whose robe is the light, whose canopy space;",
+            "His chariots of wrath the deep thunderclouds form,",
+            "And dark is his path on the wings of the storm.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The earth with its store of wonders untold,",
+            "Almighty, thy power hath founded of old,",
+            "Hath stablished it fast by a changeless decree,",
+            "And round it hath cast, like a mantle, the sea.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Thy bountiful care what tongue can recite?",
+            "It breathes in the air, it shines in the light,",
+            "It streams from the hills, it descends to the plain,",
+            "And sweetly distils in the dew and the rain.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Frail children of dust and feeble as frail,",
+            "In thee do we trust, nor find thee to fail;",
+            "Thy mercies how tender, how firm to the end,",
+            "Our Maker, Defender, Redeemer and Friend.",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "O measureless Might! Ineffable Love!",
+            "While angels delight to hymn thee above,",
+            "The humbler creation, though feeble their lays,",
+            "With true adoration shall sing to thy praise.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -1383,11 +1533,48 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 11,
-    number: "011",
-    category: "Praise",
+    number: "018",
+    category: "Person and Praise",
     en: {
       title: "Praise to the Holiest in the Height",
-      verses: [],
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Praise to the holiest in the height,",
+            "And in the depth be praise,",
+            "In all his words most wonderful,",
+            "Most sure in all his ways.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "O loving wisdom of our God!",
+            "When all was sin and shame,",
+            "A second Adam to the fight",
+            "And to the rescue came.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O wisest love! that flesh and blood,",
+            "Which did in Adam fail,",
+            "Should strive afresh against their foe,",
+            "Should strive and should prevail.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Praise to the holiest in the height,",
+            "And in the depth be praise,",
+            "In all his words most wonderful,",
+            "Most sure in all his ways.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -1478,8 +1665,52 @@ export const HYMNS: Hymn[] = [
   {
     id: 12,
     number: "012",
-    category: "Praise",
-    en: { title: "Now Thank We All Our God", verses: [], chorus: null },
+    category: "Person and Praise",
+    en: {
+      title: "Now Thank We All Our God",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Now thank we all our God",
+            "With hearts and hands and voices,",
+            "Who wondrous things hath done,",
+            "In whom his world rejoices;",
+            "Who from our mothers' arms",
+            "Hath blessed on our way",
+            "With countless gifts of love,",
+            "And still is ours today.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "O may this bounteous God",
+            "Through all our life be near us,",
+            "With ever-joyful hearts",
+            "And blessed peace to cheer us,",
+            "And keep us in his grace,",
+            "And guide us when perplexed,",
+            "And free us from all ills",
+            "In this world and the next.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "All praise and thanks to God",
+            "The Father now be given,",
+            "The Son and him who reigns",
+            "With them in highest Heaven.",
+            "The one eternal God,",
+            "Whom earth and Heaven adore;",
+            "For thus it was, is now,",
+            "And shall be evermore.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "NGATITENDEI MWARI",
       verses: [
@@ -1573,8 +1804,49 @@ export const HYMNS: Hymn[] = [
   {
     id: 13,
     number: "013",
-    category: "Praise",
-    en: { title: "Give to our God Immortal Praise", verses: [], chorus: null },
+    category: "Adoration",
+    en: {
+      title: "Give to our God Immortal Praise",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Give to our God immortal praise;",
+            "Mercy and truth are all his ways:",
+            "Wonders of grace to God belong,",
+            "Repeat his mercies in your song.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Give to the Lord of lords renown,",
+            "The King of kings with glory crown:",
+            "His mercies ever shall endure,",
+            "When lords and kings are known no more.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "He built the earth, he spread the sky,",
+            "And fixed the starry lights on high:",
+            "Wonders of grace to God belong,",
+            "Repeat his mercies in your song.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "He sent his Son with power to save",
+            "From guilt and darkness and the grave:",
+            "Wonders of grace to God belong,",
+            "Repeat his mercies in your song.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "RURIMI RWANGU, TANGISA",
       verses: [
@@ -1662,9 +1934,57 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 14,
-    number: "014",
-    category: "Prayer",
-    en: { title: "Thy Kingdom Come!", verses: [], chorus: null },
+    number: "562",
+    category: "The Kingdom",
+    en: {
+      title: "Thy Kingdom Come!",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Thy kingdom come! on bended knee",
+            "The passing ages pray;",
+            "And faithful souls have yearned to see",
+            "On earth that kingdom’s day.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "And lo! already on the hills",
+            "The flags of dawn appear;",
+            "Gird up your loins, ye prophet souls,",
+            "For day is drawing near.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The day in whose clear-shining light",
+            "All wrong shall stand revealed,",
+            "When justice shall be throned in might,",
+            "And every hurt be healed.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "When knowledge, hand in hand with peace,",
+            "Shall walk the earth abroad;",
+            "The day of perfect righteousness,",
+            "The promised day of God.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "But the slow watches of the night",
+          "Not less to God belong;",
+          "And for the everlasting right",
+          "The silent stars are strong.",
+        ],
+      },
+    },
     sn: {
       title: "UMAMBO HWENYU NGAHUUYE",
       verses: [
@@ -1763,9 +2083,49 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 15,
-    number: "015",
-    category: "Faithfulness",
-    en: { title: "Great Is Thy Faithfulness", verses: [], chorus: null },
+    number: "026",
+    category: "The Godhead",
+    en: {
+      title: "Great Is Thy Faithfulness",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Great is thy faithfulness, O God my Father,",
+            "There is no shadow of turning with thee;",
+            "Thou changest not, thy compassions they fail not;",
+            "As thou hast been thou forever wilt be.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Summer and winter, and springtime and harvest,",
+            "Sun, moon and stars in their courses above,",
+            "Join with all nature in manifold witness",
+            "To thy great faithfulness, mercy and love.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Pardon for sin and a peace that endureth,",
+            "Thine own dear presence to cheer and to guide;",
+            "Strength for today and bright hope for tomorrow,",
+            "Blessings all mine, with ten thousand beside!",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "Great is thy faithfulness!",
+          "Great is thy faithfulness!",
+          "Morning by morning new mercies I see;",
+          "All I have needed thy hand hath provided,",
+          "Great is thy faithfulness, Lord, unto me!",
+        ],
+      },
+    },
     sn: {
       title: "MUNOTENDESEKA , O MWARI BABA",
       verses: [
@@ -1849,11 +2209,48 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 16,
-    number: "016",
-    category: "Praise",
+    number: "019",
+    category: "Adoration",
     en: {
       title: "All People That on Earth Do Dwell",
-      verses: [],
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All people that on earth do dwell,",
+            "Sing to the Lord with cheerful voice;",
+            "Him serve with fear, his praise forth tell,",
+            "Come ye before him and rejoice.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The Lord, ye know, is God indeed;",
+            "Without our aid he did us make;",
+            "We are his folk, he doth us feed,",
+            "And for his sheep he doth us take.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O enter then his gates with praise,",
+            "Approach with joy his courts unto;",
+            "Praise, laud and bless his name always,",
+            "For it is seemly so to do.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "For why? The Lord our God is good;",
+            "His mercy is forever sure;",
+            "His truth at all times firmly stood,",
+            "And shall from age to age endure.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -1943,12 +2340,68 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 17,
-    number: "017",
-    category: "Praise",
+    number: "005",
+    category: "Adoration",
     en: {
       title: "All Creatures of Our God and King",
-      verses: [],
-      chorus: null,
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All creatures of our God and King,",
+            "Lift up your voice and with us sing,",
+            "Alleluia! Alleluia!",
+            "Thou burning sun with golden beam,",
+            "Thou silver moon with softer gleam!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Thou rushing wind that art so strong,",
+            "Ye clouds that sail in heaven along,",
+            "O praise him! Alleluia!",
+            "Thou rising morn, in praise rejoice,",
+            "Ye lights of evening, find a voice!",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Thou flowing water, pure and clear,",
+            "Make music for thy Lord to hear,",
+            "Alleluia! Alleluia!",
+            "Thou fire so masterful and bright,",
+            "That givest man both warmth and light!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Dear mother earth, who day by day",
+            "Unfoldest blessings on our way,",
+            "O praise him! Alleluia!",
+            "The flowers and fruits that in thee grow,",
+            "Let them his glory also show.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Let all things their Creator bless,",
+            "And worship him in humbleness,",
+            "O praise him! Alleluia!",
+            "Praise, praise the Father, praise the Son,",
+            "And praise the Spirit, Three in One!",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "O praise him! O praise him!",
+          "Alleluia! Alleluia! Alleluia!",
+        ],
+      },
     },
     sn: {
       title: "ZVISIKWA ZVAMWARI MAMBO",
@@ -2070,9 +2523,68 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 18,
-    number: "018",
-    category: "Guidance",
-    en: { title: "Lord, Thy Word Abideth", verses: [], chorus: null },
+    number: "546",
+    category: "The Scriptures",
+    en: {
+      title: "Lord, Thy Word Abideth",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Lord, thy word abideth,",
+            "And our footsteps guideth;",
+            "Who its truth believeth",
+            "Light and joy receiveth.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "When the foe assaileth,",
+            "Lord, thy word prevaileth;",
+            "Antidote of sadness,",
+            "We are filled with gladness.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "When the storms are o'er us,",
+            "And dark clouds before us,",
+            "Then its light directeth,",
+            "And our way protecteth.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Who can tell the pleasure,",
+            "Who recount the treasure",
+            "By thy word imparted",
+            "To the simple-hearted?",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Word of mercy, giving",
+            "Succor to the living;",
+            "Word of life, supplying",
+            "Comfort to the dying!",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "O with thine assistance",
+            "May we love in essence;",
+            "Lord, thy word obey we,",
+            "Till thy face we see.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "ISHE, IZWI RENYU",
       verses: [
@@ -2196,11 +2708,48 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 19,
-    number: "019",
-    category: "Praise",
+    number: "021",
+    category: "Adoration",
     en: {
       title: "Praise the Lord, Ye Heavens Adore Him",
-      verses: [],
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Praise the Lord! ye heavens, adore him;",
+            "Praise him, angels in the height;",
+            "Sun and moon, rejoice before him,",
+            "Praise him, all ye stars and light.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Praise the Lord! for he hath spoken;",
+            "Worlds his mighty voice obeyed;",
+            "Laws which never shall be broken",
+            "For their guidance hath he made.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Praise the Lord! for he is glorious;",
+            "Never shall his promise fail;",
+            "God hath made his saints victorious,",
+            "Sin and death shall not prevail.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Praise the God of our salvation;",
+            "Hosts on high, his power proclaim;",
+            "Heaven and earth and all creation",
+            "Laud and magnify his name.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -2308,9 +2857,68 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 20,
-    number: "020",
-    category: "Comfort",
-    en: { title: "The Ways of the Lord", verses: [], chorus: null },
+    number: "046",
+    category: "Providence",
+    en: {
+      title: "The Ways of the Lord",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "The ways of God are past finding out,",
+            "Though dark they oft may seem;",
+            "He gives and then he takes away",
+            "Our loved ones from our side.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "A family grows, its branches spread,",
+            "Like blossoms fair and sweet;",
+            "But in a moment, all are gone,",
+            "And we are left to weep.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "They pass away like shadows dim,",
+            "That flee before the light;",
+            "And one by one they enter in",
+            "His kingdom, pure and bright.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Our hearts are troubled and distressed,",
+            "We cannot understand;",
+            "The thoughts of God are not our thoughts,",
+            "Nor work as we have planned.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "We cannot see the end of all",
+            "His wisdom has designed;",
+            "But this we know, and this we trust,",
+            "That all is for the best.",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "O Father, give us strength to bear",
+            "Whatever may befall;",
+            "And by thy grace we'll follow on",
+            "To our eternal home.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "KUITA KWAKE, MUSIKI",
       verses: [
@@ -2434,9 +3042,68 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 21,
-    number: "021",
-    category: "Guidance",
-    en: { title: "God Moves in a Mysterious Way", verses: [], chorus: null },
+    number: "044",
+    category: "Providence",
+    en: {
+      title: "God Moves in a Mysterious Way",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "God moves in a mysterious way",
+            "His wonders to perform;",
+            "He plants his footsteps in the sea,",
+            "And rides upon the storm.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Deep in unfathomable mines",
+            "Of never-failing skill,",
+            "He treasures up his bright designs,",
+            "And works his sovereign will.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Ye fearful saints, fresh courage take;",
+            "The clouds ye so much dread",
+            "Are big with mercy, and shall break",
+            "In blessings on your head.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Judge not the Lord by feeble sense,",
+            "But trust him for his grace;",
+            "Behind a frowning providence",
+            "He hides a smiling face.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "His purposes will ripen fast,",
+            "Unfolding every hour;",
+            "The bud may have a bitter taste,",
+            "But sweet will be the flower.",
+          ],
+        },
+        {
+          num: 6,
+          lines: [
+            "Blind unbelief is sure to err,",
+            "And scan his work in vain;",
+            "God is his own interpreter,",
+            "And he will make it plain.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "MWARI ANOTISHAMISA",
       verses: [
@@ -2560,9 +3227,57 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 22,
-    number: "022",
-    category: "Praise",
-    en: { title: "How Great Thou Art", verses: [], chorus: null },
+    number: "010",
+    category: "Adoration",
+    en: {
+      title: "How Great Thou Art",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O Lord my God! when I in awesome wonder",
+            "Consider all the works thy hand hath made,",
+            "I see the stars, I hear the mighty thunder,",
+            "Thy power throughout the universe displayed.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "When through the woods and forest glades I wander",
+            "And hear the birds sing sweetly in the trees;",
+            "When I look down from lofty mountain grandeur",
+            "And hear the brook and feel the gentle breeze.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "And when I think that God, his Son not sparing,",
+            "Sent him to die, I scarce can take it in;",
+            "That on the cross, my burden gladly bearing,",
+            "He bled and died to take away my sin.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "When Christ shall come with shout of acclamation",
+            "And take me home, what joy shall fill my heart!",
+            "Then I shall bow in humble adoration",
+            "And there proclaim, My God, how great thou art!",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "Then sings my soul, my Savior God, to thee,",
+          "How great thou art! How great thou art!",
+          "Then sings my soul, my Savior God, to thee,",
+          "How great thou art! How great thou art!",
+        ],
+      },
+    },
     sn: {
       title: "MWARI MAMBO KANA NDOFUNGIDZIRA",
       verses: [
@@ -2662,9 +3377,59 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 23,
-    number: "023",
-    category: "Guidance",
-    en: { title: "Lord of All Power", verses: [], chorus: null },
+    number: "578",
+    category: "Travelers",
+    en: {
+      title: "Lord of All Power",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Lord of all power, we pray thee for the travelers",
+            "In air and on the sea,",
+            "Guard them and keep them in the hour of danger,",
+            "And draw them close to thee.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Lord of all wisdom, keep the many travelers",
+            "On road and on the rail,",
+            "Shield them from every unforeseen disaster,",
+            "Thy care can never fail.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Lord of all nature, calm the sudden tempest,",
+            "Hold back the lightning's flash,",
+            "Let the refreshing rain fall on the desert,",
+            "Preventing hunger's crash.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Lord of all nations, stay the hands of people",
+            "From building bombs and guns,",
+            "From using weapons that will kill and injure",
+            "Thy daughters and thy sons.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Lord of all people, lead the world's creators",
+            "To follow in thy way,",
+            "Grant them the wisdom and the love and patience",
+            "To bring the peaceful day.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "MWARI MUNE SIMBA ROSE",
       verses: [
@@ -2770,9 +3535,61 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 24,
-    number: "024",
-    category: "Praise",
-    en: { title: "Let Us With a Gladsome Mind", verses: [], chorus: null },
+    number: "011",
+    category: "Adoration",
+    en: {
+      title: "Let Us With a Gladsome Mind",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Let us, with a gladsome mind,",
+            "Praise the Lord, for he is kind:",
+            "For his mercies shall endure,",
+            "Ever faithful, ever sure.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Let us blaze his name abroad,",
+            "For of gods he is the God:",
+            "For his mercies shall endure,",
+            "Ever faithful, ever sure.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "He with all-commanding might",
+            "Filled the new-made world with light:",
+            "For his mercies shall endure,",
+            "Ever faithful, ever sure.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "He the golden-tressed sun",
+            "Caused all day his course to run:",
+            "For his mercies shall endure,",
+            "Ever faithful, ever sure.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "All things living he doth feed,",
+            "His full hand supplies their need:",
+            "For his mercies shall endure,",
+            "Ever faithful, ever sure.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: ["For his mercies shall endure,", "Ever faithful, ever sure."],
+      },
+    },
     sn: {
       title: "NEMWOYO INOFARA",
       verses: [
@@ -2780,56 +3597,50 @@ export const HYMNS: Hymn[] = [
           num: 1,
           lines: [
             "Nemwoyo inofara,",
-            "Zvisikwa zvaMwari Mambo,",
-            "Ngatiimbe pamwechete,",
-            "Hareruya!Hareruya!",
-            "Newe zuva rinopisa,",
-            "Newe mwedzi unopenya:",
+            "Kudzai Ishe, unonyasha:",
+            "Ngoni dzake dziripo,",
+            "Dzinogara narinhi.",
           ],
         },
         {
           num: 2,
           lines: [
-            "Iwe mhepo une simba,",
-            "Imi makore edenga,",
-            "Murumbidze! Hareruya!",
-            "Iwe unotonga, rumbidza,",
-            "Newe manheru imbawo:",
+            "Zita rake ridudzwe,",
+            "Ndiye Mwari wevamwari:",
+            "Ngoni dzake dziripo,",
+            "Dzinogara narinhi.",
           ],
         },
         {
           num: 3,
           lines: [
-            "Nemvura inoyerera;",
-            "Imbirawo Ishe anzwe,",
-            "Hareruya! Hareruya!",
-            "Moto une simba guru,",
-            "Wopa kudziya nomwenje:",
+            "Anesimba negwara,",
+            "Wakazadza nyika nechiedza:",
+            "Ngoni dzake dziripo,",
+            "Dzinogara narinhi.",
           ],
         },
         {
           num: 4,
           lines: [
-            "Ivhu rinotipa zvose,",
-            "Zvatinodya misi yose,",
-            "Murumbidze! Hareruya!",
-            "Namaruva nemichero,",
-            "Ngazviratidze kubwinya:",
+            "Zuva rinobwinya",
+            "Rinoita nzira yaro:",
+            "Ngoni dzake dziripo,",
+            "Dzinogara narinhi.",
           ],
         },
         {
           num: 5,
           lines: [
-            "Zvisikwa ngazvirumbidze,",
-            "Zvinamate norupfavo,",
-            "Murumbidze! Hareruya!",
-            "Baba, Mwana, Mweya",
-            "Varumbidzwe Hareruya",
+            "Zvisikwa zvofudzwa naye,",
+            "Ruoko rwake rwogutsa:",
+            "Ngoni dzake dziripo,",
+            "Dzinogara narinhi.",
           ],
         },
       ],
       chorus: {
-        lines: ["Murumbidze, Murumbidze,", "Hareruya,Hareruya,", "Hareruya,!"],
+        lines: ["Ngoni dzake dziripo,", "Dzinogara narinhi."],
       },
     },
     nd: {
@@ -2886,9 +3697,43 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 25,
-    number: "025",
-    category: "Praise",
-    en: { title: "Let Us Praise the Almighty", verses: [], chorus: null },
+    number: "014",
+    category: "Adoration",
+    en: {
+      title: "Let Us Praise the Almighty",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Let us praise the Almighty, the King of creation;",
+            "With the voice of the thunder he speaks to the nation.",
+            "He spoke and 'twas done; through his own blessed Son",
+            "The world findeth health and salvation.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Let us praise the Almighty, whose word at the beginning",
+            "Created the man; though he fell through his sinning",
+            "From death he is raised, through the grace we have praised,",
+            "That flows from the heavens for the winning.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Let us praise the Almighty, the Holy Spirit's power",
+            "Within us is working each day and each hour.",
+            "Our joy is complete, in his love we're replete,",
+            "For he is our refuge and tower.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: ["Hallelujah! hallelujah!", "Praise the Almighty!"],
+      },
+    },
     sn: {
       title: "NGATIMUTENDEI MWARI",
       verses: [
@@ -2965,11 +3810,48 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 26,
-    number: "026",
-    category: "Praise",
+    number: "020",
+    category: "Adoration",
     en: {
-      title: "All People That on Earth Do Dwell",
-      verses: [],
+      title: "Before Jehovah's Awful Throne",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Before Jehovah’s awful throne,",
+            "Ye nations, bow with sacred joy;",
+            "Know that the Lord is God alone;",
+            "He can create, and He destroy.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "His sovereign power, without our aid,",
+            "Made us of clay, and formed us men;",
+            "And when like wandering sheep we strayed,",
+            "He brought us to His fold again.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "We’ll crowd Thy gates with thankful songs,",
+            "High as the heavens our voices raise;",
+            "And earth, with her ten thousand tongues,",
+            "Shall fill Thy courts with sounding praise.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Wide as the world is Thy command,",
+            "Vast as eternity Thy love;",
+            "Firm as a rock Thy truth must stand,",
+            "When rolling years shall cease to move.",
+          ],
+        },
+      ],
       chorus: null,
     },
     sn: {
@@ -3058,9 +3940,41 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 27,
-    number: "027",
-    category: "Praise",
-    en: { title: "Morning Has Broken", verses: [], chorus: null },
+    number: "035",
+    category: "Creation",
+    en: {
+      title: "Morning Has Broken",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Morning has broken like the first morning,",
+            "Blackbird has spoken like the first bird.",
+            "Praise for the singing! Praise for the morning!",
+            "Praise for them, springing fresh from the Word!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Sweet the rain's new fall sunlit from heaven,",
+            "Like the first dewfall on the first grass.",
+            "Praise for the sweetness of the wet garden,",
+            "Sprung in completeness where his feet pass.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Mine is the sunlight! Mine is the morning",
+            "Born of the one light Eden saw play!",
+            "Praise with elation, praise every morning,",
+            "God's recreation of the new day!",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "PAMAMBAKWEDZA",
       verses: [
@@ -3141,9 +4055,59 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 28,
-    number: "028",
-    category: "Love",
-    en: { title: "How Shall I Love My God", verses: [], chorus: null },
+    number: "042",
+    category: "The Godhead",
+    en: {
+      title: "How Shall I Love My God",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "How shall I love my God, and how",
+            "His great name glorify?",
+            "How shall I tell the gratitude",
+            "For all His mercy high?",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "His mercy is on all who fear,",
+            "And never can it die;",
+            "It lives for ever and for aye,",
+            "Reaching both low and high.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "It knows no bounds of time or space,",
+            "It is for all to share;",
+            "If it had passed by even one,",
+            "'Twould pass by me, I fear.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "The depth of all His love for us,",
+            "Oh, who can ever tell?",
+            "The Gift unspeakable is ours,",
+            "In Him all things are well.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Then hasten, Lord, and take my heart,",
+            "And make it all Thine own;",
+            "Oh, let my heart, for evermore,",
+            "Become Thy dwelling throne.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "NDINGAMUDE, SEI MWARI",
       verses: [
@@ -3249,9 +4213,47 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 29,
-    number: "029",
-    category: "Love",
-    en: { title: "The Love of the Lord to Me", verses: [], chorus: null },
+    number: "043",
+    category: "The Godhead",
+    en: {
+      title: "The Love of the Lord to Me",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "The love of the Lord is so wonderful,",
+            "That he knows all the need of my heart,",
+            "He wipes all the tears from my eyes away,",
+            "He is mine and we never shall part.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The love of the Lord is so wonderful,",
+            "Wherever I happen to go,",
+            "When doubt and when fear come across my way,",
+            "He will take me by the hand, I know.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The love of the Lord is so wonderful,",
+            "He is making my pathway so bright,",
+            "I'm walking and talking with him today,",
+            "In the glory of his holy light.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "Oh, God is love, love so wonderful!",
+          "He gave His Son to die for me,",
+          "Love so wonderful!",
+        ],
+      },
+    },
     sn: {
       title: "RUDO RWAMWARI RUKURU",
       verses: [
@@ -3359,9 +4361,57 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 30,
-    number: "030",
-    category: "Praise",
-    en: { title: "With Gladness We Adore", verses: [], chorus: null },
+    number: "004",
+    category: "Adoration",
+    en: {
+      title: "Joyful, Joyful We Adore Thee",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Joyful, joyful, we adore Thee,",
+            "God of glory, Lord of love;",
+            "Hearts unfold like flowers before Thee,",
+            "Opening to the sun above.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "All Thy works with joy surround Thee,",
+            "Earth and heaven reflect Thy rays,",
+            "Stars and angels sing around Thee,",
+            "Center of unbroken praise.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Thou art giving and forgiving,",
+            "Ever blessing, ever blest,",
+            "Wellspring of the joy of living,",
+            "Ocean depth of happy rest!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Mortals, join the happy chorus,",
+            "Which the morning stars began;",
+            "Father love is reigning o'er us,",
+            "Brother love binds man to man.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "Melt the clouds of sin and sadness,",
+          "Drive the dark of doubt away;",
+          "Giver of immortal gladness,",
+          "Fill us with the light of day!",
+        ],
+      },
+    },
     sn: {
       title: "NORUFARO TOKUKUDZA",
       verses: [
@@ -3481,9 +4531,50 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 31,
-    number: "031",
-    category: "Trust",
-    en: { title: "The Lord Is My Shepherd", verses: [], chorus: null },
+    number: "047",
+    category: "Providence",
+    en: {
+      title: "The Lord Is My Shepherd",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "The Lord is my Shepherd, no want shall I know;",
+            "I feed in green pastures, safe-folded I rest;",
+            "He leadeth my soul where the still waters flow,",
+            "Restores me when wandering, redeems when oppressed.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Through the valley and shadow of death though I stray,",
+            "Since Thou art my Guardian, no evil I fear;",
+            "Thy rod shall defend me, Thy staff be my stay;",
+            "No harm can befall, with my Comforter near.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "In the midst of affliction my table is spread;",
+            "With blessings unmeasured my cup runneth o'er;",
+            "With perfume and oil Thou anointest my head;",
+            "Oh, what shall I ask of Thy providence more?",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Let goodness and mercy, my bountiful God,",
+            "Still follow my steps till I meet Thee above;",
+            "I seek – by the path which my forefathers trod,",
+            "Through the land of their sojourn – Thy kingdom of love.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "MAMBO, MUFUDZI NORUDO",
       verses: [
@@ -3589,9 +4680,59 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 32,
-    number: "032",
-    category: "Trust",
-    en: { title: "The Lord's My Shepherd", verses: [], chorus: null },
+    number: "048",
+    category: "Providence",
+    en: {
+      title: "The Lord's My Shepherd",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "The Lord’s my Shepherd, I’ll not want.",
+            "He makes me down to lie",
+            "In pastures green: He leadeth me",
+            "The quiet waters by.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "My soul He doth restore again;",
+            "And me to walk doth make",
+            "Within the paths of righteousness,",
+            "E’en for His own Name’s sake.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Yea, though I walk in death’s dark vale,",
+            "Yet will I fear no ill;",
+            "For Thou art with me; and Thy rod",
+            "And staff me comfort still.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "My table Thou hast furnished",
+            "In presence of my foes;",
+            "My head Thou dost with oil anoint,",
+            "And my cup overflows.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Goodness and mercy all my life",
+            "Shall surely follow me;",
+            "And in God’s house for evermore",
+            "My dwelling place shall be.",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "JEHOVAH MUFUDZE WANGU",
       verses: [
@@ -3706,12 +4847,54 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 33,
-    number: "033",
-    category: "Love",
+    number: "496",
+    category: "Love and Joy",
     en: {
       title: "When There Is Kindness in the Heart",
-      verses: [],
-      chorus: null,
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "When there is kindness in the heart,",
+            "And pity for another's woe,",
+            "With love that's beautiful and kind,",
+            "And hands that mercy show.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "How many times will God our Father",
+            "In His great love forgive?",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "When people help each other's needs,",
+            "Although their gift is small,",
+            "When people share each other's grief",
+            "And wipe the tears that fall.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "When others share each other's joy",
+            "Or help a child in pain,",
+            "When people share each other's grief",
+            "And wipe the tears again.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "How many times does God our Father",
+          "In His love forgive?",
+          "How many times does God our Father",
+          "Give us what we need?",
+        ],
+      },
     },
     sn: {
       title: "KANA TINE MWOYO",
@@ -3807,9 +4990,64 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 34,
-    number: "034",
-    category: "Prayer",
-    en: { title: "Dear Lord and Father of Mankind", verses: [], chorus: null },
+    number: "532",
+    category: "Quietude and Trust",
+    en: {
+      title: "Dear Lord and Father of Mankind",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Dear Lord and Father of mankind,",
+            "Forgive our foolish ways!",
+            "Reclothe us in our rightful mind,",
+            "In purer lives Thy service find,",
+            "In deeper reverence, praise.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "In simple trust like theirs who heard",
+            "Beside the Syrian sea",
+            "The gracious calling of the Lord,",
+            "Let us, like them, without a word",
+            "Rise up and follow Thee.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "O Sabbath rest by Galilee!",
+            "O calm of hills above,",
+            "Where Jesus knelt to share with Thee",
+            "The silence of eternity",
+            "Interpreted by love!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Drop Thy still dews of quietness,",
+            "Till all our strivings cease;",
+            "Take from our souls the strain and stress,",
+            "And let our ordered lives confess",
+            "The beauty of Thy peace.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Breathe through the heats of our desire",
+            "Thy coolness and Thy balm;",
+            "Let sense be dumb, let flesh retire;",
+            "Speak through the earthquake, wind, and fire,",
+            "O still, small voice of calm!",
+          ],
+        },
+      ],
+      chorus: null,
+    },
     sn: {
       title: "ISHE, BABA WAMARUDZI",
       verses: [
@@ -3925,9 +5163,66 @@ export const HYMNS: Hymn[] = [
   },
   {
     id: 35,
-    number: "035",
-    category: "Praise",
-    en: { title: "All Things Bright and Beautiful", verses: [], chorus: null },
+    number: "038",
+    category: "Creation",
+    en: {
+      title: "All Things Bright and Beautiful",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All things bright and beautiful,",
+            "All creatures great and small,",
+            "All things wise and wonderful:",
+            "The Lord God made them all.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Each little flower that opens,",
+            "Each little bird that sings,",
+            "He made their glowing colors,",
+            "He made their tiny wings.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The purple-headed mountains,",
+            "The river running by,",
+            "The sunset and the morning",
+            "That brightens up the sky.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "The cold wind in the winter,",
+            "The pleasant summer sun,",
+            "The ripe fruits in the garden,",
+            "He made them every one.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "He gave us eyes to see them,",
+            "And lips that we might tell",
+            "How great is God Almighty,",
+            "Who has made all things well.",
+          ],
+        },
+      ],
+      chorus: {
+        lines: [
+          "All things bright and beautiful,",
+          "All creatures great and small,",
+          "All things wise and wonderful:",
+          "The Lord God made them all.",
+        ],
+      },
+    },
     sn: {
       title: "ZVOSE ZVINOYEVEDZA",
       verses: [
@@ -4049,7 +5344,48 @@ export const HYMNS: Hymn[] = [
     id: 36,
     number: "036",
     category: "Praise",
-    en: { title: "O for a Thousand Tongues to Sing", verses: [], chorus: null },
+    en: {
+      title: "O for a Thousand Tongues to Sing",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O for a thousand tongues to sing",
+            "My great Redeemer's praise;",
+            "The glories of my God and King,",
+            "The triumphs of his grace!"
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "My gracious Master and my God,",
+            "Assist me to proclaim,",
+            "To spread through all the earth abroad",
+            "The honors of thy name."
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "Jesus! the name that charms our fears,",
+            "That bids our sorrows cease;",
+            "'Tis music in the sinner's ears;",
+            "'Tis life and health and peace."
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "He breaks the power of canceled sin,",
+            "He sets the prisoner free;",
+            "His blood can make the foulest clean,",
+            "His blood avails for me."
+          ]
+        }
+      ],
+      chorus: null
+    },
     sn: {
       title: "DAI NDINE NDIMI",
       verses: [
@@ -4209,7 +5545,57 @@ export const HYMNS: Hymn[] = [
     id: 38,
     number: "038",
     category: "Love",
-    en: { title: "Jesus, the Very Thought of Thee", verses: [], chorus: null },
+    en: {
+      title: "Jesus, the Very Thought of Thee",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Jesus, the very thought of thee",
+            "With sweetness fills my breast;",
+            "But sweeter far thy face to see,",
+            "And in thy presence rest."
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "Nor voice can sing, nor heart can frame,",
+            "Nor can the memory find",
+            "A sweeter sound than thy blest name,",
+            "O Saviour of mankind."
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "O hope of every contrite heart!",
+            "O joy of all the meek!",
+            "To those who fall, how kind thou art,",
+            "How good to those who seek!"
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "But what to those who find? ah! this",
+            "Nor tongue nor pen can show;",
+            "The love of Jesus, what it is",
+            "None but his loved ones know."
+          ]
+        },
+        {
+          num: 5,
+          lines: [
+            "Jesus, our only joy be thou,",
+            "As thou our prize wilt be;",
+            "Jesus, be thou our glory now,",
+            "And through eternity."
+          ]
+        }
+      ],
+      chorus: null
+    },
     sn: {
       title: "JESU, NDICHIFUNGA NEMI",
       verses: [
@@ -4409,8 +5795,54 @@ export const HYMNS: Hymn[] = [
     category: "Praise",
     en: {
       title: "All Hail the Power of Jesus' Name",
-      verses: [],
-      chorus: null,
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All hail the power of Jesus' name!",
+            "Let angels prostrate fall;",
+            "Bring forth the royal diadem",
+            "And crown him Lord of all!"
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "Let every kindred, every tribe,",
+            "All nations great and small,",
+            "To him all majesty ascribe,",
+            "And crown him Lord of all!"
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "Ye sinners lost of Adam's race,",
+            "Partakers of the fall,",
+            "Come and be saved by Jesus' grace,",
+            "And crown him Lord of all!"
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "Crown him, ye martyrs of our God",
+            "Who from his altar call;",
+            "Extol the power of Jesus' blood,",
+            "And crown him Lord of all!"
+          ]
+        },
+        {
+          num: 5,
+          lines: [
+            "O that with yonder sacred throng",
+            "We at his feet may fall,",
+            "Join in the everlasting song,",
+            "And crown him Lord of all!"
+          ]
+        }
+      ],
+      chorus: null
     },
     sn: {
       title: "KUDZAI SIMBA RAJESU",
@@ -5034,7 +6466,53 @@ export const HYMNS: Hymn[] = [
     id: 46,
     number: "046",
     category: "Comfort",
-    en: { title: "Take the Name of Jesus with You", verses: [], chorus: null },
+    en: {
+      title: "Take the Name of Jesus with You",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Take the name of Jesus with you,",
+            "Child of sorrow and of woe;",
+            "It will joy and comfort give you,",
+            "Take it then where'er you go."
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "Take the name of Jesus ever",
+            "As a shield from every snare;",
+            "If temptations round you gather,",
+            "Breathe that holy name in prayer."
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "O the precious name of Jesus,",
+            "How it thrills our souls with joy,",
+            "When his loving arms receive us,",
+            "And his songs our tongues employ!"
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "At the name of Jesus bowing,",
+            "Falling prostrate at his feet,",
+            "King of kings in Heaven we'll crown him,",
+            "When our journey is complete."
+          ]
+        }
+      ],
+      chorus: {
+        lines: [
+          "Precious name, O how sweet!",
+          "Hope of earth and joy of Heaven."
+        ]
+      }
+    },
     sn: {
       title: "TORA ZITA ROM’PONISI",
       verses: [
@@ -5240,7 +6718,64 @@ export const HYMNS: Hymn[] = [
     id: 48,
     number: "048",
     category: "Love",
-    en: { title: "Come Let Us All Unite to Sing", verses: [], chorus: null },
+    en: {
+      title: "Come, Let Us All Unite to Sing",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Come, let us all unite to sing:",
+            "God is love!",
+            "Let Heaven and earth their praises bring,",
+            "God is love!",
+            "Let every soul from sin awake,",
+            "Each in his heart sweet music make,",
+            "And sing with us, for Jesus' sake:",
+            "God is love!"
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "O tell to earth's remotest bound,",
+            "God is love!",
+            "In Christ we have redemption found,",
+            "God is love!",
+            "His blood has washed our sins away,",
+            "His Spirit turned our night to day,",
+            "And now we can rejoice to say:",
+            "God is love!"
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "How happy is our portion here,",
+            "God is love!",
+            "His promises our spirits cheer,",
+            "God is love!",
+            "He is our sun and shield by day,",
+            "Our help, our hope, our strength, our stay;",
+            "He will be with us all the way;",
+            "God is love!"
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "In Canaan we will sing again:",
+            "God is love!",
+            "And this shall be our loudest strain:",
+            "God is love!",
+            "While endless ages roll along,",
+            "We'll triumph with the heavenly throng,",
+            "And this shall be our sweetest song:",
+            "God is love!"
+          ]
+        }
+      ],
+      chorus: null
+    },
     sn: {
       title: "UYAI TIIMBE TOSE, ’SHE RUDO",
       verses: [
@@ -5489,8 +7024,54 @@ export const HYMNS: Hymn[] = [
     category: "Comfort",
     en: {
       title: "How Sweet the Name of Jesus Sounds",
-      verses: [],
-      chorus: null,
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "How sweet the name of Jesus sounds",
+            "In a believer's ear;",
+            "It soothes his sorrows, heals his wounds,",
+            "And drives away his fear."
+          ]
+        },
+        {
+          num: 2,
+          lines: [
+            "It makes the wounded spirit whole,",
+            "And calms the troubled breast;",
+            "'Tis manna to the hungry soul,",
+            "And to the weary rest."
+          ]
+        },
+        {
+          num: 3,
+          lines: [
+            "Dear name, the rock on which I build,",
+            "My shield and hiding place,",
+            "My never-failing treasury, filled",
+            "With boundless stores of grace."
+          ]
+        },
+        {
+          num: 4,
+          lines: [
+            "Weak is the effort of my heart,",
+            "And cold my warmest thought,",
+            "But when I see thee as thou art,",
+            "I'll praise thee as I ought."
+          ]
+        },
+        {
+          num: 5,
+          lines: [
+            "Till then I will thy love proclaim",
+            "With every fleeting breath;",
+            "And may the music of thy name",
+            "Refresh my soul in death."
+          ]
+        }
+      ],
+      chorus: null
     },
     sn: {
       title: "ZITA RASHE RINOFADZA",
@@ -32616,6 +34197,317 @@ export const HYMNS: Hymn[] = [
           ],
         },
       ],
+      chorus: null,
+    },
+  },
+  {
+    id: 401,
+    number: "002",
+    category: "God the Father",
+    en: {
+      title: "All creatures of our God and King",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "All creatures of our God and King,",
+            "Lift up your voice and with us sing,",
+            "Alleluia! Alleluia!",
+            "Thou burning sun with golden beam,",
+            "Thou silver moon with softer gleam!",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Thou rushing wind that art so strong,",
+            "Ye clouds that sail in heaven along,",
+            "O praise him! Alleluia!",
+            "Thou rising morn, in praise rejoice,",
+            "Ye lights of evening, find a voice!",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Thou flowing water, pure and clear,",
+            "Make music for thy Lord to hear,",
+            "Alleluia! Alleluia!",
+            "Thou fire so masterful and bright,",
+            "That givest man both warmth and light!",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Dear mother earth, who day by day",
+            "Unfoldest blessings on our way,",
+            "O praise him! Alleluia!",
+            "The flowers and fruits that in thee grow,",
+            "Let them his glory also show.",
+          ],
+        },
+        {
+          num: 5,
+          lines: [
+            "Let all things their Creator bless,",
+            "And worship him in humbleness,",
+            "O praise him! Alleluia!",
+            "Praise, praise the Father, praise the Son,",
+            "And praise the Spirit, Three in One!",
+          ],
+        }
+      ],
+      chorus: {
+        lines: [
+          "O praise him! O praise him!",
+          "Alleluia! Alleluia! Alleluia!",
+        ],
+      },
+    },
+    sn: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+    nd: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+  },
+  {
+    id: 402,
+    number: "003",
+    category: "God the Father",
+    en: {
+      title: "Immortal, Invisible, God Only Wise",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Immortal, invisible, God only wise,",
+            "In light inaccessible hid from our eyes,",
+            "Most blessed, most glorious, the Ancient of Days,",
+            "Almighty, victorious, thy great name we praise.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Unresting, unhasting, and silent as light,",
+            "Nor wanting, nor wasting, thou rulest in might;",
+            "Thy justice like mountains high soaring above",
+            "Thy clouds which are fountains of goodness and love.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "To all life thou givest, to both great and small,",
+            "In all life thou livest, the true life of all;",
+            "We blossom and flourish as leaves on the tree,",
+            "And wither and perish; but naught changeth thee.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Great Father of glory, pure Father of light.",
+            "Thine angels adore thee, all veiling their sight;",
+            "All praise we would render; O help us to see",
+            "'Tis only the splendor of light hideth thee.",
+          ],
+        }
+      ],
+      chorus: null
+    },
+    sn: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+    nd: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+  },
+  {
+    id: 403,
+    number: "006",
+    category: "God the Father",
+    en: {
+      title: "Jehovah is our strength",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Jehovah is our strength,",
+            "And he shall be our song;",
+            "We shall o'ercome at length",
+            "Although our foes be strong.",
+            "In vain does Satan then oppose,",
+            "For God is stronger than his foes.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "The Lord our refuge is",
+            "And ever will remain;",
+            "Since he has made us his",
+            "He will our cause maintain.",
+            "In vain our enemies oppose,",
+            "For God is stronger than his foes.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "The Lord our shepherd is;",
+            "He knows our every need,",
+            "And since we now are his,",
+            "His care our souls will feed.",
+            "In vain do sin and death oppose,",
+            "For God is stronger than his foes.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Our God our Father is;",
+            "Our names are on his heart;",
+            "We ever will be his,",
+            "He ne'er from us will part.",
+            "In vain the mightiest powers oppose,",
+            "For God is stronger than his foes.",
+          ],
+        }
+      ],
+      chorus: null
+    },
+    sn: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+    nd: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+  },
+  {
+    id: 404,
+    number: "007",
+    category: "God the Father",
+    en: {
+      title: "O come, all ye faithful",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "O come, all ye faithful, joyful and triumphant,",
+            "O come ye, O come ye to Bethlehem;",
+            "Come and behold him, born the King of angels;",
+            "O come, let us adore him, Christ the Lord.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Sing, choirs of angels, sing in exultation,",
+            "Sing, all ye citizens of heaven above! ",
+            "Glory to God, all glory in the highest;",
+            "O come, let us adore him, Christ the Lord.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Yea, Lord, we greet thee, born this happy morning;",
+            "Jesus, to thee be glory giv'n;",
+            "Word of the Father, now in flesh appearing;",
+            "O come, let us adore him, Christ the Lord.",
+          ],
+        }
+      ],
+      chorus: null
+    },
+    sn: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+    nd: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+  },
+  {
+    id: 405,
+    number: "015",
+    category: "God the Father",
+    en: {
+      title: "Praise, my soul, the King of heaven",
+      verses: [
+        {
+          num: 1,
+          lines: [
+            "Praise, my soul, the King of heaven;",
+            "to his feet thy tribute bring.",
+            "Ransomed, healed, restored, forgiven,",
+            "who like me his praise should sing?",
+            "Praise him, praise him,",
+            "Praise the everlasting King.",
+          ],
+        },
+        {
+          num: 2,
+          lines: [
+            "Praise him for his grace and favour",
+            "to our fathers in distress;",
+            "praise him still the same for ever,",
+            "slow to chide, and swift to bless.",
+            "Praise him, praise him,",
+            "glorious in his faithfulness.",
+          ],
+        },
+        {
+          num: 3,
+          lines: [
+            "Father-like, he tends and spares us;",
+            "well our feeble frame he knows;",
+            "in his hands he gently bears us,",
+            "rescues us from all our foes.",
+            "Praise him, praise him,",
+            "widely as his mercy flows.",
+          ],
+        },
+        {
+          num: 4,
+          lines: [
+            "Angels, help us to adore him,",
+            "you behold him face to face;",
+            "sun and moon, bow down before him,",
+            "all who dwell in time and space.",
+            "Praise him, praise him,",
+            "Praise with us the God of grace.",
+          ],
+        }
+      ],
+      chorus: null
+    },
+    sn: {
+      title: "",
+      verses: [],
+      chorus: null,
+    },
+    nd: {
+      title: "",
+      verses: [],
       chorus: null,
     },
   },
