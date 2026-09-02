@@ -3,7 +3,7 @@ import React from 'react';
 import { FlatList, StyleSheet, TextInput, View } from 'react-native';
 import { Hymn, Language } from '../../data/types';
 import { HymnCard } from './HymnCard';
-import LanguageSelector from './LanguageSelector';
+
 
 interface Props {
   hymns: Hymn[];
@@ -18,7 +18,6 @@ export default function HymnList({ hymns, lang, search, setSearch, setLang }: Pr
   return (
     <View style={styles.container}>
 
-      {/* Controls: search + language + category */}
       <View style={styles.controls}>
         <TextInput
           style={styles.searchInput}
@@ -27,9 +26,7 @@ export default function HymnList({ hymns, lang, search, setSearch, setLang }: Pr
           value={search}
           onChangeText={setSearch}
         />
-        <View style={styles.filterRow}>
-          <LanguageSelector lang={lang} setLang={setLang} />
-        </View>
+
       </View>
      
       <FlatList
