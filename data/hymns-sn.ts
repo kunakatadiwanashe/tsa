@@ -12285,51 +12285,60 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 264,
     "number": "264",
     "category": "Comfort",
-    "title": "GARAI NEMI",
+    "title": "NDIPEI RUTENDO KUBISA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Garai neni, manheru asvika,",
-          "Kwakutosviba, Ishe, garai neni;",
-          "Kana vamwe vakundikana chose,",
-          "Muyamuri wedu, garai neni."
+          "Ndipei rutendo kubisa",
+          "Makomo o’upenyu hwangu;",
+          "Mundipe rudo rwomwana",
+          "Rwokushandira ’She wangu;",
+          "Rudo rwenyu ngarukunde",
+          "Mwoyo wangu munazvose."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Upenyu hwedu hwasvika kuguma,",
-          "Zvose zvepanyika zvichazopera;",
-          "Zvimwe zvinosandurwa nokupera,",
-          "Imi hamusanduki, garai neni."
+          "Ndoda chido chakasimba,",
+          "Ndipeizve kutsungirira,",
+          "Vaponiswe vakaipa,",
+          "Vabvutwe kubva mukufa,",
+          "Varegerwe naMwari Vanunurwe noM’ponisi."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Ndinokudai nguva dzose, Ishe,",
-          "Hamukundike kundichengeta;",
-          "Chiedza change imi tungamirai,",
-          "Mumatambudziko, garai neni."
+          "Ngandisaparadze nguva,",
+          "Asi, kushandira vamwe;",
+          "Misi igoshandisirwa",
+          "Avo vasingamuzive",
+          "Ndishande nom’towo wavo",
+          "Rudo rwenyu ruve navo."
         ]
       },
       {
         "num": 4,
         "lines": [
-          "Kana muri pedyo handina kutya,",
-          "Nhamo nezvichemo hazvichisina;",
-          "Rufu rwapiko rwave norufaro?",
-          "Kana muri neni, garai neni."
+          "Zvipo zvangu zvose, Ishe,",
+          "Mumaoko zvigam’chirei",
+          "Ndigare ndichiparidza",
+          "Zita renyu ndorikudza;",
+          "Nguva yangu ngaipere",
+          "Mukuparidza Jesu ’She ."
         ]
       },
       {
         "num": 5,
         "lines": [
-          "Ndionere muupenyu hutsva,",
-          "Mwenje wovheneka, Ishe garai neni,",
-          "Chiedza chenyu ngachindihambise,",
-          "Muupenyu, mukufa, garai neni."
+          "Ndizadzisei mwoyo Ishe",
+          "Norudo rwenyu rweDenga;",
+          "Kuti ndisimbararezve,",
+          "Ndivade sokwenyu kuda;",
+          "Kuti ndigogarufudza,",
+          "Makwai amakafira.Charles Wesley (1707-88)"
         ]
       }
     ],
@@ -12339,42 +12348,55 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 265,
     "number": "265",
     "category": "Comfort",
-    "title": "ZUVA REMWOYO WANGU",
+    "title": "NDIRI KUENDA KUDENGA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Zuva remwoyo wangu,",
-          "Msindisi ungowami qha,",
-          "Handichazotya rima,",
-          "Kana muneni Ishe."
+          "Ndiri kuenda kudenga,",
+          "Ndokwidza musi nomusi,",
+          "Ndichifamba, ndonamata,",
+          "Ishe ndikwidzei pashongwe.",
+          "Ndisimudzei, ngandimire",
+          "Norutendo rwokudenga,",
+          "Kuzere rudo, rufaro,",
+          "Ishe, ndikwidzei pashongwe"
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Amazolo nxa esehle,",
-          "Esul’ amehlo ethu-nje,",
-          "Inhliziyo kalingeke,",
-          "Ngehlukane lawe Nkosi."
+          "Mwoyo wangu haudise",
+          "Kutya nekukahadzika;",
+          "Vamwe vogara mazviri,",
+          "Ini ndouya kushongwe."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Hlala lami ukhanyise,",
-          "Uhlale lami Msindisi,",
-          "Ngingalali ungasizi,",
-          "Um’ usiza sibusise."
+          "Ndingade kubva mumhute,",
+          "Ndizorore mukuyedzwa;",
+          "Pam’soro pane rugare",
+          "Rwavanogara pashongwe."
         ]
       },
       {
         "num": 4,
         "lines": [
-          "Nxa siphaphama ekuseni,",
-          "Siphe amandla osindiso,",
-          "Size sikhule kuthando,",
-          "Uhlale lathi phezulu."
+          "Ndoda kukwira pam’soro",
+          "Nyangwe nzira ine dutu",
+          "Ndichikwira, ndichaimba:",
+          "Nditungamire kushogwe."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Nditungamire kugomo,",
+          "Handifambe ndisinemi;",
+          "Kudenga ’ko ndotarisa,",
+          "Ndotenda ndiri pashongwe."
         ]
       }
     ],
@@ -12384,50 +12406,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 266,
     "number": "266",
     "category": "Salvation",
-    "title": "DOMBO REKARE",
+    "title": "NDOTARISA MAKOMO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Dombo rekare,",
-          "Ngandizvivanze nemi;",
-          "Mvura pamwe neropa,",
-          "Padafu zvakabuda,",
-          "Ngazvinyatsoshambidza,",
-          "Ndicheniswe muzvivi."
+          "Ndotarisa makomo,",
+          "Ariko mberi kwangu;",
+          "Anosvevera denga,",
+          "Anondipa kubwinya",
+          "Akadyarwa naJehovha",
+          "Nesimba rake omira,",
+          "Ndotarisa makomo",
+          "Wodana mberi kwangu."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Kuita basa chete,",
-          "Hakungakukwanire,",
-          "Zvido zvangu zvizhinji,",
-          "Misodzi yoyerera,",
-          "Hazvingaripe mhosva,",
-          "Mungaponise moga."
+          "Meso oona shongwe,",
+          "Tsoka dzinomirapo;",
+          "Rutendo ndirwo chete,",
+          "Rwoona zviri mberi.",
+          "Rwakareba semakomo",
+          "Namakwidza anorema",
+          "Ndotarisa makomo",
+          "Kunobva rubatsiro"
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Mumaoko handina,",
-          "Ndovimba noM’chinjikwa;",
-          "Ndipfekedzei, M’ponisi",
-          "Ndiyamure nengoni;",
-          "Ndouya kutsimero,",
-          "Ndishambidze ndisafe."
-        ]
-      },
-      {
-        "num": 4,
-        "lines": [
-          "Kana mweya wapera,",
-          "Kana meso adzima,",
-          "Ndichauya kudenga",
-          "Panzvimbo yokutongwa;",
-          "Jesu dombo rekare,",
-          "Ngandizvivanze nemi."
+          "Ndiri pamakomozve,",
+          "Ndobva kune zvenyika",
+          "Ndosvikapo pashongwe,",
+          "Pasina chondikunda",
+          "Ndoona ndiri pashongwe",
+          "Nyikayo yechipikirwa,",
+          "Ndotarisa kum’soro,",
+          "Mwoyo woona denga.",
+          "Enerst Rance"
         ]
       }
     ],
@@ -12437,33 +12455,43 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 267,
     "number": "267",
     "category": "Guidance",
-    "title": "NDITUNGAMIREI",
+    "title": "NORUDO RWAMWARI, ISHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Nditungamirei Ishe muchiedza chenyu,",
-          "Muchiedza chenyu, muchiedza chenyu;",
-          "Handichazotyi rima, kana muri neni,",
-          "Muchiedza chenyu, muchiedza chenyu."
+          "Norudo rwaMwari, Ishe",
+          "Zvichanaka;",
+          "Ngoni dzake hadzipere,",
+          "Zvichanaka",
+          "Ropa rake rinokosha",
+          "Ngoni dzake dzakakwana;",
+          "Noruoko rune simba",
+          "Zvichanaka"
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Nditungamirei Ishe muhondo youpenyu,",
-          "Muhondo youpenyu, muhondo youpenyu;",
-          "Muchandisimbisa, muchandichengeta,",
-          "Muhondo youpenyu, muhondo youpenyu."
+          "Napatinotambudzika,",
+          "Zvichanaka ;",
+          "Tichaona kununurwa,",
+          "Zvichanaka!",
+          "Tichafara nokuimba",
+          "Mapudzi tichabereka",
+          "Totungamirwa noMweya",
+          "Zvichanaka"
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Nditungamirei Ishe kusvika kudenga,",
-          "Kusvika kudenga, kusvika kudenga;",
-          "Ndichazozorora murugare rwenyu,",
-          "Kusvika kudenga, kusvika kudenga."
+          "Netariro yamangwana,",
+          "Zvichanaka; Tichaimba norutendo,",
+          "zvichanaka!",
+          "Tovimba naBaba wedu,",
+          "Wotipa zvatinoshaya;",
+          "Muupenyu, nomukufa, Zvichanaka."
         ]
       }
     ],
@@ -12473,44 +12501,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 268,
     "number": "268",
     "category": "Comfort",
-    "title": "ZUVA RODOKA",
+    "title": "O MWOYO, ZORORA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Zuva rodoka zvino manheru,",
-          "Mweya wangu unokurumbidzai;",
-          "Tinokutendai Baba nenyasha dzenyu,",
-          "Nezvipo zvamakatipa nhasi."
+          "O Mwoyo, zorora",
+          "Baba vanoratidzwa",
+          "Murudo rwaTenzi,",
+          "Mubasa rake rose;",
+          "Chifamba munzira,",
+          "Mweya wosununguka;",
+          "Rugare rwaIshe",
+          "Ngaruve kwamuri."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Tinochengetwa nemi pausiku,",
-          "Mumaoko enyu tinowana rugare;",
-          "Bisai kutya kwose mumwoyo yedu,",
-          "Tivire nemi mazuva ose."
+          "O Mwoyo, zorora,",
+          "Nomu ma tambudziko,",
+          "Murufu, muviri",
+          "Uchengete rutendo",
+          "Rima riri mberi",
+          "Ngarisambokutyisa.",
+          "Rugare rwaIshe,",
+          "Ngaruve kwauri,"
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Kana ruyedza rwasvika mangwana,",
-          "Tidzorereiwo simba idzva;",
-          "Tishandire Ishe muzvose zvedu,",
-          "Dakara tosvika kumusha kudenga."
+          "Wakatungamira,",
+          "Nzvimbo kugadzirira;",
+          "Uchatungamirwa",
+          "NoMweya Munyaradzi.",
+          "Mumwoyo waBaba,",
+          "Uchave musha wako;",
+          "Rugare rwaIshe,",
+          "Ngaruve kwauri."
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Ngcwele, ngcwele, ngcwele,",
-        "Nkosi yezulu nomhlaba,",
-        "Uzawakhanyisa,",
-        "Umhlaba wonke lo."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 269,
@@ -12557,97 +12590,173 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 270,
     "number": "270",
     "category": "Children",
-    "title": "JESU ANODA VANA VOSE",
+    "title": "RUNYARARO, MUNYIKA YERIMA?",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu anoda vana vose,",
-          "Vapfumbamire kwaari;",
-          "Akati: “vuregererei vana veuze kimi”,",
-          "Nokuti ushe hwe denga ndohwavakadaro."
+          "Rega kumirira izvo zvinoshamisa,"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Runyararo, munyika yerima?",
+          "Usanonoke nechiedza;",
+          "Ropa raJesu roti: nyarara.",
+          "Mukuita basa umire pachokwadi",
+          "Uvhenekere pauri."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Jesu anoziva zvitadzo zve vana,",
-          "Anovaregerera vose;",
-          "Anovapfekedza hanzu chena dzoutsvene,",
-          "Vagofadzwa naye narinhi."
-        ]
-      }
-    ],
-    "chorus": {
-      "lines": [
-        "UJesu uyabathanda,",
-        "Abantwana bonke bomhlaba."
-      ]
-    }
-  },
-  {
-    "id": 271,
-    "number": "271",
-    "category": "Children",
-    "title": "VAMAI VESAREMU",
-    "verses": [
-      {
-        "num": 1,
-        "lines": [
-          "Vamai veSaremu vakauya navana,",
-          "Vakachemera kuna Jesu, muponisi;",
-          "Jesu akavati: “vuregererei vana”,",
-          "Nokuti vana ndeve denga."
-        ]
-      },
-      {
-        "num": 2,
-        "lines": [
-          "Jesu anoda vana vemarudzi ose,",
-          "Anovakoka vose kuti vauye;",
-          "Anovakomborera nemwoyo murefu,",
-          "Nokuti iye ndiye muponisi."
-        ]
-      }
-    ],
-    "chorus": {
-      "lines": [
-        "Vumela abantwana bo,",
-        "Beze kimi."
-      ]
-    }
-  },
-  {
-    "id": 272,
-    "number": "272",
-    "category": "Children",
-    "title": "NDINO FUNGA NYAYA IYO",
-    "verses": [
-      {
-        "num": 1,
-        "lines": [
-          "Ndino funga nyaya iyo yakanaka,",
-          "Pavana vakauya kuna Jesu;",
-          "Akavapfumbamira murudo rwake,",
-          "Ndinoda kuva mumwechete wavo."
-        ]
-      },
-      {
-        "num": 2,
-        "lines": [
-          "Jesu anofara kunesu vana vake,",
-          "Anotidzidzisa mazuva ose;",
-          "Tinovimba nemi, muponisi wedu,",
-          "Dakara tosvika kudenga."
+          "Runyararo, mukumanikidzwa",
+          "Vhenekera pauri",
+          "Kuita kuda KwaShe, rugare",
+          "Vhenekera pauri,",
+          "Uyo ari kure naJesu agone,"
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Kune misha yakanaka kudenga uko,",
-          "Inpenya ne bwinya ra Mwari;",
-          "Vana vachaimba nziyo dzo rufaro,",
-          "Nokusingapere, narinhi."
+          "Runyararo, uri mukusuwa?",
+          "Vhenekera pauri.",
+          "Pachipfuva chaJesu, zorora."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pane rima ungabatsire kuri kunda,",
+          "Usatadziswe nokuzvida;",
+          "Ungafadze mwoyo womumwe nokuimba, Uvhenekere pauri."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mwari wovimbisa vanotevera shoko,",
+          "Usatadziswe nezvitadzo,",
+          "Pachiso chinopenya ngavaone Ishe,",
+          "Uvhenekere pauri."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Runyararo, kure navadiwa?",
+          "Muna Jesu tochengetwa, navo"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Runyararo,zvemberi irima?",
+          "Jesu ari pachigaro chake."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Runyararo, rufu kwese kwese?",
+          "Jesu wokunda rufu nesimba."
+        ]
+      },
+      {
+        "num": 7,
+        "lines": [
+          "Zvakwanira: nhamo dzichapera,",
+          "Jesu wotidana kurugare.",
+          "(1825 -1906)"
+        ]
+      }
+    ],
+    "chorus": null
+  },
+  {
+    "id": 271,
+    "number": "271",
+    "category": "Children",
+    "title": "RUTENDO RWAMADZIBABA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Rutendo rwamadzibaba!",
+          "Vari mujeri, mumoto;",
+          "O mwoyo inofarasei,",
+          "Tichinzwa izwi rinoti:",
+          "Rutendo rwamadzibaba!",
+          "Ndorwedu dakara rufu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mujeri, vakakandwamo,",
+          "Vasingarohwe nehana;",
+          "Asi vechizvrwa chavo.",
+          "Saivo,vachafira ’She."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Rutendo rwamadzibaba!",
+          "Ndudzi dzose, rwuchakunda;",
+          "Nechokwadi chake, Mwari,",
+          "Marudzi osununguka."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rutendo rwamadzibaba!",
+          "Rwokunda mhandu nehama; Tichaparidza zverudo,",
+          "Namabasa enduramo,",
+          "Rutendo rwamadzibaba!",
+          "Ndorwedu dakarakufa.",
+          "F.W Faber (1814-63)altd"
+        ]
+      }
+    ],
+    "chorus": null
+  },
+  {
+    "id": 272,
+    "number": "272",
+    "category": "Children",
+    "title": "TARIRO YANGU IMIRE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Tariro yangu imire",
+          "Paropa raJesu, Ishe",
+          "Handichazovimba mumwe,",
+          "Ndovimba nezita raShe.",
+          "Kristu ibwe pandinomira,",
+          "Kwose kumwe kune jecha."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Uso kwake hwapfidigwa,",
+          "Ngoni dzake dzozorodza",
+          "Napadutu roupenyu",
+          "Ndabatwa naIshe wangu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mhiko nevimbiso dzake",
+          "Zvinotsika mumurove;",
+          "Ndarasikirwa nazvose,",
+          "Iye ndichavimba naye."
         ]
       }
     ],
@@ -12693,33 +12802,65 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 274,
     "number": "274",
     "category": "Praise",
-    "title": "ZVOSE ZVAKANAKA",
+    "title": "ISHE, NDITUMNGAMIREI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Zvose zvakanaka, zvinofadza meso,",
-          "Zvisikwa zva Mwari zvinorumbidza;",
-          "Ruva rinpenya, shiri dzoimba,",
-          "Zvose zvino duduza rudo rwake."
+          "Zvakanakisa kuvimba",
+          "Neizwi rake, Jesu;"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Ishe, nditungamirei,",
+          "Nomuchivimbiso chake,",
+          "Ndirege kurasika;",
+          "Kuziva “Ishe wati”.",
+          "Ndinovanzwa nemi,",
+          "Ndichagara murudo",
+          "Jesu, ndinovimba nemi;",
+          "Ndinogarozviziva !",
+          "Jesu, Jesu, makanaka!",
+          "Nengoni ini,ndichavimba."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Mwari akasika denga ne nyika,",
-          "Akasika zuva, mwedzi nenyenyedzi;",
-          "Makomo marefu nemipata yose,",
-          "Zviito zvake zvinoshumaira."
+          "Zvitsvene kuvimba nashe;",
+          "Nokusiya kuzvida;",
+          "Ndichitenda kuna Jesu, Upenyu, norufaro."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Toimba nerumbidzo kuna Mwari,",
-          "Nezve zviito zvake zvakanaka;",
-          "Tinozvipira kuna muponisi,",
-          "Ndiye muponisi wedu vose."
+          "Ndofara kuvimba nemi",
+          "Jesu, M’ponisi, hama! Ndoziva kuti muneni",
+          "Kusvikira magumo.",
+          "(f) KUTUNGAMIRWA",
+          "Tungamirai!",
+          "Kuti ndisarasike, Munzira youpenyu, Nditungamirei, Ishe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Muri bako romweya,",
+          "Padutu roupenyu;",
+          "Ndokunzwai muri pedyo,",
+          "Netsitsi ndichavimba"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ishe nditungamirei",
+          "Kana dutu rapera;",
+          "Kunyika yokudenga,",
+          "Kusina nemisodzi."
         ]
       }
     ],
@@ -12729,115 +12870,128 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 275,
     "number": "275",
     "category": "Guidance",
-    "title": "MSINDISI NJENGE MUFUDZI",
+    "title": "JESU, NDITUNGAMIREI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Msindisi njenge mufudzi,",
-          "Isu tiri hwai dzenyu;",
-          "Titungamirei kumvura dzo’penyu,",
-          "Mafuro manyoro mopa zvino."
+          "Jesu, nditungamirei",
+          "Mudutu roupenyu;",
+          "Handione pamberi,",
+          "Ngozi, nhamo dzemberi,",
+          "Ndimi mutungamiri,"
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Imi makatifira pamuti,",
-          "Kuregerera mhosva dzedu;",
-          "Tinoda kuvimba neRopa renyu,",
-          "Rinoshambidzwa mwoyo yedu."
+          "Semwana wonyaradzwa,",
+          "Jesu nditungamirei",
+          "Munganyaradze dutu,",
+          "Mafungu anokunzwai",
+          "Mukaati : Nyarara!",
+          "Ndimi, Ishe, wegungwa, Jesu, nditungamirei."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Tipeiwo simba rokutevera,",
-          "Tsoka dzenyu dza makafamba;",
-          "Tinoda kushumira muzvokwadi,",
-          "Dakara tosvika kudenga."
+          "Ndave pedyo nomusha, Nezviedzo zvowanda, Musha uri mhiri ’ko,",
+          "Nd ozendamira nemi,",
+          "Ndonzwa voti : Usatye!",
+          "Ndinokutangamira !"
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Busis’uJesu Kristu,",
-        "Nkosi uJesu Kristu."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 276,
     "number": "276",
     "category": "Warfare",
-    "title": "MBAMBERI VATENDI",
+    "title": "JESU WANDITUNGAMIRA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mbamberi vatendi muchifamba sehondo,",
-          "Muchinjikwa wa Jesu uchienda mberi;",
-          "Kristu mambo wedu anovatungamira,",
-          "Tichienda kuhondo naye ishe."
+          "Jesu wanditungamira,",
+          "Mazwi aya andifadza,",
+          "Zvose izvo zvondoita,",
+          "Ndotungamirwa naIshe.",
+          "Anonditungamira,",
+          "Wondibata noruoko;",
+          "Ndichazova muteveri,",
+          "Ndotungamirwa naIshe."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Marudzi enyika anopfuura vose,",
-          "Asi ushe hwa Mwari huchagara;",
-          "Hakuna chimwe chingachiparadza,",
-          "Nokuti Jesu Kristu ndiye hwaro."
+          "Munguva dzokutambudzwa,",
+          "Nomunguva dzokufara;",
+          "Murugare, nomunhamo",
+          "Ndotungamirwa naIshe.",
+          "Ndobata ruoko rwa’She3.",
+          "Handinyunyute narinhi;",
+          "Mwoyo wofadzwa nazvose,",
+          "Ndotung amirwa naIshe."
         ]
       },
       {
-        "num": 3,
+        "num": 4,
         "lines": [
-          "Farai vanhu vose imba nziyo dzo rufaro,",
-          "Mbiri kuna Jesu muponisi;",
-          "Toenda kudenga kuno rumbidza,",
-          "Jesu muponisi nengirozi."
+          "Kana ndapedza mabasa,",
+          "Ndakunda nengoni dzake;",
+          "Handichazorutya rufu,",
+          "Ndotungamirwa naIshe.",
+          "Joseph Henry Gilmore (1834 -1918)"
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Qhubeka maKristu,",
-        "Ngayo lempi yethu."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 277,
     "number": "277",
     "category": "Warfare",
-    "title": "RWAI HONDO YAKANAKA",
+    "title": "MUHONDO YAJESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rwai hondo yakanaka nesimba rose,",
-          "Kristu ndiye simba redu narinhi;",
-          "Muchandisimbisa neShoko renyu,",
-          "Ndiite basa renyu panyika."
+          "Muhondo yaJesu tiri pamwechete Kurwisa simba remhandu;",
+          "Tokunda satani, towana vatadzi,",
+          "Touya navo kuna Jesu.",
+          "Ndinorwira Jesu chete,",
+          "Napanhamo, napadutu,",
+          "Ndotevera nzira yaShe,",
+          "Ndinorwira Jesu chete."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Ndinomhanya munzira youtsvene,",
-          "Ndichisiya zvose zvepanyika;",
-          "Ndinoda kuwana ngundu yoUshe,",
-          "Iri pakudenga naMwari."
+          "Tinoenda kundorwa nechakaipa",
+          "Tinoda vatadzi vose; Tichizivisa vezva Ishe Jesu,",
+          "Nokuvakokera kunShe."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Musatye vavengi rwisai nesimba,",
-          "Kristu anadzo mhedziso dzedu;",
-          "Achakunda zvose zvakaipa,",
-          "Tofadzwa naye muupenyu."
+          "Jesu wakatida wakafira vose",
+          "Wakafa kutiponisa;",
+          "Asi wakamuka, kuvaregerera",
+          "Vanodana kuzita rake."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kunyange torwa nemhandu dzine simba,",
+          "Tinotsunga kudzirwisa,",
+          "Nokuti kurwa ndokwa’She, Samasimba",
+          "Nesimba raMwari tukunda."
         ]
       }
     ],
@@ -12847,160 +13001,216 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 278,
     "number": "278",
     "category": "Warfare",
-    "title": "MIRAI KUMIRIRA JESU",
+    "title": "MUMAOKO AMWARI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mirai kumirira Jesu vaKritsu,",
-          "Simudzai mureza wake;",
-          "Musanyadziswe neMuchinjikwa,",
-          "Ndiwo simba redu narinhi."
+          "Muponisiachitungamira",
+          "Ndakachengetedzwa kuna zvose;",
+          "Mudutu rehasha wandivanza",
+          "Mumaoko aMwari",
+          "Mumaoko aMwari",
+          "Mumaoko aMwari,",
+          "Handizotyi ndakachengetedzwa,",
+          "Mumaoko aMwari."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Mirai kumirira Jesu vaKritsu,",
-          "Inzwa izwi rake rodana;",
-          "Simuka uende kuhondo yaShe,",
-          "Unokupa simba tikunda."
+          "Mumaoko ake ondibata,",
+          "Izwi rake richandinyaradza",
+          "Ndochengetwa, Ishe wondibata",
+          "Mumaoko aMwari."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Mirai kumirira Jesu vaKritsu,",
-          "Kurwa hakusi kwenguva refu;",
-          "Hwedza tichaimba nziyo dzo rufaro,",
-          "Pane bwinya ra Mwari kudenga."
+          "Wondichengeta, haandisiye",
+          "Murudo rwake handindabviswe;",
+          "Wondichengeta munazvose;",
+          "Mumaoko aMwari."
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Ngokunqoba kuze kube njalo."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 279,
     "number": "279",
     "category": "Warfare",
-    "title": "DAIDZAI HONDO",
+    "title": "PAMWENJE WAMWARI WEDU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Daidzai hondo hlabelani nziyo,",
-          "Rwiyo rwechokwadi runofadza;",
-          "Ishe anadzo ngoni dzakakurisa,",
-          "Kune vanomutenda panyika."
+          "Pamwenje waMwari wedu,",
+          "Ndofamba, ndiri kufamba;",
+          "Panzira yaTenzi wedu,",
+          "Ndofamba ndiri kufamba.",
+          "Hanzu chena yokukunda,",
+          "Musha wangu wakanaka,",
+          "Mubayiro, nokufara,",
+          "Ndowana kudenga.",
+          "Jesu Muponisi wangu",
+          "Wakandishambidza,",
+          "Wakandifira paKarivhari,",
+          "Norudo rwakanakisa ndogaroimba,",
+          "Ndinogara patsime roMuponisi."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Hloma izvo zvombo zve hondo yaShe,",
-          "Takamirira kuvamba kurwa;",
-          "Toenda kuna Jesu muponisi,",
-          "Ndiye muponisi wedu vose."
+          "Ndokunda hondoyezvivi,",
+          "Ndofamba ndiri kufamba;",
+          "Nesimba roM’ponisi,",
+          "Ndofamba ndiri kufamba."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Tinozokunda marudzi enyika,",
-          "Norudo rwa Jesu muponisi;",
-          "Tichazogara naye kudenga,",
-          "Tichimurumbidza narinhi."
+          "Nesimba roMweya wake,",
+          "Ndofamba ndiri kufamba;",
+          "Ndokunda mukurwa kwose,",
+          "Ndofamba ndiri kufamba."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndinozoenda pamberi,",
+          "Ndofamba ndiri kufamba;",
+          "Ndichiparidza zvaMwari,",
+          "Ndofamba ndiri kufamba."
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Khokhela, khokhela,",
-        "Amabutho empini."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 280,
     "number": "280",
     "category": "Warfare",
-    "title": "MAUTO AMWARI MUKAI",
+    "title": "NDICHITUNGAMIRWA NASHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mauto aMwari mukai mushinge,",
-          "Gara makagadzirira hondo;",
-          "Tevera ishe wenyu muponisi,",
-          "Dakara kurwa kwapera chose."
+          "Ndichitungamira naShe,",
+          "Ndingashaiweiko?",
+          "Ndingakahadzike here?",
+          "Achinditungamira.",
+          "Kugarika kwohutsvene",
+          "Ndokwake norutendo.",
+          "ndowirwa nenhamoNyangwe",
+          "Jesu wondiyamura."
         ]
       },
       {
         "num": 2,
         "lines": [
-          "Rwandisai nziyo dzo rumbidzo,",
-          "Nokuti muponisi ari pedyo;",
-          "Zviito zva Mwari zvakanaka,",
-          "Hazvingazombo gumi panyika."
+          "M’ponisi wotungamira,",
+          "Anochenesa nzira,",
+          "Mukuyedzwa wopa ngoni,",
+          "Nechingwa wondigutsa.",
+          "Nyangwe ndoda kuwa pasi",
+          "Mweya wave nenyota,",
+          "Mberi ndinoona Dombo",
+          "Retsime rorufaro."
         ]
       },
       {
         "num": 3,
         "lines": [
-          "Mirai kumirira muponisi,",
-          "Tiende kumusha kudenga;",
-          "Tofadzwa na Jesu muponisi,",
-          "Naphakade naye kudenga."
+          "M’ponisi wotungamira,",
+          "O rudo rwake rwose,",
+          "Ndinovimbiswa zororo",
+          "Mumba maBaba wangu,",
+          "Mweya wangu usasafe",
+          "Ndopinda muchiedza,",
+          "Ndoimba ndichiti : Jesu, Wakanditungamira."
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Lwanani ngeculo,",
-        "Ngamandla eNkosi."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 281,
     "number": "281",
     "category": "Guidance",
-    "title": "NDITUNGAMIREI ISHE",
+    "title": "NDITUNGAMIREI JEHOVHA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Nditungamirei Ishe, rwendo rwangu rwapera;",
-          "Ndimi munotungamira kudenga,",
-          "Mweya wangu unovimba;",
-          "Kuna Jesu Ishe Msindisi wangu."
+          "Nditungamirei Jehovha,",
+          "Ndichifamba parwendo; Ini handina masimba, Ndibatei ruoko;",
+          "Muponisi !",
+          "Ndipei masimba enyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zarurai tsime remvura,",
+          "Mvura yokuponisa; Ndipeiwo kuvhenekerwa Kwomwenje waJehovha Mununuri !",
+          "Muchandidzivirira."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndasvika pakufa kwangu,",
+          "Buritsai kutya kwangu; Ngandipinde denga renyu,",
+          "Nokubatidzwa kwenyu",
+          "Ndichaimba !",
+          "Nziyo dzokurumbidza.",
+          "Trs. Peters (1722-96)",
+          "and Will iam Williams (1717 -91)"
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Nditungamirei, nditungamirei;",
-        "Munzira youtsvene."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 282,
     "number": "282",
     "category": "Prayer",
-    "title": "MWARI TIYAMUREI",
+    "title": "NGANDIVE NOMUPONISI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwari tiyamurei tikuvei nemi;",
-          "Pano panyika murima,",
-          "NoMweya wenyu mundisimbise;",
-          "Munzira yedenga narinhi."
+          "Ngandive noMuponisi,",
+          "Handingafambe ndoga;",
+          "Ngaasedere kwandiri,",
+          "Naiye ndigobatwa.",
+          "Mweya wangu usingatye",
+          "Ngaanditungamire,",
+          "Ndoenda, ndisingarambe",
+          "Kuita kuda kwake."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ngandive noMuponisi ,",
+          "Handichina rutendo,",
+          "Angataure kwandiri,",
+          "Mazwi orunyaradzo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngandive noMuponisi,",
+          "Ndichifamba panyika;",
+          "Mumatambudziko makuru,",
+          "Kana mukufadziswa."
         ]
       }
     ],
@@ -13010,15 +13220,38 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 283,
     "number": "283",
     "category": "Prayer",
-    "title": "NDIDZIDZISEI MSINDISI",
+    "title": "TUNGAMIRA MURIMA RENYIKA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndidzidzisei Msindisi kunyengetera;",
-          "Neizwi renyu dzvene,",
-          "Kana ndiri mutadzi ndiregererwe;",
-          "Negoni dzenyu Msindisi wangu."
+          "Tungamirai murima renyika",
+          "Tungamirai !",
+          "Ndiri kure kure nokumusha,",
+          "Tungamirai !",
+          "Ndisimbisei, handidi kuona",
+          "Zviri mberi : asi nhamo chete."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndinonyengetera bedzi k uti,",
+          "Tungamirai !",
+          "Ndaita kuda kwangu, zvino",
+          "Tungamirai!",
+          "Ndaida zvinhu zvose zvenyika,",
+          "Ndaizvida : chindikanganwirai."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Nesimba renyu ndakomborerwa;",
+          "Tungamirai ! Pamatombo nedutu, usiku",
+          "Hupfuure;",
+          "Mangwanani ndigam’chirwe ini",
+          "Nezviso zvavo, vadiwa vangu."
         ]
       }
     ],
@@ -13028,15 +13261,50 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 284,
     "number": "284",
     "category": "Invitation",
-    "title": "MSINDISI UNODANA",
+    "title": "TITUNGAMIREI NOMUTSA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Msindisi unodana ngatizuye;",
-          "Tisondele chose kwaari,",
-          "Ngatikumbirei kwaari nanhasi;",
-          "Kuti nesuwo tiponiswe."
+          "Titungamirei numutsa,",
+          "Mufudzi tichengetei;",
+          "Pamafuro akanaka,",
+          "Mumipata tifudzei.",
+          "Jesu wedu",
+          "Makatitenga, Ishe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tiri venyu mutibate,",
+          "Ivai mudziviriri;",
+          "Dzivirirai mukuedzwa,",
+          "Titsvake, varasiki",
+          "Jesu wedu",
+          "Tinochema kwamuri."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Chokwadi motigam’chira,",
+          "Isu tiri vatadzi;",
+          "Mune tsitsi mune simba",
+          "Tishambidzei nengoni",
+          "Jesu wedu",
+          "Ngatiuye kwamuri."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ngatitsvake ngoni dzenyu;",
+          "Tiite kuda kwenyu;",
+          "Ishe wetsitsi nomutsa",
+          "Tizadzisei norudo",
+          "Jesu wedu",
+          "Munotida kwazvo."
         ]
       }
     ],
@@ -13046,15 +13314,53 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 285,
     "number": "285",
     "category": "Invitation",
-    "title": "INZWAI JESU ACHITAURA",
+    "title": "ISU TINORWA NASATAN’",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Inzwai Jesu achitaura nesu;",
-          "Akati: 'Sondelani muponiswe,'",
-          "Nanhasi Msindisi achidana;",
-          "Wose ari Mkristu ngaauye."
+          "Isu tinorwa naSatan’",
+          "Tichakunda ! Tichakunda !",
+          "Vanhu vachanzwirwa tsitsi.",
+          "Tichakunda ! Tichakunda!",
+          "Kunyange avo vatadzi,",
+          "Ngavazive M’ponisi,",
+          "Kuti vagonzwirwa tsitsi; Tichakunda ! Tichakunda!",
+          "Ngativheyese mureza",
+          "Mudenga pam’soro pedu,",
+          "Neropa raJesu wedu;",
+          "Tichakunda ! Tic hakunda!"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kunyange Satan’ asimbe,",
+          "Tichakunda ! Tichakunda !",
+          "Tichiedzwa misi yose,",
+          "Tichakunda ! Tichakunda!",
+          "Muna Kristu tinovimba,",
+          "Muzita rake tinorwa;",
+          "Tagadzira kum’shandira;",
+          "Tichakunda ! Tichakunda!"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mumadutu oupenyu,",
+          "Tichakunda ! Tichakunda!",
+          "Murima nezvinotyisa,",
+          "Tichakunda ! Tichakunda!",
+          "Tonzwa izwi rake, Ishe,",
+          "Mukutinhira kwehondo",
+          "Achiti : mirai nesimba,",
+          "Muchakunda ! Muchakunda!",
+          "VII UTO RERUPONISO",
+          "The Salvation Soldier",
+          "(a)",
+          "KUGAM’CHIRWA KWEMAUTO",
+          "Swearing-in Of Solders"
         ]
       }
     ],
@@ -13064,15 +13370,36 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 286,
     "number": "286",
     "category": "Prayer",
-    "title": "ISHE TONGAYI NESU",
+    "title": "JESU MATITORA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe tongai nesu munyika ino;",
-          "Nomweya mutsvene dzikai,",
-          "Mubise mhandu dzedu dzose;",
-          "Tongai-wo, Ishe narinhi."
+          "Jesu matitora, matinunura;",
+          "Noruoko rwenyu, motidaidza Kukuteverai; tozadzwa utsva, Topa zvivimbiso pasi pom’reza.",
+          "Tinopira mhiko",
+          "Ticharwa! Ticharwa!",
+          "Torwa naSatani,",
+          "Vamwe vapone."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tine hama pano, hatisi toga",
+          "Motisunganidza isu naivo;",
+          "Mhiko tochengeta, tiri muhondo;",
+          "Toshanda kurwira humambo hwenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ruponiso rwedi, ndicho chinangwa;",
+          "Topira miviri, pfungwa nomweya;",
+          "Ndotsvaga utsvene, rega kuneta!",
+          "Mubasa ndotsvaga, rufaro rwenyu.",
+          "Will J. Brand (1889 1977)-"
         ]
       }
     ],
@@ -13082,15 +13409,58 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 287,
     "number": "287",
     "category": "Praise",
-    "title": "FARAI MUNA JESU",
+    "title": "NDAKANZWA VANOTENDA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Farai mose muna Jesu Ishe;",
-          "Rufaro ruri pedyo nesu,",
-          "Mazuva ose ngatimukudzei;",
-          "Wakafira marudzi ose."
+          "Ndakanzwa vanotenda",
+          "Vakarwa vasingatye,",
+          "Vapfeka ngundu dzoupenyu;",
+          "Pfungwa yondidzokera :",
+          "Ndingave uto here",
+          "Kunge magamba asingatye?",
+          "Ndichapfeka nhoo,",
+          "Enda kuhondo,",
+          "Ndotsunga ndikunde,",
+          "handidududze,",
+          "Muvengi achaziva,",
+          "kwose kwandinoenda",
+          "Kuti ndinorwira",
+          "Jehovha."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ini ndichamirawo",
+          "Nomunondo waMwari",
+          "Ndonyemwerera mberi kwemhandu;",
+          "Ndopfeka ngundu yangu,",
+          "Ndotonga kumusha Kudenga kunopenya kwazvo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndova uto mukurwa,",
+          "Ndozembera naIshe;",
+          "Ndiye simba rondinunura;",
+          "Handingabve pandiri,",
+          "Rufu rwandisvikira",
+          "Kukunda satani ndotsunga."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Haungavewo uto",
+          "Pamwe neni muhondo?",
+          "Hazvibatsire kungogara;",
+          "Jesu anoda varwi",
+          "Vanorwa vasingatye,",
+          "Vovhunduitsa vavengi vaShe.",
+          "Mark William Sanders (1862-1943)"
         ]
       }
     ],
@@ -13100,15 +13470,95 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 288,
     "number": "288",
     "category": "Praise",
-    "title": "ISHE TINOTENDA",
+    "title": "RUFARO,RURI MUHONDO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe tinotenda nengoni dzenyu;",
-          "Dzinopiwa isu tose,",
-          "Tichamushandira Msindisi wedu;",
-          "Kudzamara narinhi chose."
+          "Rufaro ! ruri muHondo yoRuponisi;",
+          "Rufaro ! muHondo yaIshe.",
+          "Imbai kuna ’She, nziyo dzokurumbidza,",
+          "Ridzai ngoma, mimhanzi ichiridzwa;",
+          "Ridzai mose, imbai nziyo,",
+          "Rumbidzai ’She mune rufaro;",
+          "Toenda kunyika yorufaro.",
+          "Tofara munziramo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Rufaro ! ruri muHondo yoRuponiso;",
+          "Rufaro ! muHondo yaIshe.",
+          "Neropa nemoto mauto anokunda,",
+          "Neropa nomoto tinesimba, mukurwa;",
+          "Ropa nomoto zvinosimbisa,",
+          "Vavengi vedu vanozokundwa; Iropa nomoto zvinotipa",
+          "Simba rokukunda.",
+          "3 Rufaro ! ruri muHondo yoRuponiso;",
+          "Rufaro ! muHondo yaIshe.",
+          "Toimba, toimba, vose vachapembera",
+          "Tofara, tofara, denga richaungira;",
+          "Nengoma dzedu nemimhanzizve,",
+          "Mumisha yedu torumbidza ’She,",
+          "Kudzamara ’She asvike,",
+          "Tinozomukudza.",
+          "289 ’SHE WORUDO NESIMBA",
+          "Lord Of Life And Love",
+          "Nottingham,289; Buckland, 275;",
+          "Theodara, 297"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "’She, worudo nesimba, Panguva ino tsvene, Tozvipira kwamuri",
+          "Nemisi inouya."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tinoda kuterera,",
+          "Titume, ’She, kunorwa,",
+          "Toenda tisingatye",
+          "Kunorwa nomuvengi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Basa mberi iguru,",
+          "Totungamirwa nemi,",
+          "Muzviyedzo zvikuru,",
+          "Nesimba tichakunda."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Zvivi, kutya, nenyadzi,",
+          "Zvonyangadza muviri;",
+          "Rufaro toparidza,",
+          "Vatadzi vaunzwewo."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Vadzidzi vakabvuma",
+          "Kusiya zvose zvavo;",
+          "Pavakafamba napo",
+          "Tifambe tisingatye."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Ishe mutungamiri,",
+          "Tipei Mweya Mutsvene,",
+          "Chengetai tsoka dzedu",
+          "Munzira youpenyu."
         ]
       }
     ],
@@ -13136,15 +13586,40 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 290,
     "number": "290",
     "category": "Worship",
-    "title": "SHUMAIRAI NOMUFARO",
+    "title": "SIMBAI MUNGONIDZASHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Shumirai Ishe nemufaro;",
-          "Ipanyi rumbidzo kwaari nanhasi,",
-          "Jesu Msindisi ari pedyo;",
-          "Kuna vose vanomuda."
+          "Simbai mungoni dzaShe,",
+          "Ivai vakarurama;",
+          "Tsungai murwire Mwari,",
+          "Nemwoyo wose kushanda",
+          "Simbai ! Simbai!",
+          "Mwari achanda kutya."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Simbai mungoni dzaShe,",
+          "Gadzirirai kushanda;",
+          "Uyai muvayamure",
+          "Vose Vanoshaya simba",
+          "Simbai ! Simbai!",
+          "Disai kuita basa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Simbai mungoni dzaShe",
+          "Irwai nerake simba;",
+          "Munjodzi zhinji tsungai,",
+          "Shingirirai mukurwa.",
+          "Simbai ! Simbai! Mufarise nokukunda",
+          "(1872 -1952)",
+          "(b) KURWA NERUTENDO"
         ]
       }
     ],
@@ -13153,16 +13628,66 @@ export const HYMNS_SN: HymnLanguage[] = [
   {
     "id": 291,
     "number": "291",
-    "category": "Trust",
-    "title": "TENDAI JESU",
+    "category": "Warfare",
+    "writer": "Sabine Baring-Gould (1834-1924)",
+    "title": "ENDAI PAMBERI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tendai Jesu mubasa renyu;",
-          "Musatsauke kwaari nanhasi,",
-          "Mukabatisisa muropa rake;",
-          "Kuti nemiwo muponiswe."
+          "Endai pamberi,",
+          "Varwi, vaMwari",
+          "Muchitungamirwa",
+          "NoM’chinjikwa!",
+          "Kristu, Tenzi wedu,",
+          "Mutungamiri,",
+          "Mireza yaMambo",
+          "Iri pamberi.",
+          "Endai kundorwa",
+          "Varwi vaMwari,",
+          "M’chinjikwa waJesu",
+          "Uri pamberi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Hondo yaSatani Yotya M’chinjikwa;",
+          "Saka ngatiende",
+          "Tinokunda !",
+          "Simba raSatan",
+          "Rave kupera;",
+          "Simudzirai izwi",
+          "Rokurumbidza."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "VaKristu vofamba",
+          "Hondo inorwa;",
+          "Tofamba pavaka",
+          "Famba vatsvene.",
+          "Tiri pamwechete,",
+          "Sangano rimwe;",
+          "Tariro nerudo",
+          "Zvichiri pamwe",
+          "Zvoushe zvingafe",
+          "Zvinozorova;",
+          "Gungano raJesu",
+          "Richazogara.",
+          "Simba rasatani",
+          "Haringakunde,",
+          "Chivimbiso chaShe,",
+          "Hachikundike.",
+          "Fambai vaKritsu",
+          "Ngatisanganei;",
+          "Mazwi edu tose",
+          "Ngaarumbidze",
+          "Rurumbidzo rwose",
+          "Rupiwe Mambo,",
+          "Nokusingapere",
+          "Toimba nziyo."
         ]
       }
     ],
@@ -13172,15 +13697,50 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 292,
     "number": "292",
     "category": "Holy Spirit",
-    "title": "MWEYA MUTSVENE DZIKAI",
+    "title": "JESU, IPAI HONDO YENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mweya mutsvene dzikai nesu;",
-          "Tibvumane tisondele,",
-          "Tiparidze vhangeri rake;",
-          "Rumbidzo yose ive kwamuri."
+          "Jesu, ipai hondo yenyu",
+          "Rusununguko rwenyu;",
+          "Ngatirwe nokuvimbika",
+          "Tichikupemberera.",
+          "Hareruya! Hareruya!",
+          "Tichave nokukunda."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mwoyo yose yemagamba",
+          "Nomweya yoshongedzwa;",
+          "Tirivo varwi narinhi,",
+          "Titumirei kundorwa.",
+          "Nomuhondo ! Nomuhondo!",
+          "Toshanda misi yose."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vavengi vari kukundwa,",
+          "Satani anotiza;",
+          "Majoto anodimurwa",
+          "Neropa zvoparadzwa.",
+          "Tokukudzai ! Tokukudzai !",
+          "Torwa dakara tife."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Bisai makomo enhamo,",
+          "Zvakaipa zvinatswe;",
+          "Tishambidzwe paKarivhari,",
+          "Mutume ruponiso.",
+          "Ndudzi dzose ! Ndudzi dzose!",
+          "Todziwana neropa."
         ]
       }
     ],
@@ -13190,15 +13750,52 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 293,
     "number": "293",
     "category": "Warfare",
-    "title": "VAKRISTU PAMADZAI",
+    "title": "KUNDORWA! KUNDORWA!",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Vakristu pamadzai zvombo zvenyu;",
-          "Nomweya mutsvene utiyamure,",
-          "Tirwe hondo nemasimba;",
-          "Nokuda kwezita raJesu."
+          "Kundorwa ! kundorwa! Tadanwa",
+          "nemhere;",
+          "Ngatiende tose, kana tisingatye;",
+          "Onai zviuru zvavo varasiki,",
+          "Ndiani woenda nezita raIshe?",
+          "Irwai! Irwai !",
+          "Irwai ! Irwai !",
+          "Nemoto neRopa;",
+          "Hatichaneta,",
+          "Dakara asvike Jesu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kundorwa ! Kundorwa ! ndovapiko",
+          "varwi?",
+          "Anodaidza kuti murwe ndiMwari;",
+          "Kunyange hondo yemhandu ichityisa,",
+          "Mauto aJesu vanozokunda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kundorwa! Kundorwa! Inoridzwa",
+          "Mhere;",
+          "Ndiani anouya kurwira Ishe?",
+          "Mwari achatipa masimba maku ru,",
+          "Ndiani worwa musimba reJesu"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kundorwa ! Kundorwa ! munhu wose",
+          "inzwai !",
+          "Yamura vanofa tsvaka varasika;",
+          "Vakadavira kare vanofarisa,",
+          "Voimba :nesu toenda kundorwa.",
+          "M. Stark273"
         ]
       }
     ],
@@ -13208,15 +13805,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 294,
     "number": "294",
     "category": "Praise",
-    "title": "PURURUDZAI VANHU",
+    "title": "MAKORE MAZHINJI ZHINJI EHONDO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Pururudzai vanhu nemufaro;",
-          "Tiimbire Ishe wedu,",
-          "Jesu Kristu akakunda;",
-          "Ari pakati pedu nanhasi."
+          "Makore mazhinji zhinji ehondo panyika,",
+          "Mureza unoonekwa panokundwa pose;",
+          "Pasi pawo tichirwira zvose zvinokosha,",
+          "Muzita raMwari, mureza ngaupepere.",
+          "Pasi pomureza ticharwa, hatinete,",
+          "Mwari woponisa neropa nemoto."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mureza unotaurwa zvihuru zvenguva,",
+          "Nyaya yavazvarwa patsva pasi pomuseza;",
+          "Vakarwa nasatani vakawana mikombe,",
+          "Namavanga avo, asimukundi ndiMwari."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndiri pasi pawo, ini ndakapira mhiko,",
+          "Mwari ndakavimbisa kuti ndive uto;",
+          "Kana warira mumhanzi ndichave",
+          "ndakunda",
+          "Moto, ropa noutsvene zvichandinunura."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mureza unosimudzirwa kundudzi dzose,",
+          "Gadzirira hondo yako nouyu mureza;",
+          "Kurwisa rima rezvivi kusvikira zuva",
+          "Topeta mureza umambo hwako hwouya.",
+          "Wi ll J. Bran (1889 -1977)"
         ]
       }
     ],
@@ -13226,15 +13854,55 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 295,
     "number": "295",
     "category": "Service",
-    "title": "MSINDISI TIPE SIMBA",
+    "title": "MAUTO PAM’CHINJIKWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Msindisi tipe simba renyu;",
-          "Tiparidze nyaya iyi,",
-          "Yokucheniswa muropa rake;",
-          "Kuti kwatiri kuve kutsvene."
+          "Mauto paM’chinjikwa,",
+          "Rwirai, ’She!",
+          "Zvideredzwe zvenyika,",
+          "Rwirai ’She.",
+          "Uyai, mauto!",
+          "Takaponisiswa, Uyai nesu,",
+          "Tiri vakundi,",
+          "Tichakunda zvose."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nezita roM’ponisi,",
+          "Rwirai ’She!",
+          "Irwai naSatani.",
+          "Rwirai ‘She"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Irwai nukutenda,",
+          "Rwirai ’She!",
+          "Jesu wopa kukunda,",
+          "Rwirai ’She."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kusave anotiza,",
+          "Rwirai ’She!",
+          "Irwai yose nguva,",
+          "Rwirai ’She."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Irwai mutendeke,",
+          "Rwirai ’She,",
+          "Munogokunda zvose,",
+          "Rwirai ’She"
         ]
       }
     ],
@@ -13244,15 +13912,57 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 296,
     "number": "296",
     "category": "Praise",
-    "title": "RUMBIDZAI ISHE",
+    "title": "MIRAI NAMASIMBA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rumbidzai Ishe nemufaro;",
-          "Imbai mose, pururudzai,",
-          "Jesu anotonga kudenga;",
-          "Narinhi ndowedu chose."
+          "Mirai namasimba,",
+          "Mauto aJesu,",
+          "Simudzai mureza",
+          "WaMambo mukuru;",
+          "Anotipa tikunde",
+          "Mhandu dzake dzose, Kudakara agadzwe",
+          "’She wavanhu vose."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mirai namasimba,",
+          "Ndizvo madaidzwa;",
+          "Budai makasimba,",
+          "Nhasi munogorwa.",
+          "Chimurwirai Ishe",
+          "Murwise vavengi;",
+          "Musimbe pane njodzi,",
+          "Murwe savatsungi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mirai namasimba",
+          "AJesu ’She wenyu;",
+          "Pachenyu hamunawo,",
+          "Musafunge enyu.",
+          "Shongai zvombo zvaShe,",
+          "Mugaroteura,",
+          "Kunyange pane njodzi,",
+          "Musatye kundorwa."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mirai namasimba,",
+          "Hondo ichapera;",
+          "Nhasi izwi rokurwa,",
+          "Hwedza rokukunda.",
+          "Upenyu husingafe",
+          "Hwopiwa kum’kundi,",
+          "Achagara naMambo,",
+          "Narinhi narinhi."
         ]
       }
     ],
@@ -13262,15 +13972,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 297,
     "number": "297",
     "category": "Worship",
-    "title": "ISHE TASANGANA",
+    "title": "MUREZA WEDU WEHONDO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe tasangana muzita renyu;",
-          "Ramusindisi wedu Jesu,",
-          "Tinokumbira ngoni dzikurukure;",
-          "Tivimbe nemi, Ishe wangu."
+          "Mureza wedu weHondo",
+          "Unokwazisa zuva;",
+          "Kunopenya mberi kwawo,",
+          "Uchawana rukundo.",
+          "Fambawo napakuedzwa,",
+          "Upupurire Jesu!",
+          "Bhururuka mangwanani,",
+          "Umutevere Jesu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Umambo hwerima guru,",
+          "Hwopera mberi kwaShe;",
+          "Kana varanda vezvivi,",
+          "Vacharasa majoto",
+          "Zviuru zvavo vadzoki,",
+          "Voenda kuna Kristu;",
+          "Vachapinda muumambo",
+          "Hune vana vaBaba."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mureza tokutakura",
+          "Nemwoyo inofara.",
+          "Tokudzwa mukurwa kwose,",
+          "Tofara semauto;",
+          "Dzamara vanhu vawande",
+          "Muumambo hwaKristu.",
+          "Rumbidzai, mukudzei,",
+          "Kristu weNazareta.",
+          "Albert Osborn (1886-1967)"
         ]
       }
     ],
@@ -13280,15 +14021,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 298,
     "number": "298",
     "category": "Invitation",
-    "title": "INZWAI IZWI RAMSINDISI",
+    "title": "MUREZA WOPENYA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Inzwai izwi raMsindisi;",
-          "Rangarirai tariro yedenga,",
-          "Wose anotenda achaponiswa;",
-          "Muna Jesu Ishe wedu tese."
+          "Mureza wopenya",
+          "Npakudenga;",
+          "Mauto aKristu",
+          "Arikufamba:",
+          "Tofamba murenje,",
+          "Tichinamata.",
+          "Nomwoyo mumwechete,",
+          "Tiri kuimba.",
+          "Mureza wopenya",
+          "Napakudenga;",
+          "Mauto aKristu",
+          "Ari kufamba."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu, Ishe, Tenzi,",
+          "Patsoka dzenyu,",
+          "Isu vana venyu",
+          "Tinofarisa.",
+          "Takambokusiyai,",
+          "Tikarasika;",
+          "Tichengetei, Muponisi,",
+          "Munzira tsvene."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Chititungamirai",
+          "Munzira dzose;",
+          "Tiite vakundi",
+          "Vemhandu dzose",
+          "Dambudzo rapera,",
+          "Motizorodza",
+          "Jesu makanaka,",
+          "Tokuimbirai.",
+          "T.J. Potter (1827 - 73)",
+          "W. Walsham How (1823 -97altd)"
         ]
       }
     ],
@@ -13298,15 +14075,48 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 299,
     "number": "299",
     "category": "Invitation",
-    "title": "MSINDISI KOZEDZA MARUDZI",
+    "title": "MWARI WOCHENGETA MAUTO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Msindisi kozedza marudzi;",
-          "Muumambo hwenyu huno zvino,",
-          "Tisave varasiki mumweya;",
-          "Msindisi tichengetei."
+          "Mwari wochengeta mauto,",
+          "Tichave vakundi narinhi;",
+          "Hondo yezvivi yosangana ,",
+          "Tine chokwadi kukunda,",
+          "Vanoedza kutikunda",
+          "Tichiri kungorwisa,",
+          "Mureza uchapepera,",
+          "Hatichazokundika.",
+          "Kwete, hatizokundika narinhi,",
+          "Kwete, kwete, kwete, kwete,",
+          "Kwete hatizokundika narinhi,",
+          "Ticharwira rukundo mazuva ose"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tichatevera Muponisi,",
+          "Hondo yezvivi ichatiza;",
+          "Varwi havazotyi rarinhi,",
+          "Vakatsungirira kukunda;",
+          "Pautsvene nedenga,",
+          "Hatife takabva",
+          "Ticharamba tichingorwa,",
+          "Hatichazokundika ."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Namatama oruponiso,",
+          "Toenda kumarudzi ose;",
+          "Noruponiso ruzere",
+          "Tichandoparidzira,",
+          "Tichabvarura satani",
+          "Towanira ’She nyika,",
+          "Tova vakundi narinhi, Hatidzokeri shure. William James Pearson (1832-92"
         ]
       }
     ],
@@ -13316,61 +14126,154 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 300,
     "number": "300",
     "category": "Salvation",
-    "title": "RUMBIDZAI KUPINDUKA",
+    "title": "MWEYA WANGU, INZWAI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rumbidzai kupinduka kwaMwari;",
-          "Toona ruponiso kumusha’ko,",
-          "Tichasangana navaponiswa;",
-          "Narinhi kumusha kudenga."
+          "Mweya wangu, inzwa rwiyo rwokurwa",
+          "Munyika ’yo nomumisha yedu; Idi rinorehwa nenziyo idzo,",
+          "Dzehondo apo chivi chakundwa",
+          "Hondo yoruponiso, hondo yaMwari,",
+          "Inofamba kukunda neropa nomoto,",
+          "Inofamba kukunda neropa nomoto."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Toenda, nyika ichanzwa kuimba",
+          "Uyai, Jesu anokudanai,",
+          "Dzigonzwika pane rima rezvivi,",
+          "Dzotungamira vose kumusha."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kure sokuriridza kunofadza,",
+          "Tichatuma rukoko rwengoni,",
+          "Varasiki vose vachapfugama;",
+          "Vachizvipira kwamuri, Ishe"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kunyangwe kurwa kuve kwakaoma",
+          "Usiku hwezvivi huchapfuura",
+          "Tinozokunda tawana vatadzi,",
+          "Ushe hwasatani hwaparadzwa.",
+          "Fredick William Faber (1814-63)",
+          "alt. George Scott Railton",
+          "(1849-1913)"
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Kupinduka, kupinduka;",
-        "Tofara kudenga."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 301,
     "number": "301",
     "category": "Salvation",
-    "title": "MUNHANZVA DZANGU",
+    "title": "NDIRI UTO ROM’PONISI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Munhanzva dzangu, ndouya kwamuri;",
-          "Kuti ndirarame murumbidzo,",
-          "Chishamiso chengoni dzake,",
-          "Ndichawana zororo."
+          "Ndiri uto roM’ponisi,",
+          "Ndinoenda kudenga; Tererai shoko rangu, Uyai vadikanwa.",
+          "Ndinomuda Muponisi",
+          "Ndinomuda ndodaro, Ndinomuda wandifira,",
+          "Jesu anondidawo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndokuudza chikonzero",
+          "Chakandiita uto :",
+          "Rudo rwoM’ponisi wangu",
+          "Rwandikunda mumwoyo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Pakutanga kwangu kurwa,",
+          "Vakati : achatiza;",
+          "Asi vakakanganisa,",
+          "Ndicharamba ndichirwa."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndinoshamisa vazhinji;",
+          "Musanduri ndiMwari,",
+          "Zvino ndinomurumbidza Nokuti muyamuri."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Pakusvika kwangu ini",
+          "Pakurova rwokufa,",
+          "Ndoyambuka ndichiimba :",
+          "Hareruya ! ndakunda",
+          "Richard Jukes (1804-67)"
         ]
       }
     ],
-    "chorus": {
-      "lines": [
-        "Ndouya, ndouya;",
-        "Kuna Msindisi wangu."
-      ]
-    }
+    "chorus": null
   },
   {
     "id": 302,
     "number": "302",
     "category": "Prayer",
-    "title": "WENGONI UYAI",
+    "title": "RIDZAI MHERE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Wengoni uyai, mundikomborere;",
-          "Nemwoyo wangu wose,",
-          "Ndishambidzei zvino muzvakaipa;",
-          "Kuti ndive mutsvene."
+          "Ridzai mhere,",
+          "Murwire Ishe,",
+          "Mureza waShe,",
+          "Simutsai.",
+          "Pakati zvombo",
+          "Tsungai mose,",
+          "Vimbai nezwi",
+          "Rake dzvene.",
+          "Simutsai mureza waIshe",
+          "Paridzai shoko rake",
+          "Fambai mberi mumurumbidze",
+          "Mutungamiri ndi ye Ishe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tofamba mberi,",
+          "Kurwisa mhandu,",
+          "Tichazokunda",
+          "Mukurwa;",
+          "Mureza wedu",
+          "Wopenya kwazvo,",
+          "Muchokwadi",
+          "Hatingakundwe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mwari wavose,",
+          "Tinzwe todana",
+          "Mutiyamure",
+          "Nengoni;",
+          "Kurwa kwapera,",
+          "Isu takunda,",
+          "Tipfeke ngundu",
+          "Mberi kwenyu."
         ]
       }
     ],
@@ -13380,15 +14283,42 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 303,
     "number": "303",
     "category": "Salvation",
-    "title": "NDAKANGE NDINE NHAMO",
+    "title": "TAMBANUDZA MUREZA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndakange ndine nhamo, ndichitya;",
-          "Kwakanzwika izwi richiti,",
-          "'Uya kuna Jesu Msindisi,",
-          "Ucharegererwa narinhi.'"
+          "Tambanudza mureza,",
+          "Namavara awo; Anoyevedza kwazvo, Pamberi pavose. Shoko nderoupenyu,",
+          "Rakabva kudenga;",
+          "Shoko roruponiso,",
+          "Utsvene norudo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Simutsai mureza",
+          "Muna dzose nyika;",
+          "Woshevedza vashingi",
+          "Nengoni dzaMwari.",
+          "Ruponisi rwopiwa",
+          "Kuvatadzi vose;",
+          "Kumarudzi",
+          "Nokusingapere.",
+          "epasi,"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tomira pasi pawo,",
+          "Nengoni dzaJesu. Murudo rwoutsvene,",
+          "Toshamba muropa.",
+          "Hondo yoruponiso!",
+          "Madanwa kundorwa;",
+          "Musanete mukurwa,",
+          "Mugadze Kristu ’She."
         ]
       }
     ],
@@ -13398,15 +14328,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 304,
     "number": "304",
     "category": "Holiness",
-    "title": "NDINODA JESU",
+    "title": "UNGADUDZIRE ZVIRI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinoda Jesu mumwoyo mangu;",
-          "Ave shamwari yangu narinhi,",
-          "Andibise muzvivi zvangu;",
-          "Ndive muchene sechando."
+          "Unganidzire zviri pamureza?",
+          "Ushora, noutsvuku;",
+          "Nohwedenga, namavara ahwo, Hune shoko reidi.",
+          "Simudzira mureza weHondo,",
+          "Weropa, nomoto:",
+          "Simudzira mureza weHondo,",
+          "Unoudza ruponiso."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Utsvuku, ruponiso rwaMwari,",
+          "Nokufa kwake Kritsu;",
+          "Achifira vemarudzi ose,",
+          "Pakayerera ropa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ushora, chiratidzo choMweya,",
+          "Chezuva rePendekositi;",
+          "Akauya nokutikumbira,",
+          "Titsvake varasiki."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Hwedenga, kududzira utsvene,",
+          "Kutsveniswa kuchivi ;",
+          "Hasha, kuzvida, nezvepanyika",
+          "Zvisagara matiri."
         ]
       }
     ],
@@ -13416,15 +14376,38 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 305,
     "number": "305",
     "category": "Praise",
-    "title": "MWOYO WANGU FARAI",
+    "title": "UTO RINOENDA KUNDORWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwoyo wangu farai muna Ishe;",
-          "Rufaro ruri pedyo neni,",
-          "Ndakasunungurwa muropa rake;",
-          "RaJesu Msindisi wangu."
+          "Uto rinoenda kundorwa,",
+          "Ramba uri m’nhanho. Usasarire mumashure,",
+          "Ramba uri m’nhanho.",
+          "Rwendo rurefu rwakaoma,",
+          "Njodzi zhinji dzingakutyise;",
+          "Utsungirire usatyiswa",
+          "Urambe uri m’nhanho.",
+          "Ramba uri m’nhanho,",
+          "Ramba uri m’nhanho,",
+          "Usazorore zvishoma,",
+          "Tevera Jesu uch ifara,",
+          "Ramba uri m’nhanho",
+          "Ramba uri m’nhanho",
+          "Uchiwana nzira yave nyore Ukaramba uri munhanho"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Uto rega kuva nokutya,",
+          "Ramba uri m’nhanho",
+          "Tevera Jesu nokufarisa;",
+          "Ramba uri m’nhanho.",
+          "Famba nechivindi mukurwa,",
+          "Mukurwa usadzoke shure,",
+          "Vimba naJesu ndiye nhowo;",
+          "Chiramba uri m’nhanho."
         ]
       }
     ],
@@ -13434,15 +14417,94 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 306,
     "number": "306",
     "category": "Comfort",
-    "title": "NDOZOZORORA MUNA JESU",
+    "title": "UYAI, NGATIENDE KUNDORWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndozozorora muna Jesu Msindisi;",
-          "Anondichengeta nemasimba ake,",
-          "Kana zvakaipa panyika pano;",
-          "Ndichawana zororo."
+          "Uyai, ngatiendei kundorwa,",
+          "Jesu wotiyamura kukunda;",
+          "Torwira Kristu, zvivi torwisa",
+          "Tiri Hondo yoRuponiso inoenda.",
+          "Inoenda, inoenda",
+          "Hondo yoRuponiso inoenda",
+          "Mauto aJesu muve nesimba,",
+          "Tiri Hondo yoRuponiso inoenda."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Uyai ngatikunde vavengi,",
+          "Nyika ichapiwa kuM’ponisi’",
+          "Tine vavengi, asi tokunda",
+          "Tiri Hondo yoRuponiso inoenda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Uyai ticharamba tichirwa,",
+          "Tinozovimbika kumureza;",
+          "Tichaimba nezvekuponiswa,",
+          "Tiri Hondo yoRuponiso inoenda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Uto rinorwira Ishe,",
+          "Ramba uri m’nhanho;",
+          "Sungira nhowo nebakatwa,",
+          "Ramba uri m’nhanho.",
+          "Famba mberi, Ishe wodaro,",
+          "Wakananga chokwadi, mira.",
+          "Enda kunyika yechipikirwa,",
+          "Urambe uri m’mhanho",
+          "Alfred Herbert Vickery (1894-1976)"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Uyai, regai kunonoka;",
+          "Nguva yokurwa inopfuura,",
+          "Kurwa kwotyisa asi, tokunda,",
+          "Tiri Hondo yoRuponiso inoenda.",
+          "RUKUNDO NORUFARO",
+          "Victory and Joy",
+          "307 JESU, NORUFARO INI NDOIMBA Jesus With What Gladness",
+          "Song of the highway, 210; Camberwell,201"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Jesu, norufaro ini ndoimba :",
+          "Mununuri wangu, mambo nehama;",
+          "Muri wangu chose; zvino ndopira Upenyu nazvose kwamuri moga.",
+          "Zvose ndozvipira, kana zvishoma.",
+          "Upenyu nenguva, zvitorei Jesu",
+          "Zvose ndozvipira, kana zvishoma",
+          "Upenyu nenguva, zvitorei Jesu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndinozove murwi, nokurwisana.",
+          "Nokuipa kwose, idi kurwira;",
+          "Jesu ndiyamurei kutsungirira, Kuti ndibatsire varasika."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndichave mufambi, ndisina kutya,",
+          "Pane nhano dzenyu ndichatevera;",
+          "Pane nzira duku, wotungamira,",
+          "Kana kune rima kune’ro zuva.",
+          "Gladys M Taylor"
         ]
       }
     ],
@@ -13475,15 +14537,52 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 308,
     "number": "308",
     "category": "Salvation",
-    "title": "JESU ANOTINUNURA",
+    "title": "NAISHE TOKUNDA VAVENGI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu anotinunura muzvivi;",
-          "Wakatifira pamuchinjikwa,",
-          "Nanhasi tiri vapenyu nenyasha;",
-          "Rumbidzo ngaruve kwaari."
+          "Naishe tokunda vavengi,",
+          "Torwa nesimba roM’ponisi;",
+          "Nepfumo roMweya waMwari Towanira Jesu vatadzi",
+          "Ndotenda, tokunda,",
+          "Tikarwa nesimba raIshe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Taikunda nezita rake",
+          "Vavengi vedu vakatiza;",
+          "Ticharamba tichirwira ’She",
+          "Tinorwa nepfumo roMweya."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Muvengi wedu ane simba,",
+          "Kurwa kuchave kukukutu;",
+          "Asi Mambo achanunura,",
+          "Mukurwa ari pedyo nesu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tinorwa muzita raMambo",
+          "Mureza weHondo womiswa;",
+          "Torwira Mwari nenduramo,",
+          "Ushe hwasatan’ huchakundwa."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Tichavimbika kuna Mwari,",
+          "Ticharwa muzita raIshe’",
+          "Tokunda nomoto neropa,",
+          "Towanira ’She nyika dzose."
         ]
       }
     ],
@@ -13493,15 +14592,50 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 309,
     "number": "309",
     "category": "Invitation",
-    "title": "ONAI MSINDISI",
+    "title": "NDINOFADZWA NOM’CHINJIKWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Onai Msindisi anogogodza;",
-          "Zarura mwoyo apindemo,",
-          "Achabisa kutya kwako kwose;",
-          "Achakupa ruponiso."
+          "Ndinofadzwa noM’chinjikwa",
+          "WaKristu, nguva dzose;",
+          "Chiedza chenyaya tsvene",
+          "Chiri pam’soro pawo"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana ndowirwa nenhamo,",
+          "Tariro yondinzvenga,",
+          "M’chinjikwa haundirase,",
+          "Wopenya norugare."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kana zuva richipenya,",
+          "Kupa mwenje panzira,",
+          "NoM’chinjikwa wopenyawo",
+          "Kuwedzera chiedza."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Dambudzo kana rufaro,",
+          "Zvonatswa noM’chinjikwa;",
+          "Rugare rusina mwero,",
+          "Ndorwangu misi yose."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndinoudzwa nguva dzose,",
+          "NoM’chinjikwa waKristu;",
+          "Chiedza chenyaya tsvene Chiri pam’soro pake."
         ]
       }
     ],
@@ -13511,15 +14645,57 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 310,
     "number": "310",
     "category": "Assurance",
-    "title": "NECHIEDZA CHEDENGA",
+    "title": "AMAI NEVANA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Nechiedza chedenga ndichafamba;",
-          "Munzira youtsvene mazuva ose,",
-          "Handichazotye mhandu dzenyika;",
-          "Kana muri pedyo neni Ishe."
+          "Amai nevana,",
+          "Vauya kuna Jesu,",
+          "Vadzidzi vavadzivira",
+          "Vachiti : ibvai.",
+          "Asi Jesu ane tsitsi,",
+          "Akanyemwerera oti :",
+          "Regai vauye vana vadiki."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndichavagam’chira,",
+          "Nokuvafungatira;",
+          "Ndichava mufudzi wavo,",
+          "Musavarambidze!",
+          "Kana vazvipa kwandiri",
+          "Vogara neni kudenga;",
+          "Regai vauye vana vadiki."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ishe wakapfava",
+          "Wakavaropafadza;",
+          "Asi zviuru zvavana",
+          "Havati vamunzwa;",
+          "Havana Bhaibheri rake,",
+          "Havazive mazwi ake;",
+          "Regai vauye vana vadiki.",
+          "(d) KUPIRWA KWEVANA",
+          "Dedication Of Children"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tinodisa kwazvo",
+          "Kuti marudzi ose,",
+          "Asiye zvifananidzo",
+          "Vanamate Ishe.",
+          "Muvavhenekere, Mwari,",
+          "Norudo rwenyu kwavari,",
+          "Ngavadzidziswe vauye kwamuri.",
+          "(1827 -76) (except verse 4)"
         ]
       }
     ],
@@ -13529,15 +14705,33 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 311,
     "number": "311",
     "category": "Prayer",
-    "title": "ISHE MSINDISI",
+    "title": "BABA, TINOTEURIRA VANA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe Msindisi uyai kwatiri;",
-          "Tishambidzei mazuva ano,",
-          "Mweya mutsvene uuye pano;",
-          "Tizadzwe norudo rwenyu."
+          "Baba, tinoteurira",
+          "Vana vamakapa ;",
+          "Toendepi, tatambudzwa?",
+          "Kuna ’She wedenga."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Hativakumbirire, ’She,",
+          "Upfumi hwenyika;",
+          "Asi muzita renyu, ’She",
+          "Vawane upenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vapeiwo ngoni dzoMweya,",
+          "Mwoyo itsveniswe;",
+          "Mberi kwenyu vagomira",
+          "Vaone zvamuri."
         ]
       }
     ],
@@ -13547,15 +14741,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 312,
     "number": "312",
     "category": "Dedication",
-    "title": "MWOYO WANGU",
+    "title": "ISHE, TINOKURUMBIDZAI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwoyo wangu heuno Ishe;",
-          "Ndokupai iye nanhasi,",
-          "Muite ndive muchene narinhi;",
-          "Mutonge mairi kusingaperi."
+          "Ishe, tinokurumbidzai",
+          "Nemwoyo yedu yose;",
+          "Namakomborero enyu",
+          "Totenda misi yose.",
+          "Panguva ino tofara,",
+          "Toziva muri pedyo,",
+          "Vabereki vanopira",
+          "Uyu mwana kwamuri."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ishe, tinoti vapiwe",
+          "Masimba noungwaru;",
+          "Unyoro nokunzwisisa,",
+          "Pakumurera mwana.",
+          "Mhiko dzavo dzisimbiswe,",
+          "Narinhi pachokwadi;",
+          "Pakukura kwake mwana,",
+          "Achazodzitevera."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Norudo rwakamukomba,",
+          "Zvive mugove wake;",
+          "Tichazomunamatira,",
+          "Murufaro, mukutya.",
+          "Mweya wenyu uburuke,",
+          "Achipirwa kwamuri;",
+          "Muchengetei kune zvivi,",
+          "Muzadzei namasimba.",
+          "Marjorie Davies"
         ]
       }
     ],
@@ -13583,15 +14808,72 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 314,
     "number": "314",
     "category": "Praise",
-    "title": "FARAI MUNA ISHE",
+    "title": "JESU, MAKAPFAVA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Farai muna Ishe nemufaro;",
-          "Jesu Kristu ndowedu chose,",
-          "Tichamutenda mazuva ose;",
-          "Nokuti wakatiponisa."
+          "Jesu muri munyoro,"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Jesu makapfava,",
+          "Ndiri mwana muduku;",
+          "Torai mwana,",
+          "Mundiitire tsitsi,",
+          "Mumunyaradzise",
+          "Ngandiuye kwamuri.",
+          "Makapfava;",
+          "Nokumuchengeta,"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndinoda kuva nemi",
+          "Ngaazorore.",
+          "’She, musandidzivise;",
+          "Akabatwa nemi",
+          "Muumambo hwengoni",
+          "Akomborerwe.",
+          "Ipai nzvimbo kwandiri."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Gwayana rakapfava",
+          "Ndichengetei nomutsa;",
+          "Ndiite sezvamuri,",
+          "Garai mumwoyo mangu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu munorudo,",
+          "Dzivirai mwana,",
+          "Dzinotityisa.",
+          "Asi pane zvose,",
+          "Tinonamata ;",
+          "Mubisei kuzvivi,",
+          "Afambe nemi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "’She, Jesu Mutsvene,",
+          "Ivai nomwana;",
+          "Muumambo hwenyu",
+          "Ngaavepowo.",
+          "Apo achikura,",
+          "Ngaave wenyu’",
+          "Mutungamirirei",
+          "Upenyu hwake.",
+          "Flora Larsson"
         ]
       }
     ],
@@ -13601,15 +14883,32 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 315,
     "number": "315",
     "category": "Love",
-    "title": "JESU UNE NGONI",
+    "title": "TINOPIRA UYU MWANA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu une ngoni kunesu tese;",
-          "Wakabva kudenga uko,",
-          "Wakatiunza rudo rwenyu;",
-          "Wakatifira paKarivhari."
+          "Tinopira uyu mwana",
+          "Kwamuri Mwari womutsa; Mudzivirirei kumhandu, Mupei upenyu hurefu"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mweya wenyu, umuraye,",
+          "Nezvinokufadzai, Ishe;",
+          "Runako, nduramo ne’di",
+          "Zvitungamire izvi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Isuwo, ’She, tiri venyu;",
+          "Kana tiri kure nemi,",
+          "Tidzorerei kuna Baba",
+          "Mutichengete panzira.",
+          "nokunjodzi dzose"
         ]
       }
     ],
@@ -13619,15 +14918,36 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 316,
     "number": "316",
     "category": "Worship",
-    "title": "TASVIKA KWAARI",
+    "title": "JESU, ANODA TIVHENEKERE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tasvika kwaari Msindisi wedu;",
-          "Pamberi pechigaro chengoni,",
-          "Tinounza rumbidzo norufaro;",
-          "Kuna Ishe ari kudenga."
+          "Jesu anoda tivhenekere",
+          "Sekamwenje kanopfuta murima;",
+          "Munyika yerima ngativheneke,",
+          "Iwe uri pako, neni pangu"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu anoda timupenyere,",
+          "Anoziva kana mwenje wodzima",
+          "Anotarisa kana tichipenya,",
+          "Iwe uri pako, neni pangu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Jesu anoda tivhenekere",
+          "Panyika pane marima mazhinji;",
+          "Zvivi, nokusuwa, ngativheneke,",
+          "Iwe uri pako, neni pangu.",
+          "Susan Warner (1819-85)",
+          "(e) DZEVECHIDIKI",
+          "For the Young"
         ]
       }
     ],
@@ -13637,15 +14957,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 317,
     "number": "317",
     "category": "Guidance",
-    "title": "NDITUNGAMIREI BABA",
+    "title": "JESU, ’SHE KUDENGA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Nditungamirei Baba munzira;",
-          "Gcinai tsoka dzangu nanhasi,",
-          "Ndisarasike nenyika ino;",
-          "Nditungamirei kudenga."
+          "Jesu, ’She, kudenga,",
+          "Tipeiwo nzeve; Tokupfugamirai",
+          "Tinzwe vaduku."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Noutsvene hwenyu.",
+          "Mambo wedenga;",
+          "Muchatinzwa isu,",
+          "Tokurumbidzai. 295"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tibvisei muzvivi Zuva nezuva; Bisai zvakaipa",
+          "Kuti tikudei."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tipeiwo masimba",
+          "Tichiri pasi;",
+          "Ngatipire zvose",
+          "Kukushandirai."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Kana wotidana",
+          "Uko kudenga;",
+          "Tichazopindira :",
+          "Ishe, touya.",
+          "Harriet M’Keever (1807-86)"
         ]
       }
     ],
@@ -13655,12 +15009,38 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 318,
     "number": "318",
     "category": "Praise",
-    "title": "TINOKURUMBIDZAI",
+    "title": "JESU WANDIDA INI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tinokurumbidzai Ishe wedu; Tinokutendai nengoni dzenyu, Kubwinya kwose ndokwenyu chose; Zvino namapakade."
+          "Jesu wandida ini !",
+          "Rinodaro Bhaibheri;",
+          "Nevadiki ndevake,",
+          "Achavapa masimba.",
+          "Jesu wandida !",
+          "Jesu wandida !",
+          "Jesu wandida !",
+          "Rodaro Bhaibheri."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu wakandifira,",
+          "Nokuzarura denga;",
+          "Wondishambidza zvivi;",
+          "Mwana wake ndipinde."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Jesu wondida !",
+          "Wogara pedyo neni;",
+          "Ndikamuda, ndozofa,",
+          "Wonditora kudenga.",
+          "Anna Barlett Warner (1820-1915)"
         ]
       }
     ],
@@ -13670,12 +15050,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 319,
     "number": "319",
     "category": "Warfare",
-    "title": "SIMUDZAI IZWI",
+    "title": "JESU WATI NDIVE M’RANZI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Simudzai izwi renyu muhondo; Rwirai zita raJesu Kristu, Mureza wehondo uphepheze; Tichakunda namasimba ake."
+          "Jesu wati ndive m’ranzi,",
+          "Ndimuvhenekere, Ndimufadze nguva dzose, Nakwose kwandiri.",
+          "Muranzi, muranzi,",
+          "Jesu wati ndive m’ranzi,",
+          "Muranzi, muranzi",
+          "Ndive muranzi wake."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu wati ndide vose,",
+          "Netsitsi kwavari;",
+          "Ndivaratidze kufara,",
+          "Muuduku hwangu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndokumbira, Jesu, kuti",
+          "Mwoyo usatadze;",
+          "Ndigarofunga zvitsvene,",
+          "Ndimuvhenekere."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndichave mwenje waJesu,",
+          "Kana ndichiedzwa;",
+          "Ndoshanda nguva nenguva,",
+          "Ndozogara naye.",
+          "Nellie Talbolt."
         ]
       }
     ],
@@ -13685,12 +15098,35 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 320,
     "number": "320",
     "category": "Assurance",
-    "title": "TINE SHAMWARI YA JESU",
+    "title": "KANA IYE ACHIUYA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tine shamwari yaJesu nesu; Wotichengeta mazuva ose, Rudo rwake harungazomboperi; Tiri vana vake narinhi."
+          "Kana Iye achiuya",
+          "Kutora zva’noda",
+          "Zvinhu zvake zvinokosha, Vadiwa vake.",
+          "Senyeredzi dzechiedza,",
+          "Dzepangundu yake,",
+          "Vachapenyesa chose,",
+          "KeDenga kwake."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Achatora zvinokosha",
+          "Kuumambo hwake;",
+          "Vakachena vanobwinya, Vadiwa wake."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vana vose, vanomuda",
+          "Mununuri wavo",
+          "Ndivo vana vakakosha,",
+          "Vadiwa vake."
         ]
       }
     ],
@@ -13700,15 +15136,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 321,
     "number": "321",
     "category": "Praise",
-    "title": "KUKUNDA KUNA JESU",
+    "title": "KANA NDOVERENGA NYAYA’YO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Kukunda kuna Jesu, Msindisi naMambo,",
-          "Kuzita rake tinounza rumbidzo;",
-          "Akakunda chivi nesimba rorufu,",
-          "Tichamukudza nemweya yose."
+          "Kana ndoverenga nyaya’yo yekare,",
+          "Apo Jesu ari panyika;",
+          "Paakashevedza vana sehwayana",
+          "Ndaidisisa kuve navo.",
+          "Ndaidawo kubatwa pamusoro,",
+          "Ruoko rwake rwaindibata,",
+          "Ndingadai ndamunzwawo achiti",
+          "Regai vaduku vauye. 298"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pasi pechigaro chake ndonamata;",
+          "Ndokumbira rudo rwake,",
+          "Kana ndamutsvaka neidi panyika",
+          "Ndichamuona kudenga’ko",
+          "Kunzvimbo tsvene yaakanogadzira",
+          "Yavose vakaregererwa;",
+          "Vana vazhinji vachaungana’ko",
+          "Ndohwavo ushe kwokudenga."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kune zviuru zvavo vakarasika,",
+          "Vasakambodzwa zvokudenga;",
+          "Ndinoda vazive kuti kune nzvimbo,",
+          "Kuti Jesu anovadana.",
+          "Ndinoshuwa rufaro rwenguva iyo,",
+          "Kufara kusingataurike,",
+          "Kwavachauya vana vendudzi dzose.",
+          "Vacharopafadzwa maari."
         ]
       }
     ],
@@ -13718,15 +15184,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 322,
     "number": "322",
     "category": "Worship",
-    "title": "TINOKUKUDZAI",
+    "title": "IRIPO NZIRA YEMINZWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tinokukudzai, Mwari, noMwanakomana,",
-          "Kuna Jesu wakafa akaenda kudenga;",
-          "Haleluya! Mbiri ndeyenyu, Haleluya! Amen,",
-          "Haleluya! Mbiri ndeyenyu, timutsei zvino."
+          "Iripo nzira yeminzwa ,",
+          "Nhete yakati tasa;",
+          "Inonzi nzira yebasa,",
+          "Inoenda kuDenga.",
+          "Tichafamba munzira ’yo",
+          "Towana zvinodiwa",
+          "Ndidzo tsitsi dziri pedyo",
+          "NdiMwari anotipa.",
+          "Nenzira yebasa,",
+          "Dzayerera ngoni dzaMwari;",
+          "Nenzira yebasa,",
+          "Dzayerera ngoni dzaMwari."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndiyo nzira youtsvene,",
+          "Rufaro norugare.",
+          "Kunyange ine matombo",
+          "Upenyu hwezvinetso,",
+          "Asi nzira ’yo yebasa",
+          "Yakafambwa naTenzi,",
+          "Norudo tunoratidza",
+          "Nzira ’yo kuna Mwari."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngatifambe na’yo nzira",
+          "Totarisa kuzuva,",
+          "Totakura nhamo dzedu,",
+          "Zvipedzwe zvatangiswa.",
+          "Tsime rengoni dzaMwari",
+          "Riripo panzira ’yo",
+          "Tinganwe tisimbaradzwe",
+          "Kutakura mitoro.",
+          "Will J. Brand (1889-1977) (Verses)",
+          "Sidney Edward Cox (1887- 1975) (verses)"
         ]
       }
     ],
@@ -13736,15 +15238,33 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 323,
     "number": "323",
     "category": "Guidance",
-    "title": "NDITEVEREI",
+    "title": "UCHIRI’YE MUDUKU, YEUKA MUSIKI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinonzwa Msindisi achiti, 'Nditeverei',",
-          "Kwose kwanditungamira, ndoenda nemi;",
-          "Mumipata kana pamakomo marefu,",
-          "Ndichavimba naye kudzamara ndafe."
+          "Uchiri ’ye muduku, yeuka Musiki;",
+          "Utsvake ruponiso, akutungamire;",
+          "Upenyu hune nzira dzinorasikisa",
+          "Kubva kunzira tsvene neyokururama."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zvakanaka kutsvaka uchiri muduku,",
+          "Usati mwoyo wako watsvaka zverima;",
+          "Chokwadi, chakaipa chinotsaura",
+          "Kubva kwaari, iye anotinunura."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Misi yezvakaipa sei yauya,",
+          "Rufaro mukuipa pakare rwopera,",
+          "Zvipire kuna Jesu akutungamire,",
+          "Gam’chira Muponisi uende kudenga."
         ]
       }
     ],
@@ -13754,15 +15274,37 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 324,
     "number": "324",
     "category": "Salvation",
-    "title": "JESU NDIYE NZIRA",
+    "title": "VANA VEJERUSAREM’",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu ndiye nzira, idi neupenyu,",
-          "Anotipa kukunda mumatambudziko;",
-          "Hapana anouya kuna Baba kunze kwake,",
-          "Anotinatsa pazvivi zvose."
+          "Vana veJerusarema",
+          "Vakarumbidza Jesu;",
+          "Navo venguva dzino,",
+          "Ngavaimbire Ishe.",
+          "Inzwai mazwi evaduku !",
+          "Inzwai mazwi evaduku !",
+          "I Hosana ! I Hosana !",
+          "I Hosana kunaShe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Todzidza kuda Ishe,",
+          "Todzidza shoko rake;",
+          "Todzidza zvokudenga,",
+          "Ngaarumbidzwe Mwari."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vakuru navaduku,",
+          "Ngavaimbire Ishe",
+          "Vasimudzire mazwi,",
+          "Hosana nokudenga."
         ]
       }
     ],
@@ -13772,15 +15314,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 325,
     "number": "325",
     "category": "Holy Spirit",
-    "title": "MWEYA MUTSVENE UYAI",
+    "title": "VANOTERERA MWARI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mweya Mutsvene uyai, nesimba nengoni,",
-          "Zadzai mwoyo yedu nhasi munzvimbo ino;",
-          "Pisai tsvina yose, tichenesei,",
-          "Basa renyu mandiri ngarive idzva."
+          "Vanoterera Mwari,",
+          "Vanotendeka,",
+          "Ngavakudzwe vashingi",
+          "Vanorwa nesimba.",
+          "Uto rakanaka,",
+          "Mira nesimba,",
+          "Ugoramba uchirwa",
+          "Urege kutya."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Vazhinji vaikundwa,",
+          "Vasina simba,",
+          "Vakarega kutsvaka,",
+          "Simba rokukunda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vavengi vakuruzve,",
+          "Vachitidenha,",
+          "Vachakundwa naIshe",
+          "Nyangwe vanesimba."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Simutsira mureza’",
+          "Famba pamberi’",
+          "Chienda kundokunda",
+          "Nezita raMwari.",
+          "VII NZIRA YENGONI",
+          "DZASHE?",
+          "Means Of The Lord’s Grace",
+          "(a) MUTEURO NEMIKUMBIRO",
+          "Prayer And Supplication"
         ]
       }
     ],
@@ -13790,15 +15368,25 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 326,
     "number": "326",
     "category": "Praise",
-    "title": "RUMBIDZAI ISHE",
+    "title": "ANOPA NGONI MITORO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rumbidzai Ishe, imi marudzi ose,",
-          "Mukudzei, imi vanhu vose;",
-          "Nokuti ngoni dzake huru kwatiri,",
-          "Uye idi rake rinogara narinhi."
+          "Anopa ngoni mitoro ichirema, Anotuma simba basa rawanda; Munhamo zhinji wowedzerawo tsitsi Muzviyedzo anowanza rugare."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana tapedza shungu yokushungaira, Nesimba romusi’yo rave shoma; Kana tasvika magumo ezvatiri, Simba rake, Baba, rinotangisa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Rudo harugume, ngoni hadzipimwe, Simba rake hariziviwe navanhu; mupfumi hwake huri muna Jesu, Anopa, anopa, anotipazve.",
+          "Annie Johnson Flint (1866-1932)"
         ]
       }
     ],
@@ -13808,15 +15396,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 327,
     "number": "327",
     "category": "Commitment",
-    "title": "NDICHATEVERA",
+    "title": "TIPEI MUSI MUTSVENE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndichatevera Jesu, nguva dzose dzose,",
-          "Ndichivimba nezvipiriso nesimba rake;",
-          "Haangatindisiyi, ishamwari yedi,",
-          "Ndichatevera Jesu kusvika pakuguma."
+          "Tipei musi mutsvene,",
+          "Tisimbisei Jesu;",
+          "Tipei Mweya Mutsvene,",
+          "Rapai moyo yedu",
+          "Anobva kwamuri;",
+          "Tiitirei zvino’no",
+          "Tinatsei M’ponisi.",
+          "Inzwai toteura,",
+          "Inzwai toteura,",
+          "NoMweya waShe tiraramisei,",
+          "Uyai nokutinatsa."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndeyenyu imba iyi,",
+          "Pindai ’She nesimba;",
+          "Dzidzisai kunamata,",
+          "Nokukurwirai.",
+          "Vatadzi vakuwanei",
+          "Mune iyi imba,",
+          "Vatsva ngavazvisunge,",
+          "Jesu,kuterera."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngatirwise nesimba",
+          "Vavengi vaIshe; Ishe muvhenekere Nzira misi yose;",
+          "Mutipe kuzorora",
+          "Mutipe rugare,",
+          "Mutipe rushiriro,",
+          "Kusvikira tife.",
+          "Tipei makomborero"
         ]
       }
     ],
@@ -13826,15 +15446,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 328,
     "number": "328",
     "category": "Comfort",
-    "title": "GARAI NENI",
+    "title": "NGANDIVE TEMBERI YENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Garai neni, Ishe, zuva rava kudoka,",
-          "Ndichengetei mumumvuri kusvika mangwana;",
-          "Munguva yokunyarara, ndinzwe izwi renyu,",
-          "Mukuvapo kwenyu kutsvene, mwoyo ufare."
+          "Ngandive temberi yenyu",
+          "Tsvene, yamunogara,",
+          "Hapana zvondinyangadza",
+          "Sezva munondigadza.",
+          "Torai up enyu,",
+          "She ndozvideredza",
+          "Ndichizvipira kwamuri",
+          "Gam’chirai diramhamba"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ngandipupure nemi, ’She,",
+          "Ndikuteverei chose;",
+          "Ndichiita zvivimbiso,",
+          "Ndinokupirai zvose"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Nguva, zvipo noutano,",
+          "Zvose zvichave zvenyu;",
+          "Mwoyo, chido, ndangariro,",
+          "Ndozvipira, ndezvenyu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndipei mwoyo womutsa,",
+          "Unotongwa norudo;",
+          "Kuti ndiuyise vamwe,",
+          "Pfuma yenyu vazive.",
+          "Brindley Boon"
         ]
       }
     ],
@@ -13844,15 +15496,59 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 329,
     "number": "329",
     "category": "Salvation",
-    "title": "JESU ANOPONISA",
+    "title": "BABA NDIRI MWANA WENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu anoponisa! Paridzai nyaya iyi,",
-          "Udza marudzi ose, inzwa izwi refaro;",
-          "Svikai kumutadzi, munyika nemugungwa,",
-          "Jesu anoponisa vakarasika, sunungura vasungwa."
+          "Baba, ndiri mwana wenyu,",
+          "Kana ndakatadza;",
+          "Ndinochema mberi kwenyu",
+          "Baba, ndiregerei. 305"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zvitadzo zvangu zvizhinji",
+          "Hazvingaverengwe; Ndinozviisa kwamuri, Baba, ndiregerei. 3. Mirau yenyu ndakatyora,",
+          "Ndakakuzvidzai Ishe;",
+          "Mununuri,ndamurasa",
+          "Baba,ndiregerei."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndakatadza nokureva",
+          "Nokufunga kwangu;",
+          "Ndakatadza namabasa,",
+          "Baba, ndiregerei."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Nyangwe ndanga ndafanira",
+          "Kuti ndikukudzei;",
+          "Ndatadza nokukanganwa;",
+          "Baba, ndiregerei."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Zvivi zvangu zvakawanda",
+          "Baba,ndakatadza,",
+          "Ndakakunyadzisai imi Baba, ndiregerei."
+        ]
+      },
+      {
+        "num": 7,
+        "lines": [
+          "Muri Mwari ane ngoni",
+          "Dzisingazopera;",
+          "Naizvozvo, ndinochema Baba,ndiregerei."
         ]
       }
     ],
@@ -13862,15 +15558,40 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 330,
     "number": "330",
     "category": "Praise",
-    "title": "MBIRI KUVE KUNA MWARI",
+    "title": "ISHE, TAUNGANA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mbiri kuve kuna Mwari kumusoro, napasi rugare,",
-          "Kuda kwakanaka kuvanhu, rudo rwake rukure;",
-          "Mukudzei nengirozi, mukudzei nevatsvene,",
-          "Mbiri kuna Baba, mwoyo yomirira kunamata."
+          "Ishe, taungana.",
+          "Muno mumba menyu;",
+          "Ivai nesu zvatapinda,",
+          "Ishe, mberi kwenyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Iyo mwoyo yedu",
+          "Inokurwarirai;",
+          "Nayo mweya yedu, Ishe,",
+          "Inokutarirai."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Hurukuro dzenyu,",
+          "Baba, ngatidzinzwe; Razarurwa dama renyu Nemi ngatikunzwei."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tinatseiwo, Ishe,",
+          "Isu vanhu venyu;",
+          "Kana tafa, tipinzewo",
+          "Mune denga renyu."
         ]
       }
     ],
@@ -13880,15 +15601,60 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 331,
     "number": "331",
     "category": "Praise",
-    "title": "NDIYE MAMBO WANGU",
+    "title": "ISHE, TAURA KWANDIRI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndiye Mambo wangu, Ishe naMsindisi,",
-          "Kuchigaro chake ndinopfugama nhasi;",
-          "Ndichamushumira neunhu hwakanaka,",
-          "Nokumutevera panzira dzose."
+          "Ishe, taura kwandiri",
+          "Nditaure zvamunoda; Sezvo manditsvaka ini, Nditsvakewo varasiki."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nditungamireiwo, Ishe,",
+          "Ndiyamure varasiki;",
+          "Ndigutseiwo, Ishe, kuti",
+          "Ndigutsewo vane nzara."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndisimbiseiwo, ndimire",
+          "Pamuri dombo resimba,",
+          "Nditambanudze ruoko",
+          "Kune vanotambudzika."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndidzidzisei, Ishe, kuti Ndidzidzise zvamunoda;",
+          "Namazwi angu asvike",
+          "Nokumwoyo yavazhinji. 5. Ndipeiwo zororo renyu",
+          "Ndigotaura nesimba;",
+          "Neizwi rakakodzera",
+          "Kune vakarukutika."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Ndizadzei nesimba, Ishe,",
+          "Mwoyo ugofashukira,",
+          "Namazwi akanakisa,",
+          "Orudo nokurumbidza."
+        ]
+      },
+      {
+        "num": 7,
+        "lines": [
+          "Ishe, ndishandisei ini.",
+          "Pamunoda kupi kwose,",
+          "Kusvika ndazokuonai,",
+          "Ndozorora mukubwinya."
         ]
       }
     ],
@@ -13898,15 +15664,33 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 332,
     "number": "332",
     "category": "Trust",
-    "title": "MWARI ANOVIMBIKA",
+    "title": "JESU, MIRA NESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwari anovimbika, Shoko rake harikundiki,",
-          "Murima guru, chipiriso chake chinokunda;",
-          "Mumafungu egungwa, ndiye chitsigiro chedu,",
-          "Rudo rwake nengoni zvichagara narinhi."
+          "Jesu, mirai nesu",
+          "Nesimba renyu;",
+          "Nguva ino tiri",
+          "Kukunamatai."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Femai Mweya M’tsvene,",
+          "Mumwoyo yedu;",
+          "Kutya nokusuwa,",
+          "Zvibve kwatiri."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tine nhamo ndefu,",
+          "Tofamba mberi;",
+          "Totarisa zuva",
+          "Risingaperi."
         ]
       }
     ],
@@ -13916,15 +15700,40 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 333,
     "number": "333",
     "category": "Praise",
-    "title": "FARAI NGUVA DZOSE",
+    "title": "KUBVA KUMADUTU OSE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Farai nguva dzose muna Ishe, ndinoti zvakare farai,",
-          "Vanhu vose ngaavaimbe nenzwi refaro;",
-          "Nokuti kunaka kwake kukuru, ngoni ndedze pachena,",
-          "Farai muMsindisi akafira pamuti."
+          "Kubva kumadutu ose.",
+          "Anotisayirira nhamo;",
+          "Kune runyararo rwedi,",
+          "Pachipfugamo, chengoni"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tozodzwa misoro yedu",
+          "Namafuta orufaro",
+          "Panzvimbo yakanikisa,",
+          "Pachipfugamo chengoni."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kune nzvimbo yesangano,",
+          "Yomweya wokuwadzana;",
+          "Tiri kure, tosangana",
+          "Pachipfugamo chengoni."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ipapo ha tichafunga, Zvenyika ino zvapera; Denga rotichingamidza, Pachipfugamo chengoni. 5. Ruoko rushaye basa, Norurimi runyarare; Nehana yangu imire, Ndakanganwa chipfugamo.",
+          "Hugh Stowell (1799-1865)"
         ]
       }
     ],
@@ -13934,15 +15743,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 334,
     "number": "334",
     "category": "Worship",
-    "title": "MUTSVENE NDIJEHOVAH",
+    "title": "KUCHAVE MAKOMBORERO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mutsvene ndiJehovah, Mwari wehondo nesimba,",
-          "Tichamunamata panguva ino;",
-          "Ndiye Musiki wedu, Baba vedu naMambo,",
-          "Kuzita rake ritsvene tinounza rumbidzo."
+          "Kuchave makomborero :",
+          "Chivimbiso cherudo;",
+          "Kuchavewo mavandudzo",
+          "Anobva kuna Jesu.",
+          "Makomborero,",
+          "Tinodisa, Tenzi;",
+          "Tsitsi shoma dzotiwira,",
+          "Asi tinoda zhinji."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kuchave makomborero;",
+          "Tichizomutsururwa;",
+          "Mumipata namakomo",
+          "Sekunaya kwemvura."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kuchave makomborero;",
+          "Auye ’She kwatiri;",
+          "Mutipewo ruvandudzo,",
+          "Zvakavimbiswa nemi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kuchave makomborero’",
+          "Kwatiri ngaauye;",
+          "Ngatireurure zvino,",
+          "Pamberi paJesu ’She.",
+          "Daniel Webster Whittle (1840-1901)"
         ]
       }
     ],
@@ -13952,15 +15793,57 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 335,
     "number": "335",
     "category": "Praise",
-    "title": "IPAI MBIRI",
+    "title": "MUNAMATO NDICHO CHIDO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ipai mbiri, ipai rumbidzo, Jesu Ishe wedu,",
-          "Muupenyu nemunzira dzedu, paridzai Shoko;",
-          "Akatiitira zvinhu zvikuru, ngatiimbe,",
-          "Mbiri nekukudzwa kuna Mambo wedenga."
+          "Munamato ndicho chido Chomwoyo wom’tendi; Shungu inofana moto",
+          "Yobvisa hana."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Munamato, ndokutura",
+          "Befu nemisodzi, Kutarisisa kudenga",
+          "Uko kuna Mwari."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Munamato ungaitwe",
+          "Naivo vaduku",
+          "Munamato wakakosha",
+          "Pamberi paMwari."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Munamato womutadzi;",
+          "Kudzoka kuzvivi;",
+          "Ngirozi dzoimba dzoti:",
+          "Hona, wonamata."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Munamato ndiwo mweya",
+          "womuKristu wose;",
+          "ishoko rake pakufa;",
+          "romupinza denga."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Ndiyo nzira kuna Mwari,",
+          "Upenyu neidi:",
+          "Munzirayo tidzidzisei",
+          "Ishe , kunamata."
         ]
       }
     ],
@@ -13970,15 +15853,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 336,
     "number": "336",
     "category": "Trust",
-    "title": "VIMBAI NAYE",
+    "title": "MUNGONI DZAMWARI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Vimbai naye nguva dzose, imi vanhu,",
-          "Dudurira mwoyo yenyu pamberi pake mumunyengetero;",
-          "Mwari ichipotero kwatiri mumatambudziko,",
-          "Achatitsigira nekuchengeta kwake."
+          "Mungoni dzaMwari",
+          "Munoruponiso;",
+          "Wakasarudzwa nengoni",
+          "Kuponisa vose."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nengoni moponiswa",
+          "Chete, chete chete;",
+          "Zvisiri pachenyu, kwete,",
+          "Hazvisi zvebasa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tisazvikudze :",
+          "Chipo chake Mwari",
+          "ChaMwari, tisazvikudze. Chipo chake Mwari."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ngoni dzake dziri",
+          "Muna Jesu Kristu.",
+          "Ngoni dzake dzoonekwa",
+          "Napamuchinjikwa."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Vose vanotenda,",
+          "Voga’mchirwa naye;",
+          "Nengoni vachaponiswa,",
+          "Vana vake Mwari.",
+          "J. McGranham"
         ]
       }
     ],
@@ -13988,15 +15907,35 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 337,
     "number": "337",
     "category": "Guidance",
-    "title": "ACHATITUNGAMIRA",
+    "title": "MUTADZI PATSOKA DZENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Achatitungamira neziso rake panzira,",
-          "Achatichengeta pedyo naye mazuva ose;",
-          "Kunyange nzira iine minzwa, tichatevera,",
-          "Kudzamara mujaho wapera uye mubairo wawanikwa."
+          "Mutadzi patsoka dzenyu",
+          "Ndozvininipisa;",
+          "Kuti mundiregerere,",
+          "Jesu ndiponisei.",
+          "Uyai mumwoyo, ‘She Jesu,",
+          "Mune nzvimbo yenyu Ishe,",
+          "Uyai mumwoyo, Jesu uyai,",
+          "Mune nzvimbo yenyu Ishe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Hama yavatadzi, ndinzwei,",
+          "Mundisunungure; Zvivi zvoda kuti ndife, Nemi ndinovimba."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Imi hama yomutadzi,",
+          "Ndozvipira zvose; Jesu tumai mvura mhenyu",
+          "Ndimwe, ndirarame.",
+          "Emily Elizabeth Steels Elliot (1836-9)"
         ]
       }
     ],
@@ -14006,15 +15945,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 338,
     "number": "338",
     "category": "Comfort",
-    "title": "RUGARE CHINYARARA",
+    "title": "MUTSURUDZAI BASA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rugare chinyarara, Msindisi anotaura kugungwa,",
-          "Uye mhepo inoteerera murau wake mutsvene;",
-          "Rugare chinyarara, mwoyo ngauzorore,",
-          "Murudo rwake rukuru wakaropafadzwa chose."
+          "Mutsurudzai basa,",
+          "Nemasimba enyu;",
+          "Nezwi rinomutsa vafi",
+          "Vanhu venyu vanzwe.",
+          "Mutsurudzai, Ishe,",
+          "Topfugama, zvino",
+          "Burukai nengoni dzenyu",
+          "Mutiropafadze."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mutsurudzai basa,",
+          "Tive nenyota, ‘She,",
+          "Tipei chingwa choupenyu",
+          "Ngachigutse mweya.",
+          "Mutsurudzai, Ishe",
+          "Tokudzaro zita,",
+          "Rudo rwedu ngarubvire",
+          "NoMweya Mutsvene."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mutsurudzai basa,",
+          "Nesimba reshoko;",
+          "Vhangeri renyu rinzwike",
+          "Murutendo rwedu .",
+          "Mutsurudzai, Ishe",
+          "Mutipe donhodzo",
+          "Rurumbidzo ndorwenyu,",
+          "‘She tigokomborerwa.",
+          "Albert Midlane (1825-1909)"
         ]
       }
     ],
@@ -14024,15 +15994,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 339,
     "number": "339",
     "category": "Salvation",
-    "title": "JESU NDIYE CHIEDZA",
+    "title": "NDINOKUDAI  ZVINO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu ndiye chiedza chinopenya murima,",
-          "Ndiye tariro nechimwenje chokudenga;",
-          "Anodzora tsoka dzedu munzira yorugare,",
-          "Ngoni dzake huru hadzingamboperi."
+          "Ndinokudai zvino,",
+          "‘She worudo, Izwi renyu chete,",
+          "Runyaradzo.",
+          "Ndinokudai, Ishe,",
+          "Ndinokudai zvino,",
+          "Ndikomborerei, Ishe,",
+          "Zvandauya."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndinokudai zvino,",
+          "Garaiwo pedyo;",
+          "Ndokunda zviedzo,",
+          "‘She, muripo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndinokudai zvino,",
+          "Murufaro;",
+          "Mugare neniwo,",
+          "Muzvirwadzo."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndinikudai zvino",
+          "Ndidzidzisei; Zvivimbiso zvenyu Zvizadziswe.",
+          "Annie Sherwood Hawks",
+          "(1835 -1918) (verses)"
         ]
       }
     ],
@@ -14042,15 +16042,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 340,
     "number": "340",
     "category": "Assurance",
-    "title": "NDIRI WAKE",
+    "title": "NDIRI WENYU, ‘SHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndiri wake uye ndewangu, nokusingaperi,",
-          "Murudo rwake ndichazorora uye ndichinamata zita rake;",
-          "Akanditenga neropa rake, ndakasunungurwa,",
-          "Mbiri kuGwayana rakandifira."
+          "Ndiri wenyu, ‘She ndakanzwa narwo",
+          "Rudo rwenyu kwandiri;",
+          "Asi ndinoda rutendo kwarwo.",
+          "Ndisededzwe kwamuri.",
+          "Ndisededzei kwamuri, Ishe, wangu",
+          "KuMuchinjikwa wenyu;",
+          "Ndisedzei kwamuri, Ishe wangu, Panobva ropa renyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nditsvenisire basa renyu, ‘She,",
+          "Zvino nesimba renyu;",
+          "Mweya wangu upihwe tariro,",
+          "Ndiite kuda kwenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndine rufaro nenguva iyo",
+          "Inoswerwa pamuri,",
+          "Ndichiteura kwamuri,Ishe",
+          "Munotaura neni."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Pane rudzamo rworudo rwenyu,",
+          "Ruchazivirwa mberi;",
+          "Kune rufaro rwekumusoro",
+          "Rwuri kwamuri bedzi. Fanny Crosby (1820-1915)"
         ]
       }
     ],
@@ -14060,15 +16090,41 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 341,
     "number": "341",
     "category": "Holiness",
-    "title": "NDISHAMBIDZEI",
+    "title": "NDOPA ZVOSE KUNA  JESU",
     "verses": [
       {
-        "num": 1,
+        "num": 2,
         "lines": [
-          "Ndishambidzei, O Gwayana raMwari, ndinokumbira,",
-          "Torai zvivi zvangu zvose mugozvishambidza;",
-          "Ndiitei ndive muchene uye mutsvene pamberi penyu,",
-          "Ndichifamba mazuva ose muchiedza chenyu chitsvene."
+          "Ndopa zvose kuna Jesu",
+          "Ngandipfugamire,",
+          "Zvenyika ndinozvisiya,",
+          "Zvino Jesu nditorei."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndopa zvose kuna Jesu,",
+          "Ndiitei ndive wenyu; Mweya M’tsvene ngaandiudze, Muri mumwoyo wangu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndopa zvose kuna Jesu,",
+          "Ndozvipa kwamuri ‘She",
+          "Ndizadzei norudo rwenyu,",
+          "Zvinatso ngazviuye."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndopa zvose kuna Jesu,",
+          "Ndonzwa kunatsa kwake;",
+          "Utsvene hunorugare,",
+          "Rikudzwe zita rake.",
+          "Judson Van de Venter (1885 -1939)"
         ]
       }
     ],
@@ -14077,16 +16133,47 @@ export const HYMNS_SN: HymnLanguage[] = [
   {
     "id": 342,
     "number": "342",
-    "category": "Holy Spirit",
-    "title": "MOTO MUTSVENE",
+    "category": "Prayer",
+    "writer": "Fanny Crosby (1820-1915)",
+    "title": "NDINOTEURA, MUPONISI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Moto mutsvene, dzikai kubva kumusoro,",
-          "Zadzai mwoyo yedu nerudo rwenyu rwakazvipa;",
-          "Tinatsvei patsvina mutiite vatsvene,",
-          "Natsai mweya, muviri nemwoyo yedu."
+          "Ndoteura, Muponisi,",
+          "Kuti ndiite semi;",
+          "Ndoda kuti Mweya wenyu. Usvikewo kwandiri.",
+          "M oziva handina simba,",
+          "Ndinonetswa nenhamo,",
+          "Ndotsvaka zvakawimbiswa,",
+          "Pindurai muteuro."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndoteura, Muponisi",
+          "Rutendo rwakasimba,",
+          "Kuti narwo ndigoona",
+          "Mbiri yenyu murima."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndokumbira kupfaviswa",
+          "Nesimba renyu dzvene;",
+          "Ndipfedzwewo nomutsa",
+          "Kuda kwenyu kuitwe."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndoteura, Muponisi,",
+          "Ndotsvaka nguva yose",
+          "Kuramba ndichizvipira",
+          "Ndifananewo nemi."
         ]
       }
     ],
@@ -14114,15 +16201,79 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 344,
     "number": "344",
     "category": "Praise",
-    "title": "NDICHAIMBA",
+    "title": "NUNURAI VANHU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndichaimba rudo rwake nengoni dzake kwandiri,",
-          "Kuti akafira pamuchinjikwa akandisunungura;",
-          "Ndichaudza kunaka kwake kunyika yose,",
-          "Nyika yose ngaidairire nenzwi refaro."
+          "Ngoni dzinondishamisa,"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Nunurai vanhu, navari kufa,",
+          "Dzakandiponisa,",
+          "Kuzvivi, vabviswe nomuguva;",
+          "Ndakawanwa ndarasika,",
+          "Chemerai vatadzi, navarasiki,",
+          "Meso asvinudzwa.",
+          "Vaudzei : Jesu Muponisi"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ngoni dzakandidzidzisa,",
+          "Dzakabisa kutya;",
+          "Ngoni dzake dzakakosha",
+          "Pandakazotenda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Munjodzi namatambudziko,",
+          "Andakapfuura;",
+          "Ngoni dzakandichengeta,",
+          "Dzonditungamira."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tikave’ko kwemakore,",
+          "Topenya sezuva,",
+          "Nguva yokurumbidza ‘She,",
+          "Haichazopera.",
+          "Nunurai vanhu navari kufa",
+          "Jesu M’ponisi, ane tsitsi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nyangwe vomuzvidza, anomira,",
+          "Womirira kugam’chira m’dzoki;",
+          "Wovanyengerera zvinyoronyoro",
+          "Wovaregerera vanotenda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mumwoyo womunhu, une zviyedzo.",
+          "Shungu nengoni ingavandudzwe",
+          "Nechanza yobatwa, uyewo nomutsa. Izwi rangu rafa romutswazve."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Nunurai vanhu, muvashandire;",
+          "Simba rebasa mopiwa naShe Kunzira ‘ yo mhamhi, dzokera kwavari;",
+          "Vaudze M’ponisi wavafira.",
+          "Frances von Alystyne (1820-1915)"
         ]
       }
     ],
@@ -14132,15 +16283,40 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 345,
     "number": "345",
     "category": "Invitation",
-    "title": "UYAI KUNA MSINDISI",
+    "title": "PANGUVA YOKUTEURA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Uyai kuna Msindisi, musanonoka,",
-          "Wanai ruponiso nezororo nhasi;",
-          "Akatiuchisira nemaoko akazaruka,",
-          "Zorodzwai mungoni dzake, garai maari."
+          "Panguva yokuteura,",
+          "Ndinobviswa pazvenyika;",
+          "Ndinoiswa kuna Baba,",
+          "Ndikumbire zvandashaya;",
+          "Panguva yokutambudzwa,",
+          "Mweya wangu wanyaradzwa,",
+          "Ndinokunda mukuedzwa,",
+          "Panguva yokuteura."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Panguva yokuteura;",
+          "Inguva yokukumbira Kwaari anovimbika",
+          "Anogarokomborera;",
+          "Ini,anondidaidza,",
+          "Ndimutsvake ndichitenda,",
+          "Naizvo ndomugarira,",
+          "Panguva yakuteura."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Panguva yokuteura, Ngandiwane kuyamurwa Kudzamara ndisvike ‘ko",
+          "Pamagumiro erwendo;",
+          "Mubairo wokuDenga;",
+          "Ndichaona kupundutswa Kwenguva yokuteura."
         ]
       }
     ],
@@ -14149,16 +16325,56 @@ export const HYMNS_SN: HymnLanguage[] = [
   {
     "id": 346,
     "number": "346",
-    "category": "Salvation",
-    "title": "CHIEDZA CHENYIKA",
+    "category": "Prayer",
+    "writer": "Sarah Fuller Adams (1805-48)",
+    "title": "NDISEDEDZEI MWARI PEDYO NEMI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Chiedza chenyika, chinopenya kwazvo,",
-          "Chichidzinga rima nokuunza chiedza;",
-          "Jesu Msindisi wedu, munyaradzi nemutungamiri,",
-          "Takavanzwa maari tichagara naye narinhi."
+          "Ndisededzei Mwari, pedyo nemi,",
+          "Kana ndaremerwa, ndisimbisei;",
+          "Rumbo rwangu ruve,",
+          "Pedyo nemi, Mwari,",
+          "Pedyo nemi, Mwari, pedyo nemi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndichinge mufambi pamauro,",
+          "Ndokotsira bedzi pamatombo,",
+          "Ndinoda muhope,",
+          "Kuva nemi, Mwari,",
+          "Pedyo nemi, Mwari, pedyo nemi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Nzira yangu ive yokuDenga",
+          "Zvinopihwa nemi dzezvomutsa; Ngirozi dziuye",
+          "Dzinditungamire",
+          "Pedyo nemi, Mwari, pedyo nemi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Norufaro rwenyu ndichamuka,",
+          "Pakutambudzika muchakudzwa;",
+          "Matambudzikozve",
+          "Anditungamire;",
+          "Pedyo nemi, Mwari, pedyo nemi,"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndichibhururuka ‘kokuDenga",
+          "Pam’soro pezuva, ndichienda;",
+          "Ndichazoimba zve,",
+          "Pedyo nemi, Mwari, pedyo nemi."
         ]
       }
     ],
@@ -14168,15 +16384,58 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 347,
     "number": "347",
     "category": "Warfare",
-    "title": "MIRAI KUMIRIRA JESU",
+    "title": "RUDO KUNA KRISTU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mirai kumirira Jesu, imi varwi voMuchinjikwa,",
-          "Simudzai mureza wake, haufaniri kurasika;",
-          "Kubva pakukunda achitungamirira hondo yake,",
-          "Kudzamara mhandu dzose dzaparadzwa, Kristu ave Ishe."
+          "Rudo kuna Kristu,",
+          "Kwamuri,’She Inzwai muteuro,",
+          "Ndopfugama.",
+          "Ndinonyengetera",
+          "Rudo kuna Kristu,",
+          "Kwamuri, ‘She,",
+          "Kwamuri, ‘She!"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndaida zvenyika,",
+          "Ndine shungu; Zvino ndoda imi,",
+          "Ndipei zvose.",
+          "Ndinonyengetera",
+          "Rudo kuna Kristu,",
+          "Kwamuri, ‘She,",
+          "Kwamuri, ‘She."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mumatambudziko,",
+          "Nokurwadzwa;",
+          "Zvino ndafarira",
+          "Ndipei zvose.",
+          "Ndinonyengetera",
+          "Rudo kuna Kristu,",
+          "Kwamuri, ‘She,",
+          "Kwamuri, ‘She."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndasvika pakufa,",
+          "Ndokukudzai;",
+          "Mwoyo uchachema,",
+          "Pamagumo;",
+          "Ndichazonamata;",
+          "Rudo kuna Kristu",
+          "Kwamuri, ‘She,",
+          "Kwamuri, ‘She.",
+          "(MHB)",
+          "Elizabeth P. Prentiss (1818-78)"
         ]
       }
     ],
@@ -14186,15 +16445,79 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 348,
     "number": "348",
     "category": "Guidance",
-    "title": "ANONDITUNGAMIRA",
+    "title": "RUDO RUSINGANDIREGEDZE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Anonditungamira, anonditungamira, noruoko rwake anonditungamira,",
-          "Ndichava muteveri akavimbika, nokuti noruoko rwake anonditungamira;",
-          "Zvose zvandoita, kwose kwandiri, ruoko rwake runonditungamira,",
-          "Anonditungamira, anonditungamira, noruoko rwake anonditungamira."
+          "Rudo rusingandiregedze,",
+          "Mweya wozorora marwuri;",
+          "Ndinokupa upenyu hwangu,",
+          "Mugungwa rorudo rwenyu",
+          "Rupfume, ruzadzwe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Chiyedza chinonditevera,",
+          "Nditungidze kwangu kupenya,",
+          "Wangu mwoyo ugovandudzwa",
+          "Kuti zuva rangu rive",
+          "Rinopenyesesa"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndichifara kana kurwadziwa,",
+          "Handingakubisei mumwoyo;",
+          "Ndichiona mutsi wemvura,",
+          "Chivimbiso chechokwadi",
+          "Chisina misodzi"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "M’chinjikwa unondisimudza,",
+          "Handingatongobva kwamuri;",
+          "Ndorara muvhu nokubwinya Kubvawo ndotanga",
+          "Upenyu husingaperi. George Matheson (1842-1906)",
+          "349 SEMHEMBWE YOTSVAKA MVURA As Pants The Hart Spohr, 135; Stracathro, 136"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Semhembwe yotsvaka mvura",
+          "Kana ichivhimwa,",
+          "Neni mweya une shungu",
+          "Nengoni dzenyu, ‘She."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kwamuri, Mwari mupenyu, Nemi ndine nyota; Ndichakuonai, rinhiko, Samasimba, M’tsvene?"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndoshuwa misi yekare,",
+          "Ishe, ari pedyo;",
+          "Hapakangave gomborero",
+          "Raikunda rangu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mweya wangu, wasuwei?",
+          "Vimba, uchaimba",
+          "Rurumbidzo rwake Mwari",
+          "Tsime roupenyu."
         ]
       }
     ],
@@ -14221,16 +16544,63 @@ export const HYMNS_SN: HymnLanguage[] = [
   {
     "id": 350,
     "number": "350",
-    "category": "Worship",
-    "title": "MUKURU NDIJEHOVAH",
+    "category": "Prayer",
+    "writer": "Charlotte Elliot (1789-1871)",
+    "title": "SEZVANDAKADAI, JESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mukuru ndiJehovah, uye akafanira kurumbidzwa zvikuru,",
-          "Muguta raMwari wedu, mugomo rake rutsvene;",
-          "Yakanaka munzvimbo yayo, rufaro rwenyika yose,",
-          "Igomo reZiyoni, kumativi okumusoro, guta raMambo mukuru."
+          "Sezvandakadai, Jesu",
+          "Ndisina chinhu pachangu",
+          "Makafira m’towo wangu;",
+          "Gwayana raShe ndouya"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Sezvandakadai, Ishe",
+          "Kuzvinatsa, handigone,",
+          "Ndimi mungandishambidze;",
+          "Gwayana raShe, ndouya."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Sezvandakadai, Jesu",
+          "Handizive nzira yangu;",
+          "Nokukahadzika kwangu",
+          "Gwayana raShe ndouya."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Sezvandakadai, Ishe",
+          "Ndiri bofu, ndiri rombe,",
+          "Sezvandinoshaya zvose,",
+          "Gwayana raShe, ndouya"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Sezvandakadai, Ishe",
+          "Ndimi mungandigam’chire,",
+          "Moita ndiregerwe;",
+          "Gwayana raShe, ndouya"
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Sezvandakadai, Jesu",
+          "Norudo rwenyu rukuru",
+          "Ndiri wenyu, muri wangu;",
+          "Gwayana raShe, ndouya.",
+          "Charlotte Elliot (1789-1871)"
         ]
       }
     ],
@@ -14240,15 +16610,31 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 351,
     "number": "351",
     "category": "Worship",
-    "title": "NAMATAI MAMBO",
+    "title": "SEZVANDIRI MBERI KWENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "O namatai Mambo, anobwinya kumusoro,",
-          "O imbai nokutenda simba rake nerudo rwake;",
-          "Nhovo yedu neMudziriviri, Dombo rekare,",
-          "Akagarwa nekubwinya, uye akakombwa nerumbidzo."
+          "Sezvandiri mberi kwenyu, Ndonamata;",
+          "Ngoni dzenyu dzinditore",
+          "Ndive wenyu.",
+          "Mungatore zvandinazvo",
+          "Zvivi zvangu mberi kwenyu",
+          "Zvishambidzwe, nemi chete,",
+          "‘She, ndouya"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndakaneta nedambudzo,",
+          "‘She, ndouya",
+          "Muupenyu nomukufa,",
+          "Ndive wenyu.",
+          "Kutya kunodzivisa",
+          "Ndakambokundika kare;",
+          "Asi somwana ndovimba,",
+          "‘She, ndouya."
         ]
       }
     ],
@@ -14258,15 +16644,111 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 352,
     "number": "352",
     "category": "Trust",
-    "title": "ANOVIMBIKA NARINHI",
+    "title": "MUCHIKOMBORERA VAMWE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Anovimbika narinhi, weidi narinhi,",
-          "Zvipiriso zvenyu, Ishe, zvichatibatsira;",
-          "Mumiyedzo yose, mune zvose zvokuedzwa,",
-          "Mungoni dzenyu huru takaropafadzwa."
+          "Muchikomborera vamwe,",
+          "Musandipfure Ishe;",
+          "Mwoyo wangu unenyota,",
+          "Munditonhodze Ishe,",
+          "‘She wangu, ‘She wangu,",
+          "Ndokomborerei, ‘She wangu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nguva ndefu ndokotsira,",
+          "Ndichikuzvidzai Ishe,",
+          "Ndakabatwa nezvenyika,",
+          "Ndiregererei Ishe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Musandipfuure, Baba,",
+          "Nyangwe ndiri mutadzi,",
+          "M’ponisi musandisiye,",
+          "Asi ndinzwirei tsitsi,"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Munoziva zvose zvangu,"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mweya wamasimba ose,",
+          "‘She, ndouya",
+          "Mundiite ndione;",
+          "Nezvemberi munozviona,",
+          "Ndiri bofu, ndiyamurei,",
+          "‘She, ndouya,",
+          "Ndisimbisei Ishe.",
+          "Nditorei, ndovimba nemi,",
+          "Ndiri mumaoko enyu;",
+          "Handingatye nemadutu,",
+          "‘She, ndouya.",
+          "Herbert Howard Booth (1862-1926)"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Rudo rwaMwari rutsvene,",
+          "Ropa roMuponisi;",
+          "Ngoni dzaShe dzisingafe",
+          "Ngazviwanzwe mandiri.",
+          "Elizabeth Codner (1824-1919)",
+          "353 ‘SHE, NDODA KUVA MUKRISTU",
+          "Lord, I want To Be A Christian",
+          "Lord I Want To Be A Christian,722"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "‘She, ndoda kuva muKristu,",
+          "Mumwoyo, mumwoyo",
+          "‘She, ndoda kuva muKristu, mumwoyo.",
+          "Mumwoyo ! Mumwoyo !",
+          "Mumwoyo ! Mumwoyo !",
+          "‘She ndoda kuva muKristu, momwoyo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "She , ndoda kuva norudo,",
+          "Mumwoyo, mumwoyo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "She , ndoda kuva mutsvene,",
+          "Mumwoyo, mumwoyo."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Handidi kuva saJudasi,",
+          "Mumwoyo, mumwoyo."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndinoda kuva saJesu,",
+          "Mumwoyo , momwoyo.",
+          "(MHB"
         ]
       }
     ],
@@ -14293,16 +16775,48 @@ export const HYMNS_SN: HymnLanguage[] = [
   {
     "id": 354,
     "number": "354",
-    "category": "Love",
-    "title": "NDINOKUDAI ISHE",
+    "category": "Prayer",
+    "writer": "Fanny Crosby (1820-1915)",
+    "title": "MUSANDIPFURE, JESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinokudai, Ishe, nokuti makatanga kundida,",
-          "Uye makandifira pamuti wokushorwa;",
-          "Ndichakushandirai nemwoyo wose nemweya wangu,",
-          "Pasi poutsvene hwoMweya wenyu."
+          "Musandipfure, Jesu",
+          "Inzwai, ndochema",
+          "Kana moshevedza vamwe,",
+          "Musandipfure.",
+          "Ishe ! Ishe!",
+          "Inzwai, ndochema,",
+          "Kana moshevedza vamwe,",
+          "Musandipfure."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Netsitsi dzenyu ndiwane",
+          "Kusununguka;",
+          "Zvandinokupfugamirai,",
+          "Ndipei kutenda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndichivimba noutsvene",
+          "Ngandihuwane;",
+          "Muchirapa mwoyo wangu,",
+          "Mundiponise."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndimi munyaradzi wangu,",
+          "Mokunda zvose",
+          "Ndianizve pasi pano?",
+          "Kana kudenga?"
         ]
       }
     ],
@@ -14330,15 +16844,85 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 356,
     "number": "356",
     "category": "Guidance",
-    "title": "MWEYA MUTSVENE NDITUNGAMIREI",
+    "title": "ZVOSHAMISA KUFAMBA NAMWARI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mweya Mutsvene, nditungamirei munzira yeidi,",
-          "Ndirevei muushumiri hwangu, ndidudzei muuduku hwangu;",
-          "Dai chiedza chenyu chive neni munguva yerima,",
-          "Ndizadziswe nesimba rokudenga rinoponisa."
+          "Zvoshamisa kufamba naMwari,",
+          "Enda kuna Jesu;",
+          "Munzira yakafamba vatsvene;",
+          "Verera kumusha ‘ko",
+          "Zvoshamisa kumunzwa achiti:",
+          "Idandaro panyika .",
+          "Usatye, ndinokutungamira!"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "‘She wondidana,",
+          "Nezwi rinotinhira,",
+          "Mumhanzi mumweya woti;",
+          "Idandaro panyika."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "‘She wokatama,",
+          "Mutadzi anobvunda,",
+          "Mumhanzi mumweya woti;",
+          "Idandaro panyika."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "‘She wondidana,",
+          "Wondidana semheni,",
+          "Mumhanzi mumweya woti;",
+          "Idandaro panyika. (MHB)",
+          "Afro -American Spiritual"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zvoshamisa kutaura naye,",
+          "Kana ndapinda mudutu guru;",
+          "Zvoshamisa kunzwa izwi rake,",
+          "Wotaura, gwenga rinofara."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Zvoshamisa kurumbidza Mwari,",
+          "Wodzivirira nem’donzvo wake;",
+          "Zvinoshamisa kumurumbidza",
+          "Mwoyo wangu unomuimbira."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Zvinoshamisa kurwira Mwari,",
+          "Kuyamura vanhu vaponiswe:",
+          "Zvoshamisa kurwisa vavengi",
+          "Nepfumo raKristu, Muponisi."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Zvoshamisa kuzogara naye,",
+          "Ndayambuka rukova rwokufa;",
+          "Zvoshamisa kuonana naye,",
+          "Ndave mukundi ndapedza kurwa.",
+          "Theodore Hopkins Kitching (1866-1930)",
+          "(b) MAGWARO MATSVENE",
+          "Holy Scriptures"
         ]
       }
     ],
@@ -14348,15 +16932,39 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 357,
     "number": "357",
     "category": "Assurance",
-    "title": "NDAVE WAJESU",
+    "title": "BHAIBHERI, RASHE MWARI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndave waJesu, iye ndiye Ishe wevose,",
-          "Achandichengeta uye anonzwa kudana kwangu kwose;",
-          "Ndiri wake narinhi, ndakatengwa nemari isingaverengeki,",
-          "Ndakavanzwa pamberi pake, ndakavanzwa mudanga rake."
+          "Bhaibheri, raShe Mwari,",
+          "Rondipfumisa ini;",
+          "Rondiudza kwandabva,",
+          "Zvandiri roratidza."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Rondiratidza nzira,",
+          "Zve, rinondisesedza; Norudo rwoM’ponisi",
+          "Ritonge, ripembedze."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Rondipa kunyaradzwa,",
+          "Naro ndokomborwerwa;",
+          "Rutendo rwaratidza",
+          "Ruchakunda mukufa."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rondiudza zveDenga,",
+          "Vatadzi vanorangwa; Bhaibheri raShe Mwari, Rondipfumisa ini."
         ]
       }
     ],
@@ -14366,15 +16974,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 358,
     "number": "358",
     "category": "Love",
-    "title": "MWARI RUDO",
+    "title": "MEDURAI CHINGWA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwari rudo, ngoni dzake dzinovhenekera nzira yatinofamba,",
-          "Anomutsa rufaro uye anorerutsa nhamo, Mwari iungwaru, Mwari rudo;",
-          "Mwari rudo, ngoni dzake dzinovhenekera nzira yatinofamba,",
-          "Anomutsa rufaro uye anorerutsa nhamo, Mwari iungwaru, Mwari rudo."
+          "Medura chingwa",
+          "‘She, kwandiri,",
+          "Sezvamakaita",
+          "PaGarari;",
+          "Seri kwoutsvene",
+          "Ndokutsvakai;",
+          "Mweya unoshuva",
+          "Inzwi benyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mwari chingwa, Ishe",
+          "Nokwandiri;",
+          "Izwi renyu dzvene",
+          "Roponisa",
+          "Ndidyisei ndipone",
+          "Nemi, uko;",
+          "Ndidzidzisei kuti",
+          "Muri rudo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tumai mweya wenyu",
+          "Kwandiri, She;",
+          "Mubate maziso",
+          "Ndigoona;",
+          "Ratidzai chokwadi",
+          "Muzwi renyu",
+          "Ndione, ‘She.",
+          "Mubhaibheri renyu",
+          "TSVITSA",
+          "Weddings"
         ]
       }
     ],
@@ -14384,15 +17024,24 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 359,
     "number": "359",
     "category": "Salvation",
-    "title": "NGONI DZINOSHAMISA",
+    "title": "IZWI RAKAFEMERA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ngoni dzinoshamisa chose, dzakapfuma uye dzepachena,",
-          "Dzakaropafadza mutadzi murombo, mutadzi akaita seni;",
-          "Ndichaimba ngoni dzenyu ndigoaudza rudo rwenyu,",
-          "Kudzamara Jesu andidana kukubwinya kumusoro."
+          "Izwi rofemera",
+          "Mutsvitsa yeEdhenii;",
+          "Muchato wokutanga,",
+          "Munesu nanhasi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ivaipo M’ponisi,",
+          "Muvabatanidze,",
+          "Nemhiko yenyu, Ishe,",
+          "Isina magumo."
         ]
       }
     ],
@@ -14402,15 +17051,61 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 360,
     "number": "360",
     "category": "Praise",
-    "title": "HALELUYA",
+    "title": "MWARI TOKUPFUGAMIRAI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Haleluya, haleluya, haleluya kuna Mambo wedu,",
-          "Haleluya, haleluya, rumbidzo kuzita rake tinouya nadzo;",
-          "Akatuponisa, akatichengeta, nengoni dzake takasunungurwa,",
-          "Haleluya, haleluya, kubwinya kuve kwaari narinhi."
+          "Mwari tokupfugamirai,",
+          "Tichinamatira ava,",
+          "Vasunganidzwa mumhiko,",
+          "Vave mumwechete."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pamazuva orufaro,",
+          "Namazuva akanaka,",
+          "Vachifamba norutendo,",
+          "Vave mumwe nemi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Fungatai, mubise"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kana dutu rovhuvhuta,",
+          "Mweya yakaipa;",
+          "Zvakanaka zvanyangadzwa,",
+          "Murwendo rwoupenyu,",
+          "Ngavavimbe nemi chete,",
+          "Vafambe nomutsa.",
+          "Vave mumwe nemi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Musha, worufara,"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Zvose zvavachazopiwa,",
+          "Vafambe naKristu;",
+          "Zverufaro nedambudzo,",
+          "Vagoradzika ngundu",
+          "Nesimba rengoni dzenyu,",
+          "MuParadhaisi.",
+          "Vave vamwe nemi.",
+          "(1868-1920)"
         ]
       }
     ],
@@ -14420,15 +17115,50 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 361,
     "number": "361",
     "category": "Prayer",
-    "title": "ISHE TIPE SIMBA",
+    "title": "ISHE MUVAROPAFADZE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe tipe simba rokutevera,",
-          "Muzvose zvatinoita;",
-          "Ngoni dzenyu dzinotikwanira,",
-          "Zvipiriso zvenyu ndezveidi."
+          "Ishe muvaropafadze",
+          "Ava vano sangana;",
+          "Muzita renyu dzvene,",
+          "Vapei kusimbisana;",
+          "Ngavatsunge, ngavatsunge,",
+          "Vavandudzwe noMweya."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ropafadzai muroora,",
+          "Ngaanzwe ngoni dzenyu;",
+          "Mupei njere, rudo, simba,",
+          "Apfumiswe nezvenyu,",
+          "Atevere, atevere,",
+          "Kuvhenekera kwenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mukwashawo anatswe",
+          "Adise zvipo zvenyu,",
+          "Akudze, akushandirei",
+          "Neidi norunako;",
+          "Muupenyu, muupenyu,",
+          "Ngaaratidze rudo."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ropafadzai, tsvitsa ino,",
+          "Muri pedyo, O Mwari!",
+          "Vana venyuwo vanemi",
+          "Mamuri vanopona;",
+          "Ngavagare, ngavagare,",
+          "Murudo mukuedzwa."
         ]
       }
     ],
@@ -14438,15 +17168,38 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 362,
     "number": "362",
     "category": "Salvation",
-    "title": "NDAWANA MSINDISI",
+    "title": "TOKUTAMBIRAI M’PONISI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndawana Msindisi, rufaro rukuru,",
-          "Akabvisa zvivi zvangu zvose;",
-          "Basa rake ndiro randichaita,",
-          "Ndichamutevera mazuva ose."
+          "Tokumbira M’ponisi,",
+          "Zvikomborero zvenyu,",
+          "Ngazviiswe pavari",
+          "Zvino, vari kutsvitsa;",
+          "Ukama hwavo huve",
+          "Pamwe chete nemi, ‘She"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Jesu, makaonekwa",
+          "Pamuchato paKana;",
+          "Sanganai nesuwo",
+          "Patsvitsa inorudo,",
+          "Tipei rufaro rwenyu,",
+          "Norunyararo rwenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Natsai vaviri ava,",
+          "Vanoukama hutsva,",
+          "Misi yavachapiwa",
+          "Ive rwendo kudenga, Kwavachaona idi,",
+          "Noupenyu hwaMwari."
         ]
       }
     ],
@@ -14456,15 +17209,15 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 363,
     "number": "363",
     "category": "Assurance",
-    "title": "RUGARE RUTSVENE",
+    "title": "NHASI, MUMBA MAJEHOVHA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rugare rutsvene, rugare runozipa,",
-          "Rufaro rwakazadza mwoyo wangu;",
-          "Mumafungu egungwa, Jesu anotaura neni,",
-          "Mafungu ose anonyarara."
+          "Nhasi, mumba maJehovha,",
+          "Mune sungano itsva;",
+          "Zvivimbiso zvokutsvitswa,",
+          "Makomborero aShe."
         ]
       }
     ],
@@ -14474,15 +17227,66 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 364,
     "number": "364",
     "category": "Worship",
-    "title": "MUTSVENE MWARI",
+    "title": "RUDO RUTSVENE RUNOKUNDA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mutsvene, mutsvene, mutsvene ndiJehovah,",
-          "Nyika yose ngaidamate zita rake;",
-          "Tichivimba neShoko rake narinhi,",
-          "Nezuro, nanhasi haashanduki."
+          "Rudo rutsvene runokunda zvose,",
+          "Tinopfugamira mberi kwenyu,",
+          "Rudo rwenyu rusave namagumo,",
+          "Muutsvene vave mumwechete.",
+          "Mukuwasha, muroora,",
+          "Ngavave nenduramo;"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mamuri ngavawane chivimbiso",
+          "Vagare vachinamata,",
+          "Cherudo runopa norutendo,",
+          "Imba igosimbiswa.",
+          "Netariro inomwoyo murefu,",
+          "Somucheche asingatye rufu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ngavatsvake ruwadzano,",
+          "Rugare mumba mavo;",
+          "Vashande, nokuwandirwa",
+          "Neerudo mapudzi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mumatambudziko ose,",
+          "Vave vakatendeka;",
+          "Muupfumi muurombo,",
+          "Vave mumwe murudo."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rudo, tsitsi, norunako,",
+          "Ngazvive chitsigiro;",
+          "Vaeni vawane rudo",
+          "Musangano yetsvitsa.",
+          "Ronnie Nemhara (1954-2001)"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vapei rufaro runotanda nhamo,",
+          "Norugare mumatambudziko;",
+          "Upenyu hwavo huve nokubwinya",
+          "Kuno rudo rusina magumo.",
+          "(1858-1930)"
         ]
       }
     ],
@@ -14492,15 +17296,53 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 365,
     "number": "365",
     "category": "Guidance",
-    "title": "NDIRATIDZEI NZIRA",
+    "title": "ZVAKAKOMBORERWA ZVISUNGO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndiratidzei nzira, Ishe, ndinokumbira,",
-          "Vhenekai mugwagwa wangu mazuva ose;",
-          "Ndidzivisei pakuwa, ndichengetei pachivi,",
-          "Basa renyu ngaritange mandiri."
+          "Zvakakomborerwa",
+          "Zvisungo zverudo,",
+          "ZvechiKristu, zvavatendi;",
+          "Zvinobva kudenga."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pamberi paBaba,",
+          "Tinonyengetera :",
+          "Kutya,tariro, zvinangwa,",
+          "Rugare, matambudziko."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mitoro, nenhamo,",
+          "Totakudzawo;",
+          "Nedzimwe nguva misodzi",
+          "Yodonhera vamwe."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tatsaukaniswa",
+          "Torwadzwa mumwoyo;",
+          "Asi tinovimba bedzi",
+          "Tichasanganazve."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Kana mukusuwa,",
+          "Tichasunungurwa;",
+          "Norudo nokuwadzana,",
+          "Ndezvedu narinhi. John Fawcett (1770-1817)",
+          "IX KUNAMATA KWEMHURI",
+          "Family Worship"
         ]
       }
     ],
@@ -14510,15 +17352,62 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 366,
     "number": "366",
     "category": "Holiness",
-    "title": "NGEI NDIVE NEMI",
+    "title": "IMBA NEZVEUPENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndiitei ndive nemi, Msindisi mutsvene,",
-          "Kubwinya kwenyu ngakupenye mandiri;",
-          "Torai upenyu hwangu huve hwenyu,",
-          "Mununuri wangu, Msindisi wangu."
+          "Imbai nezveupenyu,",
+          "Sokukwanisa kwenyu;",
+          "Zvitoro, misha, mabhazi,",
+          "Neminda, namasango.",
+          "Upenyu hwatapiwa,",
+          "Hutsvene, hwakanaka."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kuzvose zvinoitika:",
+          "Kufara, nokurwadzwa,",
+          "Kusuwa, nezvakaoma,",
+          "Zvisingataurike;",
+          "Asi, upenyu hukuru",
+          "Kana une mudiwa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Upenyu huri murudo",
+          "Rwavanonyeverana;",
+          "Rwunotarisa mucheche",
+          "Mumbereko kum’sana.",
+          "Rudo rwusingapinduke,",
+          "Harufe nokukura."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rudo, kupa nokupiwa",
+          "Nehama, neshamwari.",
+          "Rudo kuregererana",
+          "Zvinogumbura mwoyo.",
+          "Rudo, ndiyo nzira huru,",
+          "Kuvimba kumagumo."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Rudo, mukuriri nokuti",
+          "Muna ‘She wakatida.",
+          "Rudo rwakagwinya chete",
+          "Vadzidzi vachim’tiza.",
+          "Rudo rwakakunda rufu;",
+          "Rumbidzai rudo rwake.",
+          "Brien Wren"
         ]
       }
     ],
@@ -14528,15 +17417,38 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 367,
     "number": "367",
     "category": "Love",
-    "title": "RUDO RWA MWARI RUNOYERERA",
+    "title": "MHURI INO RUDO RWASHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rudo rwa Mwari rwunoyerera sorwizi,",
-          "Rwunounza rugare mumwoyo mangu;",
-          "Ndiye Mupi wezvose zvakanaka,",
-          "Noruoko rwake anoporesa vakuvadzwa."
+          "Mhuri ino rudo rwaShe,",
+          "Mhuri inofadza,",
+          "Chido chayo munamato, Wezororo naShe"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mhuri ine zita raShe, Inofadza vose.",
+          "Vabereki vonodzidzisa",
+          "Zvembiri yaJesu"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mhuri inonyengetera",
+          "Nokurumbidza ‘She",
+          "Inodisa shoko dzvene,",
+          "Yogarira denga."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ishe ngatibvumirane",
+          "Kuwana rugare; Mwoyo isungane nemi, Rudo rwutitonge."
         ]
       }
     ],
@@ -14546,15 +17458,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 368,
     "number": "368",
     "category": "Dedication",
-    "title": "NDINOPA ZVOSE KWAARI",
+    "title": "HAMA YEDU NDIYE JESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinopa zvose kuna Jesu Mambo,",
-          "Kuzita rake ndinouya nerumbidzo;",
-          "Ndichamushumira nemufaro kwose kwose,",
-          "Ndakaponeswa nengoni dzake."
+          "Hama yedu, ndiye Jesu,",
+          "Watakudzwa kuipa;",
+          "Tapihwa kuti tiuye",
+          "Kwaari nokuteura",
+          "Runyararo hatiwane,",
+          "Tinotambudzwa kwazvo,",
+          "Nokuti hatitakure",
+          "Zvose nomuteuro."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Takanetswa nokuedzwa",
+          "Tinotambudzwa here?",
+          "Ngatirege kutsutsumwa,",
+          "Teura kuna Ishe;",
+          "Aripo wakatendeseka,",
+          "SaJesu anetsitsi?",
+          "Waziva hweu utera,",
+          "Teura kuM’ponisi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tinoremerwa zvikuru",
+          "Zviripo zvinonetsa",
+          "M’ponisi ibako redu,",
+          "Kuna iye teura;",
+          "Hama dzako dzakuzvidza?",
+          "Teura kuna Ishe;",
+          "Mumaoko wochengetwa.",
+          "Uchazorodzwa naye.",
+          "Joseph Medlicott Scriven (1819-86)"
         ]
       }
     ],
@@ -14564,15 +17507,39 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 369,
     "number": "369",
     "category": "Warfare",
-    "title": "TICHIFAMBA NOKUKUNDA",
+    "title": "MUSHA, MUSHA UNOFADZA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tichifamba nokukunda muzita raShe,",
-          "Tichivimba nesimba reShoko rake;",
-          "Takashama neMweya nenhovo yokutenda,",
-          "Tichakunda kutya kwose norufu."
+          "Musha, musha unofadza",
+          "Kana rudo rwuripo.",
+          "Musha, musha wakanaka,",
+          "Une Mweya Mutsvene.",
+          "Jesu anoutsvenisa, Ungadziye semoto; Shure kwezuva raBaba,",
+          "Musha chidziviriro."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mukamusha keBhetani,",
+          "Jesu waifambamo;",
+          "Manheru waimirirwa",
+          "Nemwoyo yakapfava.",
+          "Jesu wotanda kusuwa,",
+          "Woropafadza kudya;",
+          "Norufaro vom’rumbidza",
+          "Vowana kuzorora."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngatiite musha uve",
+          "Seguta rinopenya; Tose tive nomufaro Titakudzane mitoro. Mudutu rokutambudzwa",
+          "Titsvake ruponiso; Mukuyedzwa tiyeuke Simba romuteuro.",
+          "Arthur Smith Arnott (1870 -1741)"
         ]
       }
     ],
@@ -14582,15 +17549,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 370,
     "number": "370",
     "category": "Invitation",
-    "title": "MUCHAUYA HERE?",
+    "title": "O, MWOYO WOFARIRA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Muchauya here kuna Jesu, Mununuri wevose?",
-          "Teererai izwi rake muteerere kudanwa kwake;",
-          "Kune nzvimbo yenyu muumambo hwake kudenga,",
-          "Kurumidzai kuuya kutsime rorudo rwake."
+          "O, Mwoyo wofarira",
+          "Mumba mune rudo.",
+          "Zviso zvonyemwerera,",
+          "Mumba mune rudo.",
+          "Mazwi azere mutsa,",
+          "Rufaro kwese kwese;",
+          "Runyararo, rupfavo,",
+          "Mumba mune rudo.",
+          "Mumba mune rudo!",
+          "Mune ngirozi, mumba,",
+          "Mumba mune rudo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pachoto pane zuva,",
+          "Mumba mune rudo;",
+          "Nenziyo dzezvomweya, Mumba mune rudo.",
+          "Zviso zvinofadzisa,",
+          "Kuseka mumigwagwa,",
+          "Zvonakira vaduku,",
+          "Mumba mune rudo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Jesu ari pakati,",
+          "Mumba mune rudo;",
+          "Iye wovadzidzisa,",
+          "Mumba mune rudo;",
+          "Mubishi, wobatsira",
+          "Nazvose zvakanaka,",
+          "Mumba mune rudo."
         ]
       }
     ],
@@ -14618,15 +17616,87 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 372,
     "number": "372",
     "category": "Salvation",
-    "title": "NDANUNURWA NEROPA",
+    "title": "ZUVA ROMWEYA WANGU, ‘SHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndanunurwa neropa reGwayana rakafa,",
-          "Ndakashambidzwa pazvivi ndaberekwa patsva;",
-          "Kukudzwa neruremekedzo kuve kuna Jesu,",
-          "Ndiye Msindisi wangu nerumbo rwangu."
+          "Tibatsirei, Ishe, kuti"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Zuva romweya wangu, ‘She,",
+          "Tigobatsirana;",
+          "Rima rinobiswa nemi;",
+          "Mumwe abatsire mumwe,",
+          "Rirege kubuda gore",
+          "Amunzwire mutsa.",
+          "Rinokuvanzai Ishe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tibatsirei tivakane,"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana nehope ndabatwa,",
+          "Muzvishoma zvedu;",
+          "Meso achidzimaidzwa,",
+          "Norutendo netariro,",
+          "Pamagumo ngandifunge;",
+          "Zviwande norudo.",
+          "Ndonyatsozorora naShe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tikwire muzvinhu zvose,",
+          "Muve m’soro wedu;",
+          "Mutisunungure tive",
+          "Vasina mavara."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Garai neni zuva rose,",
+          "Handipone ndoga chete;",
+          "Husiku mundichengete;",
+          "Ndichinemi handingafe."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kana kuno mwana wenyu,",
+          "Wakaramba izwi renyu",
+          "Ishe shandai maari,",
+          "Kuti agosiya zvivi."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Varombo navo varwere,",
+          "Ngavaropa fadzwe nemi;",
+          "Ngavarare vaFirwawo,",
+          "Somwana asina nhamo."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Ivai nesu tapepuka",
+          "Tisati tabata basa;",
+          "Tigare murudo rwenyu,",
+          "Dakara tisvike kwenyu."
         ]
       }
     ],
@@ -14636,15 +17706,17 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 373,
     "number": "373",
     "category": "Assurance",
-    "title": "NDIMIRE PARUWARE",
+    "title": "AKABATA HANZU YAKE, ISHE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndimire paruware, ruware rwechokwadi,",
-          "Shoko rake ichivimbiso, rudo rwake ruripo;",
-          "Hapana dutu ringandiwisira pasi,",
-          "Ngoni dzaMsindisi hadzingamboperi."
+          "Akabata hanzu yake, Ishe,",
+          "Paakadzvekenyedza Mberi pamhomho yakamukomba, Ndokubva apona.",
+          "Bata hanzu yake, Ishe",
+          "Newe uchapona;",
+          "Simba rake iye zvino",
+          "Upenyu rokupa."
         ]
       }
     ],
@@ -14654,15 +17726,69 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 374,
     "number": "374",
     "category": "Worship",
-    "title": "TINOUNZA RUMBIDZO",
+    "title": "PAKUDOKA KWARO ZUVA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Tinounza rumbidzo kuchigaro chenyu chitsvene,",
-          "Upenyu hwedu noushumiri huri kwamuri moga;",
-          "Akafanira ndiye Gwayana rakafa nokuda kwezvivi,",
-          "Kutonga kwake kukuru ngakutange mumwoyo."
+          "Pakudoka kwaro zuva,",
+          "Varwere vakaungana",
+          "Vakauya vachirwadzwa",
+          "Vakaenda vachifara."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nesu wozve, richidoka,",
+          "Tinonetswa nezvirwere;",
+          "Kunyange tikasaona",
+          "Asi muripo, toziva."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Akabvunda ari mberi kwake"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "O Kristu, ‘She, bisai nhamo !",
+          "Mberi kwaShe, Jesu",
+          "Kuvarwere va nosuwa;",
+          "Akanzwa simba roMuponisi,",
+          "Kune vasakambokudai;",
+          "Akabva apona.",
+          "Vamwe rudo rwakatiza."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Akati : mwana chifara zvako,"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "O Kristu, ‘She, muri munhu,",
+          "Waponiswa zvino ;",
+          "Makayedzwa, mukashushwa;",
+          "Runyararo runokunda zvose",
+          "Muchitarisa, moona",
+          "Rwakamusvikira.",
+          "Maronda atinovanza."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Kubata kwenyu, isimba;",
+          "Izwi renyu harikundwe;",
+          "Tinzwirei zvino pamadeko,",
+          "Netsitsi, mutiporese."
         ]
       }
     ],
@@ -14672,15 +17798,44 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 375,
     "number": "375",
     "category": "Guidance",
-    "title": "RUOKO RWENYU RUCHANDITUNGAMIRA",
+    "title": "MURAPI MUKURU JESU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ruoko renyu ruchanditungamira kwose kwose,",
-          "Mumupata wakadzika kana pamvura inoyerera;",
-          "Kuvapo kwenyu kuchandichengetedza pamisungo,",
-          "Ndikavanzwa mumumvuri worudo rwenyu."
+          "Murapi mukuru, Jesu",
+          "Ane tsitsi zvikuru,",
+          "Anofadza vanosuwa",
+          "Inzwai izwi raJesu.",
+          "Rwiyo rwakanakisa,",
+          "Zita rakanakisa,",
+          "Rumbo rwakanakisa,",
+          "Jesu, ndiye Jesu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ungaregererwe zvivi",
+          "Inzwa izwi raJesu",
+          "Chienda zvako kudenga",
+          "Ugadzwe naye Jesu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngarirumbidzwe Gwayana, Ndinomutenda Jesu, Ndoda zita roM’ponisi,",
+          "Ndoda zita raJesu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mhosva nekutya zvatandwa",
+          "Nezita rake Jesu;",
+          "Mweya wangu unofara,",
+          "Kunzwa zita raJesu."
         ]
       }
     ],
@@ -14690,15 +17845,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 376,
     "number": "376",
     "category": "Holiness",
-    "title": "NATSAI MWOYO WANGU",
+    "title": "TINOISA VARWERE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Natsai mwoyo wangu, uve segoridhe,",
-          "Mumoto wenyu unonatsa ngoni dzenyu ngadzivepo;",
-          "Pisai tsvina yose, ndive muchene chose,",
-          "Mutsvene uye anogamuchirika kwamuri, Ishe."
+          "Tinoisa varwere",
+          "Mberi kwenyu, Ishe;",
+          "Vazhinji vakarara",
+          "Namatenda avo.",
+          "Ishe, nzwirai tsitsi",
+          "Varere nehosha,",
+          "Vochema , vachiti :",
+          "Tinzwirei tsitsi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Fungai zvepagungwa",
+          "RepaGarariya;",
+          "Makaunganirwapo",
+          "Navaitambura.",
+          "Simutsai ruoko",
+          "Sezve kare kare,",
+          "Vose vachararama,",
+          "Vose vachapona."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Wedzerai rutendo",
+          "Rwavanotendeka;",
+          "Varapwe vagotenda",
+          "Kuti muripo, ‘She.",
+          "Kana chirwere chavo",
+          "Chisina kupera,",
+          "Vapeiwo tariro",
+          "Youmusha kudenga.",
+          "Solomom M. Mutswairo. (b. 1924)",
+          "X NGUVA NEMWAKA YEGORE Times And Seasons Of The Year",
+          "(a) MANGWANANI NEMANHERU",
+          "Morning And Evening"
         ]
       }
     ],
@@ -14708,15 +17897,45 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 377,
     "number": "377",
     "category": "Love",
-    "title": "RUDO RWA MWARI RWAKAZIPA",
+    "title": "FAMBA MANGWANANGWANA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Rudo rwa Mwari rwunozipa, rwakafara ne rwakadzika,",
-          "Vana vake anovimbisa kuvachengeta narinhi;",
-          "Anoziva nhamo dzedu, anonzwa kurwadziwa kwedu,",
-          "Nengoni dzake huru takaberekwazve maari."
+          "Famba mangwanangwana,",
+          "Famba masikati,",
+          "Famba zuva radoka,",
+          "Famba pausiku;",
+          "Famba nomwoyo m’tsvene",
+          "Urege kutyiswa,",
+          "Upfugame namabvi,",
+          "Teura kwaari."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kumbirira shamwari,",
+          "Vose anovada;",
+          "Kumbirira vavengi,",
+          "Rega kuvasiya ,",
+          "Shure kwezvo kumbira",
+          "Chowotsvaka woga",
+          "Nero zita raJesu",
+          "Mununuri wako."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kana washaya nzvimbo",
+          "Yokugara woga,",
+          "Kana varipo vamwe,",
+          "Zvimwe une basa;",
+          "Simutsa mwoyo wako;",
+          "Mwari anokunzwa,",
+          "Kufunga kwedu kwose,",
+          "Kunoziviwa naye."
         ]
       }
     ],
@@ -14726,15 +17945,63 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 378,
     "number": "378",
     "category": "Dedication",
-    "title": "GAMUCHIRAI USHUMIRI HWANGU",
+    "title": "MANGWANANI TICHIMUKA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Gamuchirai ushumiri hwangu, Ishe, ndinokumbira,",
-          "Ndishandisei pakubwinya kwenyu mazuva ose;",
-          "Upenyu hwangu, chipo changu, ndinouya nazvo kwamuri,",
-          "Kuna Kristu Msindisi naMambo wokudenga."
+          "Mangwanani tichimuka,",
+          "Tinogam’chira norudo;",
+          "Tova noupenyu utsva,",
+          "Nesimba kubva murima"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana zvichifungidzira",
+          "Kukudza zvatinoona;",
+          "Mwari achitipa pfuma",
+          "Itsva kuva chibayiro."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Zvose zvichatiyevedza",
+          "Toona denga mazviri;",
+          "Norudo nomunamato,",
+          "Zvoonekwa paM’chinjikwa"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mabasa mamwe enhando,",
+          "Nazvo zvatinokumbira;",
+          "Nekuzvinyima mu’penyu, Zvotisvitsa kuna Mwari."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Murudo rwenyu, ‘She, chete",
+          "Tikonzereswe zvedenga;",
+          "Tiyamurei misi yose,",
+          "Tive pedyo noupenyu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kana waona nhamo,",
+          "Teura kwaari;",
+          "Neparufaro rwako",
+          "Tenda kuna Mwari;",
+          "Simba raakatipa",
+          "Rinokunda zvose;",
+          "Simba rokuteura,",
+          "Kuna Mwari wedu."
         ]
       }
     ],
@@ -14744,15 +18011,58 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 379,
     "number": "379",
     "category": "Warfare",
-    "title": "MIRIRAI CHOKWADI",
+    "title": "MUKA, MWEYA KUCHIYEDZA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mirirai chokwadi muhondo youpenyu,",
-          "Kukunda kwakavimbiswa mumatambudziko ose;",
-          "Musarerutsa mwoyo, nokuti Jesu ari pedyo,",
-          "Achakudzivirirai pakutya kwose kwose."
+          "Muka, mweya kuchiyedza, Uite basa rezuva;",
+          "Bisa nungo, ugofara",
+          "Kupa chipo mangwanani."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Taura nokuvimbika",
+          "Hana yako yakachena;",
+          "Mwari, zvose anoona:",
+          "Pfungwa, mazwi, nzira dzako."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngaatendwe muchengeti Muhope wandizorodza",
+          "Kana mukufa ndamuka,",
+          "Nemi ndigare narinhi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ishe,mhiko ndoitazve;",
+          "Paradzai zvivi sedova;",
+          "Kwangu kufunga chengeta,",
+          "Nomweya wenyu ndazadzei."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Zvanhasi zvitungamirei,",
+          "Zvondofunga, nokuita;",
+          "Kuti rangu simba rose",
+          "Rive rimwe nemi chose."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Rumbidzai Mwari wedenga,",
+          "Imi zvisikwa zvepasi;",
+          "Nokudenga, rumbidzai",
+          "Baba,Mwana, Mweya M’tsvene."
         ]
       }
     ],
@@ -14762,15 +18072,56 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 380,
     "number": "380",
     "category": "Invitation",
-    "title": "UYAI KUMVURA",
+    "title": "SHANDA, ROSVIKA RIMA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Uyai kumvura, kutsime roupenyu,",
-          "Wanai zororo parunyararo nenhamo dzenyu;",
-          "Jesu anodana, anodana nanhasi,",
-          "Uyai muponiswe, musanonoka zvino."
+          "Shanda, rosvika rima,",
+          "Kusvika kwayedza.",
+          "Shanda ropenya dova",
+          "Romumaruva.",
+          "Shanda kune chiyedza,",
+          "Zuva richipenya,",
+          "Shanda, rosvika rima,",
+          "Basa ropera."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Shanda rosvika rima,",
+          "Napamasikati.",
+          "Shanda nomuchiyedza,",
+          "Uchazorora,",
+          "Shandisa nguva yose,",
+          "Uve nemugove.",
+          "Shanda rosvika rima,",
+          "Pasisashandwe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Shandira Tenzi wako,",
+          "Kana uchafema,",
+          "Ropa rakakutenga Kubva kurufu.",
+          "Shanda nyika yotukwa,",
+          "Ichiri muzvivi.",
+          "Shandira Ishe wako, Kudzora vamwe."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Shanda rosvika rima,",
+          "Zuva richidoka;",
+          "Ropenya segoridhe",
+          "Kumavirira.",
+          "Shanda rukunzvi kunzvi;",
+          "Zuva richinyura.",
+          "Shanda rosvika rima,",
+          "Basa ropera. L. Mason"
         ]
       }
     ],
@@ -14780,15 +18131,61 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 381,
     "number": "381",
     "category": "Praise",
-    "title": "JESU NDIYE ISHE",
+    "title": "UTUNGA HWOTSVUKA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu ndiye Ishe, Mununuri wangu naMambo,",
-          "Kuzita rake ndinouya nerumbidzo;",
-          "Akandiponisa akandisunungura,",
-          "Kubwinya nekukudzwa kuve kwaari."
+          "Utonga hwotsvuka,",
+          "Mwoyo unoshuwa :",
+          "Ngaakudzwe Jesu!",
+          "Pabasa ndonamata,",
+          "Kuna Jesu ndoenda ;",
+          "Ngaakudzwe Jesu!"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana dare rorira,",
+          "Pagomo, munhika",
+          "Ngaakudzwe Jesu!",
+          "Inzwai rwiyo rwedare!",
+          "Norufaro rworira;",
+          "Ngaakudzwe Jesu!"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndiri kusuwa here ?",
+          "Ndowana zororo :",
+          "Ngaakudzwe Jesu !",
+          "Rufaro rwopfuura ?",
+          "Asi ndofadzwa neizvi ;",
+          "Ngaakudzwe Jesu!"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Murufaro kudenga,",
+          "Izvi zvondifadza :",
+          "Ngaakudzwe Jesu!",
+          "Nyika,gungwa nedenga,",
+          "Ngaakudzwe Jesu!",
+          "Pasi nedenga ngazviti"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndiri mupenyu, ndirwo",
+          "Rwondoimba rwiyo : Ngaakudzwe Jesu!",
+          "Rwiyo rusingagume,",
+          "Narinhi narinhi wose :",
+          "Ngaakudzwe Jesu!",
+          "trs. Edward Caswall (1814-78)"
         ]
       }
     ],
@@ -14798,15 +18195,61 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 382,
     "number": "382",
     "category": "Salvation",
-    "title": "NDAKAZVISARUDZIRA",
+    "title": "VAKAIMBA RWIYO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndakazvisarudzira kutevera Jesu,",
-          "Handichacheuki, handichacheuki;",
-          "Nyika iri shure kwangu, muchinjikwa uri mberi,",
-          "Handichacheuki, handichacheuki."
+          "Vakaimba rwiyo",
+          "Madeko mutemberi,",
+          "Mwenje waibvira",
+          "Mberi kweAreka;",
+          "Izwi rakabva kudenga",
+          "Rikanzwika mutemberi"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Harahwa yaive",
+          "Muprisita weIzirairi;",
+          "Waichengetedza",
+          "Mwana wemuRevhi;",
+          "Zvaivanzwa kuna Eri",
+          "Mwana waHana waiziva."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndipei nzeve, Ishe,",
+          "Nzeve yaSamueri,",
+          "Inonyatsonzwisa",
+          "Zvinorehwa nemi;",
+          "Ndipindurewo semi,",
+          "Imi nokukutererai."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ndipei mwoyo, Ishe,",
+          "Mwoyo waSamueri",
+          "Unomira mumba",
+          "Nokukurindirai;",
+          "Masikati nousiku,",
+          "Unoita kuda Kwenyu."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndipei pfungwa, Ishe",
+          "Pfungwa inorutendo,",
+          "Igozvipira",
+          "Murufu, muupenyu;",
+          "Ndigoverenga somwana",
+          "Chokwadi chakavanzika."
         ]
       }
     ],
@@ -14816,15 +18259,31 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 383,
     "number": "383",
     "category": "Praise",
-    "title": "NDINOTENDA ISHE",
+    "title": "ZUVA RATSENHUKA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinotenda Ishe nokuponisa mwoyo wangu,",
-          "Ndinotenda Ishe nokundiporesa mwoyo;",
-          "Ndinotenda Ishe nokundipa kune ini,",
-          "Ruponiso rwenyu rukuru uye rwakapfuma."
+          "Zuva ratsenhuka",
+          "Rima rouya;",
+          "Mimvuri yerima Yopararira."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nyenyedzi, murima Dzoonekera;",
+          "Shiri, mhuka, zvose",
+          "Zvichakotsira."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Jesu, chinyaradzai",
+          "Navakaneta;",
+          "Namakomborero,",
+          "Tigokotsira."
         ]
       }
     ],
@@ -14834,15 +18293,64 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 384,
     "number": "384",
     "category": "Worship",
-    "title": "ZUVAI RI RI",
+    "title": "ZUVA RAMATIPA RADOKA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Zuvai riri rakaitwa naJehovah,",
-          "Tichafara nekufadzwa mariri;",
-          "Marudzi ose ngaaimbe rumbidzo dzake,",
-          "Kuremekedzo nesimba tinounza kwaari."
+          "Zuva ramatipa radoka,",
+          "Usiku hwasvika zvino,",
+          "Mangwanani toimba nziyo,",
+          "Torumbidza, tozorora."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Totenda chechi isorara,",
+          "Kuchiyedza misi yose;",
+          "Inorinda nomunamato,",
+          "Haizorore narinhi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kunyika dzose nezvitsuwa,",
+          "Utonga hwounza zuva,",
+          "Kunamata hakungapere,",
+          "Kurumbidza hakugume."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kana kwazoyedza,"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Zuva, hero riri kumutsa",
+          "Ngandimukewo;",
+          "Hama dzedu kwese kwese;",
+          "Ndisina nechivi",
+          "Nguva dzose vanotaura",
+          "Pamberi penyu.",
+          "Nezvishoma zvaMwari.",
+          "S. Baring Gould (1834-1924)"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndizvo, umambo hwenyu, Ishe",
+          "Hauperi sohwepasi",
+          "umambo hwenyu huchagara",
+          "Dakara vose vatenda.",
+          "(b) KUSUMA DZIMBA ITSVA",
+          "NEMAKOWA",
+          "Dedicating New Buildings And Corps"
         ]
       }
     ],
@@ -14870,15 +18378,67 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 386,
     "number": "386",
     "category": "Holiness",
-    "title": "ZADZAI CHOMU KOMBE CHANGU",
+    "title": "MWARI WOGA UNESIMBA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Zadzai mukombe wangu Ishe, ndino usimudza Ishe,",
-          "Uyai mugutse nyota yemwoyo wangu;",
-          "Chingwa chokudenga, ndipei kudzamara ndisachida zvimwe,",
-          "Zadzai mukombe wangu, uizadzei chose ndive mutsvene."
+          "Ishe, onai vanhu"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Mwari onai une simba",
+          "Vane zano ravo,",
+          "Kukomborera mabasa",
+          "Kuvaka imba yenyu,",
+          "Enzvimbo yakakosha,",
+          "Nomuzita renyu",
+          "Izadzwe nomwenje wenyu.",
+          "Hwaro hwayo ngahuve Uchapupu hwedi",
+          "Madziro namasuwo,",
+          "Ngazvikurumbidzei."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tinotenda nenhaka",
+          "Yakatengwa naShe;",
+          "Tirege kuizvidza",
+          "Nokusazvipira.",
+          "Timutsurudze mwoyo",
+          "Kuti isarudze",
+          "Kufamba pakafambwa",
+          "Navatsvene venyu.",
+          "Albert Orsborn (1886-1967)"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Muzita renyu, toisa",
+          "Ibwe iri tichivaka,",
+          "Kubwinya kwenyu kuonekwe.",
+          "Muponisi agokunda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vana vose vemarudzi,",
+          "Vouya kutsvaka idi;",
+          "Vazadze nowenyu mweya",
+          "Vave serimi remoto"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ishe, tipewo rugare Zvitema zvibve kwatiri;",
+          "Chokwadi chenyu chedenga",
+          "Chifadze pasi pose."
         ]
       }
     ],
@@ -14888,15 +18448,39 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 387,
     "number": "387",
     "category": "Love",
-    "title": "MWARI WAKANAKA",
+    "title": "NETARIRO, TINOMISA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mwari wakanaka chose, Mwari wakanaka chose,",
-          "Mwari wakanaka chose, akanaka kwandiri;",
-          "Anopindura munyengetero, anopindura munyengetero,",
-          "Anopindura munyengetero, akanaka kwandiri."
+          "Netariro, tinomisa",
+          "Iri ibwe pamba paShe; Runako nesimba renyu Zvizadze temberi yenyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kana vatadzi votsvaka",
+          "Uso hwenyu, vonamata,",
+          "Vanzwe kudenga kwamuri;",
+          "Manzwa, movaregerera."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kana dama roparidzwa",
+          "RoMwanakomana wenyu,",
+          "Nesimba rezita rake, Paonekwe zvishamiso."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kubwinya kwenyu kusabve",
+          "Nokune dzimwe temberi; Umambo hwenyu huuye Kumarudzi epanyika.",
+          "KURIMA NOKUKOHWA",
+          "Ploughing And Harvesting"
         ]
       }
     ],
@@ -14906,15 +18490,35 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 388,
     "number": "388",
     "category": "Dedication",
-    "title": "PASI PEMUCHINJIKWA",
+    "title": "DYARA MANGWANANI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Pasi pemuchinjikwa pakafi Msindisi wangu,",
-          "Pasi apo ndakachema ndichidavirwa chivi;",
-          "Ipo pamwoyo wangu ropa rakaiswa,",
-          "Kubwinya kuve kuzita rake."
+          "Dyara mangwanani, mbeu dzakanaka,",
+          "Dyara masikati, zvimwe kwadoka,",
+          "Tikagarira kuibva kwembesanwa",
+          "Tichifara kwazvo, kana tokohwa.",
+          "Kana tokohwa, kana tokohwa,",
+          "Tichafara kwazvo, kana takohwa."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Dyara mumimvuri, dyara napazuva",
+          "Usatye makore nokutonhora",
+          "Nguva dzapfuura, kushanda kwapera,",
+          "Tichafara kwazvo, kana tokohwa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Enda zvako zvino udzongerere ‘She",
+          "Nyangwe nokunetswa nokutambudzwa, Kwapera kushanda, achitingura,",
+          "Tichafara kwazvo, kana tokohwa.",
+          "Knowles Shaw (1834-78)"
         ]
       }
     ],
@@ -14924,15 +18528,43 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 389,
     "number": "389",
     "category": "Warfare",
-    "title": "RUFARO MUMWOYO",
+    "title": "NGATIIMBE NZIYO",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Kune rufaro, rufaro, rufaro mumwoyo nanhasi,",
-          "Nokuti Msindisi akashambidza zvivi zvangu zvose;",
-          "Akandipa rugare netariro inopenya chose,",
-          "Uye ndiri kufamba mazuva ose muchiedza chake."
+          "Ngatiimbei nziyo",
+          "Kuna ‘She wegoho,",
+          "Nemwoyo inofara;",
+          "Titi,hareruya !",
+          "Anofambisa mwaka",
+          "Nemichero yawo;",
+          "Ngatiimbirei Ishe,",
+          "Nenziyo dzegoho."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndiye, makore opa,",
+          "Pfumvudza murenje,",
+          "Namakomo ofara,",
+          "Mipata yoimba;",
+          "Anovepo, wozadza",
+          "Zvose zvichawedzerwa",
+          "Gore ropa zvizhinji :",
+          "Runako, rugare."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Isai mberi kwake",
+          "Zvipo zvaapa ;",
+          "Miguri yokukohwa,",
+          "Inopa upenyu;",
+          "Rinzai mwoyo yenyu,",
+          "Patsoka dzake, ‘She; Mumurumbidze, Iye, Wakakufirai."
         ]
       }
     ],
@@ -14942,14 +18574,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 390,
     "number": "390",
     "category": "Invitation",
-    "title": "UYAI KUMUSHA",
+    "title": "TINORIMA, TODYA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Uyai kumusha, uyai kumusha, imi makaneta, uyai kumusha;",
-          "Nemwoyo wose, Jesu anomudana,",
-          "Achidana, O mutadzi, uyai kumusha!"
+          "Tinorima, todyara",
+          "Muvhu, mbeu tsvene;",
+          "Asi dzinodiridzwa",
+          "Noruoko rwaShe;",
+          "Anotumira chando,",
+          "Nokudziisawo,",
+          "Nemwandowo nezuva,",
+          "Zve nebumharutsva."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndiye Musiki wazvo",
+          "Zvose zviri pasi;",
+          "Musiki wemaruva,",
+          "Nayo nyamatsatsi;",
+          "Mhepo, mvura zvomutya,",
+          "Shiri anogutsa;",
+          "Nesuwo vana vake",
+          "Anotipa kudya."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tokutendai, Baba",
+          "Pane zvakanaka,",
+          "Kudyara nokukohwa,",
+          "Upenyu nokudya.",
+          "Gam’chirai zvipo zvedu,",
+          "Ndezve rudo rwenyu",
+          "Izvo zvamunodisa",
+          "Mwoyo inotenda.",
+          "Mathius Claudius (1740-1815)",
+          "trs. Jane Montgomery Campbell (1817-78)"
         ]
       }
     ],
@@ -14959,15 +18624,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 391,
     "number": "391",
     "category": "Prayer",
-    "title": "ISHE NDINODA KUVE MKRISTU",
+    "title": "TORUMBIDZA ‘SHE WEDENGA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe ndinoda kuve Mkristu mumwoyo mangu,",
-          "Ishe ndinoda kuve Mkristu mumwoyo mangu;",
-          "Mumwoyo mangu, mumwoyo mangu,",
-          "Ishe ndinoda kuve Mkristu mumwoyo mangu."
+          "Torumbidza ‘She wedenga,",
+          "Tomutunhidza Iye;",
+          "Norwake ruoko chete,",
+          "Towana goho dzvene.",
+          "Hareruya ! Hareruya !",
+          "Mwari wauya pasi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Rumbidzai Mwari negoho",
+          "Nesu anogovana;",
+          "Ndiye muridzi wazvose,",
+          "Ngative vatendeki.",
+          "Hareruya ! Hareruya !",
+          "Mubasa titeure."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Rumbidzai Mwari anoti :",
+          "Tive hama dzisingarwe; Tidzidzise kugovana Navamwe zvipo zvedu.",
+          "Hareruya ! Hareruya!",
+          "Goho rake rugare."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rumbidzai Mwari neshoko",
+          "Risingazosanduki.",
+          "Murumbidzei ane rudo",
+          "Kunge chingwa chomweya.",
+          "Hareruya ! Hareruya !",
+          "Ngaakudzwe narinhi !",
+          "H.R Moxley (1881-)"
         ]
       }
     ],
@@ -14977,15 +18676,58 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 392,
     "number": "392",
     "category": "Guidance",
-    "title": "NZVIMBO YAKAKWIRIRA",
+    "title": "UYAI, NOKUTENDA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ishe ndisimudzei mundimise,",
-          "Nokutenda, munyika yokudenga,",
-          "Nzvimbo yakakwirira kupfuura yandawana;",
-          "Ishe, dzikamisai tsoka dzangu panzvimbo yakakwirira."
+          "Uyai, nokutenda,",
+          "Nenziyo dzokukohwa;",
+          "Zvose zvaunganidzwe,",
+          "Chando chave kupera.",
+          "Musiki anotipa,",
+          "Zvose zvatinoshaya",
+          "Uyai kumba kwaShe,",
+          "Nenziyo dzokukohwa."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nyika, munda waIshe,",
+          "Mbeu dzose ndedzake;",
+          "Zviyo, sora zvokura,",
+          "Rufaro nokusuwa.",
+          "Tsanga, tevera hura,",
+          "Tevera zvakaibva;",
+          "Tiite isu, Ishe,",
+          "Tive zviyo zvitsvene."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ishe, Mwari wouya,",
+          "Kuti akohwe mbesa;",
+          "Achabisa mumunda",
+          "Zvose zvinonyangadza.",
+          "Nengirozi dzopisa",
+          "Mumoto rose sora;",
+          "Asi dzizere hura,",
+          "Dzichaiswa mudura."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Chiuyai zvino, Ishe,",
+          "Nezvikohwa kumusha;",
+          "Muunganidze venyu,",
+          "Pasina matambudzo.",
+          "Vakacheniswa vose,",
+          "Mumushamo vagare;",
+          "Chiuyayi nengirozi,",
+          "Nezvikohwa kumusha."
         ]
       }
     ],
@@ -14995,15 +18737,34 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 393,
     "number": "393",
     "category": "Assurance",
-    "title": "NDIYO NYAYA YANGU",
+    "title": "UYAI, VARIMI MOSE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndiyo nyaya yangu, ndiwo rumBO rwangu,",
-          "Kurumbidza Msindisi wangu zuva rose;",
-          "Ndiyo nyaya yangu, ndiwo rumBO rwangu,",
-          "Kurumbidza Msindisi wangu zuva rose."
+          "Uyai, varimi mose,",
+          "Negoho rinofadza :",
+          "Chibage, mhunga, koroni,",
+          "Mapfunde, nemanhanga.",
+          "Zvazadzei mutemberi",
+          "YaMwari, Ishe wedu.",
+          "Dzorerai mbeu tsvene",
+          "Nomwoyo yokutenda."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mwari wakatipa minda,",
+          "Nemvura inonaya;",
+          "Vanhu nemhuka dzesango",
+          "Zviwane kurarama.",
+          "Nehove dziri mumvura",
+          "Neshiri dzokudenga;",
+          "Rumbidzai Mwari wenyu,",
+          "Namazwi okufara.",
+          "(d) MIRIPO NEKUZVINYIMA",
+          "Offerings And Self – denial"
         ]
       }
     ],
@@ -15013,13 +18774,61 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 394,
     "number": "394",
     "category": "Worship",
-    "title": "HALELUYA (PFUPI)",
+    "title": "NDIZVOZVO HERE",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Haleluya, Haleluya, Haleluya, Haleluya,",
-          "Haleluya, Haleluya, Haleluya, Haleluya."
+          "Ndizvo here munoda",
+          "Chipo kwandiri, She?",
+          "Ndiudzeiwo kuda kwenyu.",
+          "Ndakomborerwa, ini.",
+          "Handina zvizhinji, Ishe",
+          "Kupa pamusana penyu,",
+          "Handina zvizhinji, Ishe,",
+          "Asi, ‘She, ndezvenyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Munoda kwandiri here",
+          "Chipo chandingape?",
+          "Zvandinazvo ndinokupai",
+          "Vamwe vakomborerwa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Munoda kwandiri here",
+          "Nguva yangu yose?",
+          "Nguva yangu ndinokupai"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mwari wakativimbisa",
+          "Nekuti ndeyenyu.",
+          "Kuti toriritirwa,",
+          "Tikapa ruvimbo rwedu",
+          "Nokutenda kwaari.",
+          "Unganidzai zvikohwo,",
+          "Mumupe sechipiro;",
+          "Dzorerai nokutenda,",
+          "Muchawedzerwa naShe.",
+          "Solomon M. Mutswairo (b. 1924-)"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Munoda kwandiri here",
+          "Mwoyo wechokwadi?",
+          "Ndowenyu, nokuti imi",
+          "Makandirwadzirwa.",
+          "Richard Slater (1854-1939)"
         ]
       }
     ],
@@ -15029,15 +18838,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 395,
     "number": "395",
     "category": "Guidance",
-    "title": "NDITUNGAMIREI (PFUPI)",
+    "title": "NDOMUPEI, MWARI WANGU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Nditungamirei, ndiratidzei nzira munzira yose,",
-          "Nokuti kana mukanditungamira handicharasiki;",
-          "Ishe, dai ndikafamba nemi mazuva ose,",
-          "Nditungamirei, O Ishe, nditungamirei."
+          "Ndomupei, Mwari wangu,",
+          "Netsitsi kwandiri",
+          "Ndichatora zvipo zvake",
+          "Ndokumbira zvimwe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mukombe wengoni dzake",
+          "Ndichaugam’chira,",
+          "Nazvo zvivimbiso zvake,",
+          "Nokubwinya kwake."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mhiko dzangu ndochengeta",
+          "Nomuzita rake,",
+          "Zvandiri nezvandinazvo,",
+          "Ndotaura kwaari"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mwari anorudo",
+          "Muna Ishe Jesu;",
+          "Wakatipa nzira",
+          "Inoenda kudenga."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ngative maari",
+          "Iye wokudenga,",
+          "Titsvage kuziva,",
+          "Tigove nerudo."
         ]
       }
     ],
@@ -15047,13 +18892,56 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 396,
     "number": "396",
     "category": "Holiness",
-    "title": "NDINATSEI (PFUPI)",
+    "title": "UNZAI ZVEGUMI ZVENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndinatsei pazvivi zvangu, Ishe, isai simba renyu mandiri, Ishe,",
-          "Nditorerei sezvandiri, Ishe, mundiite mutsvene."
+          "Unzai zvegumi, zvenyu,",
+          "Patsoka dzoM’ponisi;",
+          "Isai zviripo zvenyu,",
+          "Zvipirei kwaari.",
+          "Chiuyayi vadikanwa,",
+          "Nezvose zvinodiwa,",
+          "Sanganai nesu zvino",
+          "Mumweya wokupira."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ipai mazuva enyu,",
+          "Zvinhu zvamunodisa;",
+          "Dzorerai kuna Mwari,",
+          "Izvo zvamakapiwa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kunyange zvipo zvishoma",
+          "Ipai kuna Mwari;",
+          "Jesu wogam’chira zvose,",
+          "Zvinopirwa chokwadi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mwari wakativimbisa",
+          "Kuzotiropafadza;",
+          "Anozotikomborera,",
+          "Netsitsi togam’chira."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Ishe unoona,",
+          "Barbara Stoddart (1865-1915)",
+          "Mwoyo iratidzwe",
+          "Runako rworudo,",
+          "Nokubwinya kwenyu."
         ]
       }
     ],
@@ -15063,15 +18951,53 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 397,
     "number": "397",
     "category": "Love",
-    "title": "JESU WANGU NDINOKUDAYI (PFUPI)",
+    "title": "IMI, MWARI WEBHETERI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Jesu wangu ndinokudayi, ndinoziva muri wangu,",
-          "Nokuda kwenyu ndinosiya mapenzi ose ezvivi;",
-          "Mununuri wangu akatsvinda, Msindisi wangu ndimi,",
-          "Kana ndati ndambokudayi, Jesu wangu, ndizvozvo zvino."
+          "Imi, Mwari weBheteri,",
+          "Nemi tinogutswa ;",
+          "Namadzibaba murwendo,",
+          "Mavatungamira."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zvivimbiso tinoisa",
+          "‘She, pamberi penyu;",
+          "Mwari, ‘She, wamadzibaba,",
+          "Nezvizvarwa zvavo"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Nomunzira dzine njodzi,",
+          "Mutitungamire;",
+          "Tipei kudya, zvipfeko",
+          "Zvinotikwanira."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tifukudzei mweya wenyu",
+          "Tisadzungaire;",
+          "Kumusha waBaba wedu,",
+          "Mweya izorodzwe."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Maropafadzo enyu, ‘She,",
+          "Tinoakumbira;",
+          "Imi, muri Mwari wedu,",
+          "Nokusingaperi.",
+          "(e) GORE IDZVA",
+          "New Year"
         ]
       }
     ],
@@ -15081,15 +19007,59 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 398,
     "number": "398",
     "category": "Salvation",
-    "title": "NDIZVO NDIDARIWO (PFUPI)",
+    "title": "MWARI WEDU MUBATSIRI",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Ndizvo ndidariwo, ndisina noko kumwe,",
-          "Asi kuti ropa renyu rakadirwa ini;",
-          "Uye kuti munondidana kuti ndiuve kwamuri,",
-          "O Gwayana ra Mwari, ndinouya!"
+          "Mwari wedu mubatsiri,",
+          "Tariro yemberi;",
+          "Chipotero pane dutu,",
+          "Muri musha wedu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pasi pechigaro chenyu",
+          "Vatendi vogara;",
+          "Vochengetwa nemi bedzi,",
+          "Vodzivirwa nemi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Makomo pamwe nenyika",
+          "Zvisati zvasikwa, Makangogara muripo,",
+          "Narinhi narinhi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Chihuru chawo makore",
+          "Angange usiku",
+          "Hwumwechete hwapfuura,",
+          "Richabuda zuva."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Nguva inenge rukova",
+          "Rwunotora zvose;",
+          "Vanoenda sechitoro,",
+          "Chinofa kwayedza."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Mwari wedu mubatsiri,",
+          "Tariro yemberi;",
+          "Tichengetei muupenyu",
+          "Tizogara nemi. Isaac Watts (1674-1784)"
         ]
       }
     ],
@@ -15099,13 +19069,46 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 399,
     "number": "399",
     "category": "Warfare",
-    "title": "MBAMBERI VATENDI (PFUPI)",
+    "title": "NYASHA, NENGONI DZENYU",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Mbamberi, vatendi, muchifamba sehondo,",
-          "Muchinjikwa wa Jesu uchienda mberi."
+          "Nyasha, nengoni dzenyu,",
+          "Mugore riri mberi;",
+          "Tokutendai norwiyo,",
+          "Tinzwei, Jesu, M’nunuri."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mberi kwedu, irima,",
+          "Titungamirei, Ishe;",
+          "Vavengi vane simba,",
+          "Tipei zvombo zvehondo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Munhamo, mukusuwa",
+          "Ivai dombo resimba;",
+          "Kana tashaya nzira,",
+          "Ivaiwo nzira yedu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Titendeke muidi,",
+          "Tive venyu narinhi;",
+          "Tiyamurei kutsunga,",
+          "Tikodzeresei ngundu.",
+          "XI UPENYU HUCHAUYA",
+          "The Life To Come",
+          "(a) RUFU",
+          "Funerals"
         ]
       }
     ],
@@ -15115,15 +19118,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 400,
     "number": "400",
     "category": "Invitation",
-    "title": "UYAI KUNA JESU (PFUPI)",
+    "title": "GARAI NENI, ZUVA",
     "verses": [
       {
         "num": 1,
         "lines": [
-          "Uyai kuna Jesu, uyai kuna Jesu,",
-          "Uyai kuna Jesu zvino zvino;",
-          "Zvino zvino uyai kuna Jesu,",
-          "Uyai kuna Jesu zvino zvino."
+          "Gara neni, zuva ratsenhuka;",
+          "Garai neni, rima zvarasvika :",
+          "Kana vakundi vabatsiri,",
+          "Muyamuri wangu, garai neni !"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Nguva youpenyu inoguma;",
+          "Rufaro rwenyika rwopfuura;",
+          "Nezvinhu zvose zvichazopera,",
+          "Asi, Ishe hamumbopinduka."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndoda muve neni misi yose;",
+          "Ndokunda nengoni dzenyu chete:",
+          "Ndimi bedzi nhungamiri yangu,",
+          "Muna zvose muyamuri wangu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Hapana mhandu ingandityise",
+          "Kana dambudziko nemisodzi;",
+          "Handitye kufa, handitye guva.",
+          "Nemi ndichakunda pakuguma."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Pakufa ngandione M’chinjikwa",
+          "Wakavheneka nzira yeDenga;",
+          "Zuva robuda harichadoka;",
+          "Garai neni zvino, nomukufa."
         ]
       }
     ],
@@ -15133,32 +19172,202 @@ export const HYMNS_SN: HymnLanguage[] = [
     "id": 401,
     "number": "002",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "HUPFUPI HUPENYU HWEDU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Hupfupi hupenyu hwedu,",
+          "Mashoma mazuva edu;",
+          "Tinodisa misi yose,",
+          "Kuregera nzira dzedu;",
+          "Matambudziko nomufaro,",
+          "Zvose zvingashandire ; She",
+          "Noukama hwose hutsva",
+          "Munhamo hungatsveniswe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Asi, zuva richadoka,",
+          "Nerima richasedera,",
+          "Mariri tichaterera;",
+          "Izwi raShe rinonzwika,",
+          "Rinotidaidza mberi,",
+          "Kubva kuzvinhu zvenyika,",
+          "Towoneka nyika sei,",
+          "Nyika iyi yakanaka?"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Voreva zita raJesu,",
+          "Vatsvene vake vanoda;",
+          "Muna iye vanovimba,",
+          "Zvino havazive kutya;",
+          "Murudo vanozvipira,",
+          "Voti : zvakanaka zvose,",
+          "Vafi vopiwa naJesu,",
+          "Hupenyu husingaperi."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
     "id": 402,
     "number": "003",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "KANA KWASVIKA KUFA, WOITEI?",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Kana kwasvika kufa, woitei?",
+          "Usina kunamata, woitei?",
+          "Pamusi’yo wokufa",
+          "Mweya unozobiswa;",
+          "Kuteura kwapera, woitei?"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Iwe uri kuseka, woitei ?",
+          "Parukova rwokufa, woitei ?",
+          "Wokunda here kutya,",
+          "Woti : hazvina mhaka ?",
+          "Kana pasi wonyura, woitei ?"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Iwe usingade ‘She, woitei ?",
+          "Ungazvidzikinure, woitei ?",
+          "Kufa kwakusvikira,",
+          "Zvose zvakundikana,",
+          "Wokonwa kumuwana, woitei ?"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Iwewo mudududzi, woitei ?",
+          "Ungatizire kupi, woitei ?",
+          "Hana yako yorova,",
+          "Kana wave pakufa,",
+          "Nokusazviyamura, woitei ?"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
     "id": 403,
     "number": "006",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "MUMAOKO AJESU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Mumaoko aJesu,",
+          "Pachipfuva chake;",
+          "Mweya uchazorora,",
+          "Nomurudo rwake.",
+          "Ndiri kunzwa ngirozi",
+          "Dzichindiimbira",
+          "Munyika yakanaka",
+          "Yegungwa rorudo.",
+          "Mumaoko aJesu,",
+          "Pachipfuva chake;",
+          "Mweya uchazorora,",
+          "Nomurudo rwake."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mumaoko a Jesu,",
+          "Musina nenhamo;",
+          "Kureko nezviyedzo,",
+          "Kusina zvivi,",
+          "Kusina nokusuwa,",
+          "Zviyedzo hakuna,",
+          "Kana misodzi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "‘She, chipotero changu",
+          "‘She, wakandifira;",
+          "Dombo, pandinomira",
+          "Pandinovimba.",
+          "Ngandive nokushinga",
+          "Pausiku hwose;",
+          "Dakarawo chiedza",
+          "Chindivhenekere."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
     "id": 404,
     "number": "007",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "MUSHANDI WAMWARI,",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Mushandi waMwari,",
+          "Chizorora zvino;",
+          "Wakarwisa wakakunda,",
+          "Pinda murufaro."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Wadaidzwa naShe,",
+          "Wada kupindura;",
+          "Pakarepo wakashaya",
+          "Asina nokutya."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mweya wake wabva,",
+          "Wakasununguka;",
+          "Muviri wake ndokufa,",
+          "Upenyu hwapera."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Rufu rwapfuura,",
+          "Mushando wapera;",
+          "Kurwa kwose kwagumiswa,",
+          "Mweya wazorodzwa."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Mushandi waMwari,",
+          "Tangisa rukudzo",
+          "Kusingapere, narinhi",
+          "Gara naShe wako."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15174,8 +19383,103 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "005",
     "writer": "Catherine Baird (1895-1984)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "TINOENDA KUDENGA UKO",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Nguwo dzako ngadzichene;"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Tinoenda kudenga uko,",
+          "Zvigadzire zvino",
+          "Woenda ?",
+          "Uchamira mberi kwaShe",
+          "Kuimba rudo rwaJsesu,",
+          "Zvigadzire zvino",
+          "Woenda ?",
+          "Vazhinji vakatoenda,",
+          "‘She wangu, ndigadzire",
+          "Nhamo dzavo dzakapera,",
+          "Kuti ndimire mberi kwenyu.",
+          "Kune nzvimbo yavanoda,",
+          "Woenda ?"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndagadzirei, zvino uno,",
+          "Ndimire mberi kwenyu,",
+          "Kuti ndisave nokutya,",
+          "Ndiri mberi kwenyu."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndishambidzei mwoyo, Ishe,",
+          "Ndiri mberi kwenyu,",
+          "Kuzvidza kwangu kubiswe,",
+          "Ndiri mberi kwenyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tinoenda kuona ‘She,",
+          "Woenda ?",
+          "Tichakudza zita rake,",
+          "Woenda ?",
+          "Zuva harichazodoka,",
+          "Mwedzi hauchazodzima,",
+          "Kuchema kuchazopera,",
+          "Woenda ?"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tichafamba muchiedza Woenda?",
+          "Kure norufu nerima,",
+          "Woenda?",
+          "Tichapfekedzwa ngundu ‘ko",
+          "Nenhowo yomukundiwo,",
+          "Kudenga kuno rufaro,",
+          "Woenda?"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Nzira ‘yi iri pachena,",
+          "Woenda?",
+          "Wakafanira kudzoka",
+          "Woenda?",
+          "M’ponisi anodaidza;",
+          "Uya utore M’chinjikwa,",
+          "Nditevera, woponiswa,",
+          "Woenda ?"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ndoda kuti mumwe ati :",
+          "Ndoenda!",
+          "Muchenise nzira imi,",
+          "Ndoenda!",
+          "Sarai mose venyika,",
+          "Nemi handingamboenda,",
+          "NaJesu ndichazogara,",
+          "Ndoenda!",
+          "Richard Jukes (1804-67)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15183,8 +19487,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "006",
     "writer": "Albert Ernest Dalziel (1892-1974)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "TINOENDA KUNYIKA TSVENE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Tinoenda kunyika tsvene kudenga",
+          "Musha wavanofara, nzvimbo yaShe,",
+          "Varasiki vose munzira yokufa;",
+          "Munoda kuenda kudenga here?",
+          "Moenda? Moenda ?",
+          "(pamhidza)",
+          "Munoda kuenda kedenga here?"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mune iyo nyika hakuna kusuwa,",
+          "Munzvimbo yavanogara vatsvene;",
+          "Imi mune mwoyo inotambudzika,",
+          "Munoda kue nda kudenga here?"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Vose vatsvene vagadzirirwa dzimba;",
+          "Vasati vadaidzwa naye, ‘She,",
+          "Misuo yedzimba inopenya kwazvo,",
+          "Munoda kuenda kudenga here?"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Fambai mauto, iri mberi nyika,",
+          "Tichazoimba norufaro rwayo;",
+          "Tichasanganiswa mukupenya kwayo,",
+          "Tichanwa rufaro rwenyika iyoyo.",
+          "Toenda ! Toenda !",
+          "(pamhidza)",
+          "Hungu, toenda kudenga uko."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15192,8 +19539,47 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "007",
     "writer": "Horatius Bonar (1808-89), alt",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "WOUYA, WOUYA MUCHEKI",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Wouya, wouya, mucheki mukuru,",
+          "Vanhu vachaona Ishe wokudenga;",
+          "Vanozogozomutswa vari kumakuva,",
+          "Kuti vaonekwe vose pakachena."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mucheki ndiJesu wakatambudzika",
+          "Kuti vaponiswe norudo rwaBaba",
+          "Avo vakamuda havachatongeswa",
+          "Nokuti vamire naIshe wedenga."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Asi vasingadi kunzwa dama rake,",
+          "Rokuti vadzoke pane chakaipa,",
+          "Vakatozvikona pamberi pom’cheki",
+          "Vakatozvipinza mukutambudzika."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Ngatidzoke tose mukuipa kwedu,",
+          "Tinzwe izwi rake, tinamate tose,",
+          "Ishe ari pano anotsvaka iwe,",
+          "Inguva nazvino, uya, ugam’chire",
+          "(b) RUTONGO NEKUDENGA",
+          "Judgement and Heaven"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15201,8 +19587,54 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "011",
     "writer": "George Herbert (1593-1633)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "DOMBO, NDIPE MESO NDIONE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Dombo, ndipe meso ndione",
+          "Pauzuru kudenga;",
+          "Ndioneko vanoutsvene,",
+          "Vanofara munaShe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Zviya zvavaiva panyika",
+          "Vaichema misodzi; Vaimanikwa nokuedzwa",
+          "Kusina kuzorora."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndakabvunza ivo vakundi ;",
+          "Rabvepi simba renyu?",
+          "Vakati : rabva kuna Iye",
+          "Wakatifira isu."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Vakaona rutsoka rwake",
+          "Rwananga kuupenyu;",
+          "Vakarondedza gwara rake,",
+          "Vazorora kudenga."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Ngaarumbidzwe M’tungamiri",
+          "Nomuratidzo wake;",
+          "Kusashaike muteveri",
+          "Panero gwara rake.",
+          "(MHB)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15210,8 +19642,39 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "013",
     "writer": "Isaac Watts (1674-1748)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "IMI VARWI VOM’CHINJIKWA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Imi varwi voM’chinjikwa,",
+          "Imi munofara;",
+          "Kunyange tikatambudzwa,",
+          "Tosvika kudenga.",
+          "Ngundu yedu towana kum’soro,",
+          "Imi neni towana mubairo,",
+          "Towana m’bairo."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tosiya zvinhu zvenyika,",
+          "Toona zvedenga;",
+          "Jesu anotisimbisa,",
+          "Kuti tigokunda."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kana tasvika kudenga",
+          "Tichafara kwazvo;",
+          "Toona Jesu nehama",
+          "Towana mubairo."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15219,8 +19682,65 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "015",
     "writer": "Christopher Wordsworth (1807-85)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "JERUSAREMA  RINE MUKAKA NOUCHI",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Jerusarema rine",
+          "Mukaka nouchi,",
+          "Tichikurangarira",
+          "Tinogunguzika !",
+          "Handingazive, kwete,",
+          "Rufaro rwuriko;",
+          "Mubwinya kwakadaro",
+          "Kusotaurika."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Dzimba dzomuZioni",
+          "Dzofadza nenziyo;",
+          "Nengirozi dzopenya",
+          "Navatsvene vose;",
+          "NeGwayana ririmo,",
+          "Zuva richipenya,",
+          "Mafur o evatsvene Anopenya kwazvo. 380"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Umambo hwaDhavhidhi",
+          "Hauchamboshushwa",
+          "Kufara kwavakundi",
+          "Voimba vachidya",
+          "Wavo vakakunda;",
+          "Narinhi vachapfeka",
+          "Hanzu dzavo chena."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Isu tinotambura",
+          "Tiri mutariro;",
+          "Zioni ine mhare",
+          "Kurwa neBhabhironi",
+          "Asi tovimba naye,",
+          "Tichazomuona ;",
+          "Navo vanomuziva,",
+          "Vova vake chose."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Vanomutungamiri;"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15228,8 +19748,43 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "019",
     "writer": "Joachim Neander (1650-80), trs Catherine Winkworth (1827-78) and others",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "KANA WARIRA MUMHANZI  WASHE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Kana warira mumhanzi waShe nguva",
+          "yopera.",
+          "Mambakwedza yovheneka narinhi,",
+          "Vakaponiswa pasi vachaungana kuDenga,",
+          "Mazita odaidzwa, ndichavepo.",
+          "Mazita achidaidzwa",
+          "(katatu)",
+          "Mazita achidaidzwa, ndovepo"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Pazuva rokumuka kwavakafa muna",
+          "Kritsu,",
+          "Nokubwinya kwokumuka kwake ‘She",
+          "Vasarudzwa vake vachaungana kudenga",
+          "‘Ko.",
+          "Mazita odaidzwa, ndichavapo."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ngatishandire Ishe dakara zuva radoka.",
+          "Tichiparidza nezve rudo rwake,",
+          "Kana basa redu, noupenyu hwedu",
+          "zvapera,",
+          "Mazita odaidzwa, tichavepo."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15237,8 +19792,48 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "020",
     "writer": "James Montgomery (1771-1854)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "KUNE NYIKA YAKANAKA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Kune nyika yakanaka,",
+          "Yopenya, yopenya!",
+          "Uko hakuna kuipa,",
+          "Yopenya, yopenya!",
+          "Kune nziyo dzokudenga",
+          "Nengirozi dziri uko,",
+          "Namarimba akanaka,",
+          "Yopenya, yopenya!"
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Hakuna makore uko,",
+          "Nyika yorufaro !",
+          "Hakuna misodzi uko,",
+          "Nyika yorufaro!",
+          "Vanonwa mvura yengoni,",
+          "Vachiona Muponisi,",
+          "Kune kupenya kwaari,",
+          "Nyika yorufaro!"
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Zvakaipa nezvikara",
+          "Hazviko, hazviko!",
+          "Rufu kana nokuora,",
+          "Hazviko, hazviko!",
+          "Vose variko vatsvene;",
+          "Asi vasakashambidzwa,",
+          "Navo vasakaponiswa,",
+          "Havako, havako!"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15246,8 +19841,53 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "021",
     "writer": "Nahum Tate (1652-1715) Nicholas Brady (1659-1726)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "KUNE NZVIMBO YEZORORO",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Kune nzvimbo yezororo,",
+          "Pedyo kuna Mwari;",
+          "Nzvimbo isina chitema,",
+          "Pedyo kuna Mwari.",
+          "O!Jesu Mununuri,",
+          "Wakatumwa naShe;",
+          "Utisededze isu,",
+          "Pedyo kuna Mwari."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Kunzvimbo inonyaradza,",
+          "Pedyo kuna Mwari;",
+          "Patinosangana naShe,",
+          "Pedyo kuna Mwari."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Kune nzvimbo yezororo,",
+          "Pedyo kuna Mwari;",
+          "Kurufaro norugare,",
+          "Pedyo kuna Mwari.",
+          "Cleland Boyd Mcfee (1866-1744)"
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Kunyange tiri vatadzi,",
+          "M’ponisi wakafa!",
+          "Nyangwe ngundu tisisina,",
+          "M’ponisi wakafa!",
+          "Tingashambidzwe mavara, Tingagadzwe nokufara",
+          "Tingatonge m’nyika iyo,",
+          "M’ponisi wakafa."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15255,8 +19895,51 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "023",
     "writer": "Charles Wesley (1707-88)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "NDAKAONA GUTA GURU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Ndakaona, guta guru,",
+          "Jerusarema idzva,",
+          "Richibva kudenga kunge",
+          "Mwenga mutsva pamuchato."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Norukova rwoupenyu,",
+          "Ruchiyerera ruchibva",
+          "Kuna Mwari, neGwayana,",
+          "Kuponisa ndudzi dzose."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Izwi rakashevedza , roti :",
+          "Hero guta rake, Ishe",
+          "Ravewo wavanhu musha,",
+          "Wavakanunurwa naShe."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Hakuchina rufu, kana,",
+          "Nedambudzo, nemisodzi, Hakuchina nokurwadzwa, Zvose zvose zvave zvitsva"
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Vakaropafadzwa zvavo",
+          "Vane mazita mabhuku, Vachagara naShe wavo, Dzamara kusingapere.",
+          "Solomon M. Mutswairo (1924-)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15264,8 +19947,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "024",
     "writer": "Charles Wesley (1707-88)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "NDAVANANIKO PEDYO NORUFU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Ndavananiko pedyo norufu,",
+          "Mhiri kweguva rakanyarara,",
+          "Voshevedzera Jesu,",
+          "Vashambidzwa muropa?",
+          "Varikupinda muJerusarema’dzva",
+          "Vakashamba muropa reGwayana",
+          "Varikupinda muJerusarema ’dzva",
+          "Vakashamba muropa."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ava ndivo, muupenyu hwavo,",
+          "Vakawana Jesu,Muponisi",
+          "Voziva ngoni dzake;",
+          "Vashambidzwa muropa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Avo ndivo vakambotambudzwa,",
+          "Vawana rugare muna Jesu,",
+          "Rwoyerera mumwoyo,",
+          "Vashambidzwa muropa."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Avo ndivo, panguva yokurwa,",
+          "Vakamira vachirwa nesimba, Jesu woti : uyai,",
+          "Mashambidzwa muropa.",
+          "Tullius Clinton O.kane (1830-1912)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15273,8 +19997,40 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "008",
     "writer": "James Montgomery (1771-1854)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "NDINO MUSHA UNOKUNDA YOSE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Ndino musha unokunda yose,",
+          "Ndakaratidzwa nzira naIshe’",
+          "Kana ndakasuwa, ndichiedzwa,",
+          "Ndofunga nomusha uyo.",
+          "Kumusha kudenga hatichasiyana,",
+          "Tichafara, zvose zvichibwinya;",
+          "Hakuchave nhamo ne misodzi",
+          "Kumusha wangu uko."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndichaona ‘ko shamwari dzangu Ndakasvika kunyika iyoyo;",
+          "Ndichafara nokuona Jesu,",
+          "Kumusha wangu uko."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ndiani anofamba neni?",
+          "Jesu wakavafira vatadzi;",
+          "Uya kwaari, wakagadzira",
+          "Nzvimbo kumusha uko.",
+          "Ada Mary Nisbett (1866-1931)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15282,8 +20038,60 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "025",
     "writer": "Sidney E. Cox (1887-1954)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "TINOSIYA NYIKA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Tinosiya nyika,",
+          "Toenda kudenga",
+          "Nhano nenhano toenda,",
+          "(pamhidza)",
+          "Kunyika yeZion.",
+          "(pamhidza)",
+          "Toenda kuZion,",
+          "Kunyika yakanakisa,",
+          "Toenda nehondo kuZion",
+          "Kunyika yaMwari wedu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tichiona guta,",
+          "Nenziyo tichanzwa,",
+          "Dzavakundi vachiimba,",
+          "Nehondo ikoko."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Masuo mapamhi,",
+          "She wotungamira ,",
+          "Toimba dzoruponiso",
+          "Nziyo dzokukunda."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Pedyo norukova,",
+          "She wotungamira,",
+          "Toimba dzoruponiso",
+          "Nziyo dzokukunda."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Mureza womiswa,",
+          "Tofamba kukunda,",
+          "Hondo ichatungamirwa",
+          "Kunyika yeZion"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15291,8 +20099,50 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "026",
     "writer": "Henry Smith (b 1952)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "ZION, GUTA RAMWARI",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Zion, guta raMwari,",
+          "Rinorumbidzwa kwazvo;",
+          "Uri guta rakavakwa",
+          "Neizwi rine idi.",
+          "Padombo wakavakirwa,",
+          "Ungazunguzwe nei?",
+          "Norusvingo wakakombwa",
+          "Woseka mhandu dzose."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Hona , hova dzoupenyu,",
+          "Dzotubuka murudo;",
+          "Dzichigutsa vana vako",
+          "Kutya kwose kwobisa",
+          "Ndianiko angaziye",
+          "Kana kufa nenyota?",
+          "Ngoni dzinopihwa naShe",
+          "Hadzigume narinhi."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Ishe, kana muZioni",
+          "Ndiri nhengo yeguta,",
+          "Nyika ngaiseke zvayo",
+          "Ndokurumbidza bedzi,",
+          "Zvinofadza zvinodzima,",
+          "Kudada nokuzvida;",
+          "Nezvibvuwo zvorufaro",
+          "Ndezve vana veZion.",
+          "XII DZENYIKA YEDU",
+          "For Our Country"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15300,8 +20150,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "029",
     "writer": "Frederick William Faber (1814-63)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "KWAURI NYIKA YANGU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Kwauri nyika yangu,",
+          "Meso orindira;",
+          "Norudo votarisa,",
+          "Vofadzwa vochema,",
+          "Zita rako, humambo",
+          "Muzvipfuva zvedu:",
+          "Mushonga mukurwara",
+          "Rudo, noupenyu."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Ndowoyo chete musha, Guta rorufaro!",
+          "Misodzi hakuchina,",
+          "Bedzi nyemwerero!",
+          "Kubwinya kwoM’chinjikwa",
+          "Naye muroverwi;",
+          "Vanopembedza ngoni,",
+          "Vanunurwi vaShe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Hakuchisina gungwa,",
+          "Nguva, kana zuva!",
+          "Kana nekasipiti",
+          "Kavo vanofamba!",
+          "Padombo iri rekare",
+          "Vomisa nharire.",
+          "Chipembedzo chom’kundi,",
+          "Chipo choutsvene.",
+          "Bernard of Cluny, 12th C.",
+          "Trans. John Mason Beale (1818 -99)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15309,8 +20200,64 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "032",
     "writer": "Josiah Conder (1789-1855)",
     "category": "God the Father",
-    "title": "",
-    "verses": [],
+    "title": "NYIKA YECHIZVARWA CHEDU",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Nyika yechizvarwa chedu,",
+          "Tokupira simba redu Pamakore tayaruka, Sevarume nevakadzi. 2. Baba munodisa vose;",
+          "Inzwaiwo vana venyu;",
+          "Zera risina kuipa.",
+          "Nhaka isina kuipa."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Titakure joko redu",
+          "Muuduku nokutsunga;",
+          "Munguva yedu tipiwe",
+          "Idi rinovaka rudzi."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Tidzidzisei kuzvitonga ,",
+          "Usiku nemasikati;",
+          "Kuti tipire kwamuri",
+          "Zvibayiro zvakakwana."
+        ]
+      },
+      {
+        "num": 5,
+        "lines": [
+          "Tidzidzisei kutarisa",
+          "Kwamuri, kwete kuhama;",
+          "Nemi tifambe munzira",
+          "Tisingatye voruzhinji."
+        ]
+      },
+      {
+        "num": 6,
+        "lines": [
+          "Tidzidzisei simba renyu,",
+          "Risingakuvadze munhu",
+          "Kuti nemi tigopiwa",
+          "Simba kunyaradza vamwe."
+        ]
+      },
+      {
+        "num": 7,
+        "lines": [
+          "Tidzidzisei kufarira",
+          "Rufaro rusina shungu;",
+          "Tigopa ruregerero",
+          "Norudo kuvanhu vose."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15318,8 +20265,49 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "033",
     "writer": "Paul Gerhardt (1607-76), trs Catherine Winkworth (1827-78)",
     "category": "God the Son",
-    "title": "",
-    "verses": [],
+    "title": "NGAIKOMBORERWE NYIKA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Simudzai mureza wedu weZimbabwe.",
+          "Yakazvarwa nomoto wechimurenga;",
+          "Neropa zhinji ramagamba,",
+          "Tiidzivirire kumhandu dzose;",
+          "Ngaikomborerwe nyika yeZimbabwe."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tarisai Zimbabwe nyikaya kashongedzwa",
+          "Namakomo nehova zvinoyevedza",
+          "Mvura ngainaye minda ipe mbesa",
+          "Vashandi vatuswe ruzhinji rugutswe",
+          "Ngaikomborerwe nyika yeZimbabwe."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mwari ropafadza nyika yeZimbabwe:",
+          "Nyika yamadzitateguru edu tose;",
+          "kubva Zambezi kusvika Limpopo,",
+          "Navatungamiri vave nenduramo;",
+          "Ngaikomborerwe nyika yeZimbabwe.",
+          "Solomon M. Mutswairo (b.1924)"
+        ]
+      },
+      {
+        "num": 8,
+        "lines": [
+          "Nyika yechizvarwa chedu, Yakafira madzibaba;",
+          "Nyika yedu, tokupirai",
+          "Zvose, makore emberi.",
+          "Rudyard Kipling (1865-1936)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15327,8 +20315,24 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "042",
     "writer": "James Montgomery (1771-1854)",
     "category": "God the Son",
-    "title": "",
-    "verses": [],
+    "title": "ISHE KOMBORERAI AFRICA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Ishe komborerai Africa,",
+          "Ngaisimudzirwe zita rayo,",
+          "Inzwai miteuro yedu,",
+          "Ishe,komborera isu mhuri yayo.",
+          "Uya Mweya, (Uya Mweya komborera) Uya Mweya, (Uya Mweya komborera)",
+          "Uya Mweya,uya Mweya woutsvene,",
+          "Utikomborere isu, mhuri yayo.",
+          "XIII MABHENEDHIKISHENI",
+          "NOKUONEKANA",
+          "Benedictions And Farewells"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15336,8 +20340,78 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "103",
     "writer": "St Theodulph of Orleans (c 820), trs John Mason Neale (1818-66)",
     "category": "God the Son",
-    "title": "",
-    "verses": [],
+    "title": "IVAI PAKUDYA, ISHE",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Ivai pakudya, Ishe,",
+          "Murumbidzwe kwese kwese;",
+          "Komborerai, tizodya",
+          "Nemi muParadhaisi."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Tokutendai nokudya,",
+          "Noupenyu, noutano;",
+          "Tigutsei noruoko,",
+          "Nokudya zuva nezuva."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Tokutendai nokudya ,",
+          "Kwamatipa nhasi uno;",
+          "Ipai mana kwatiri",
+          "Chingwa chinobva kudenga.",
+          "Stanza 2, altd",
+          "425 MWARI ATISANGANISEZVE God Be With You God be with you, 506; Randolph,292"
+        ]
+      },
+      {
+        "num": 1,
+        "lines": [
+          "Mwari atisanganisezve",
+          "Murayirwe, mutsigirwe, Sehwai dzedanga rake; Mwari atisanganisezve.",
+          "Tisanganezve, tisangane",
+          "Patsoka dzaJesu Ishe",
+          "Tisanganezve, tisangane",
+          "Mwari atisanganise zve."
+        ]
+      },
+      {
+        "num": 2,
+        "lines": [
+          "Mwari atisanganisezve,",
+          "Muvanzwe mumapapiro,",
+          "Mugutswe mazuva ose,",
+          "Mwari atisanganisezve."
+        ]
+      },
+      {
+        "num": 3,
+        "lines": [
+          "Mwari atisanganisezve,",
+          "Kana mawirwa nenjodzi,",
+          "Mofungatwa muruoko;",
+          "Mwari atisanganisezve."
+        ]
+      },
+      {
+        "num": 4,
+        "lines": [
+          "Mwari atisanganisezve,",
+          "Mufukidzwe rudo rwake,",
+          "Mugokunda kutya rufu,",
+          "Mwari atisanganisezve.",
+          "Jeremiah Eames Rankin",
+          "(1828-1904)"
+        ]
+      }
+    ],
     "chorus": null
   },
   {
@@ -15354,8 +20428,20 @@ export const HYMNS_SN: HymnLanguage[] = [
     "number": "159",
     "writer": "Christopher Wordsworth (1807-85)",
     "category": "God the Son",
-    "title": "",
-    "verses": [],
+    "title": "RUMBIDZAI MWARI WEDENGA",
+    "verses": [
+      {
+        "num": 1,
+        "lines": [
+          "Rumbidzai Mwari wedenga,",
+          "Imi zvisikwa zvepasi;",
+          "Nokudenga, rumbidzai",
+          "Baba, Mwana, Mweya",
+          "M’tsvene.",
+          "Amen."
+        ]
+      }
+    ],
     "chorus": null
   },
   {
