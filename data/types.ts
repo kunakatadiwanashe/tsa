@@ -17,6 +17,16 @@ export interface HymnSection {
   chorus: { lines: string[] } | null;
 }
 
+export interface HymnLanguage {
+  id: number;
+  number: string;
+  title: string;
+  verses: Verse[];
+  chorus: { lines: string[] } | null;
+  writer?: string;
+  category?: string;
+}
+
 export interface Hymn {
   id: number;
   number: string;
